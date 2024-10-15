@@ -1,0 +1,112 @@
+[
+  {
+    "BransKodu": 1,
+    "BransAdi": "Trafik",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 2,
+    "BransAdi": "Kasko",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 3,
+    "BransAdi": "Kaza-OtoDışı",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 4,
+    "BransAdi": "Sağlık",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 5,
+    "BransAdi": "Hayat",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 6,
+    "BransAdi": "Yangın",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 7,
+    "BransAdi": "Nakliyat",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 8,
+    "BransAdi": "Tam. Sağlık",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 9,
+    "BransAdi": "Mühendislik",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 10,
+    "BransAdi": "Sorumluluk",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 11,
+    "BransAdi": "DASK",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 12,
+    "BransAdi": "Tarım",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 13,
+    "BransAdi": "Tekne",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 14,
+    "BransAdi": "Ferdi Kaza",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 15,
+    "BransAdi": "Hukuksal Koruma",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 16,
+    "BransAdi": "Kredi",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 17,
+    "BransAdi": "BES",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 19,
+    "BransAdi": "Grup Hayat",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 20,
+    "BransAdi": "Yıllık Hayat",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 21,
+    "BransAdi": "Seyahat Sağlık",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 22,
+    "BransAdi": "Konut",
+    "Durum": 1
+  },
+  {
+    "BransKodu": 23,
+    "BransAdi": "İşyeri",
+    "Durum": 1
+  }
+]

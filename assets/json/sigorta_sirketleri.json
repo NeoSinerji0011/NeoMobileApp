@@ -1,0 +1,572 @@
+[
+  {
+    "SirketKodu": "002",
+    "SirketAdi": "EUREKO SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "0080067525",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/eureko-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "004",
+    "SirketAdi": "AK SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "0350003022",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/ak-sigorta.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "005",
+    "SirketAdi": "GULF  SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "8710523623",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/gulf-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "007",
+    "SirketAdi": "ANADOLU ANONİM TÜRK SİGORTA ŞİRKETİ",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "0680061327",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/anadolu-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "009",
+    "SirketAdi": "ANKARA ANONİM TÜRK SİGORTA ŞİRKETİ",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "0690039706",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/ankara-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "011",
+    "SirketAdi": "GROUPAMA SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "1440037893",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/groupama-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "015",
+    "SirketAdi": "HALK SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "1780029356",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/halk-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "017",
+    "SirketAdi": "UNICO SIGORTA A.S.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "2110060675\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/unico-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "018",
+    "SirketAdi": "ZURICH SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "8330076811\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/zurich-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "019",
+    "SirketAdi": "CORPUS SİGORTA",
+    "VergiDairesi": "Boğaziçi Kurumlar\r\n",
+    "VergiNumarasi": "2780078882",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/demir-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "025",
+    "SirketAdi": "GENERALİ SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "3940006031",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/generali-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "026",
+    "SirketAdi": "GÜNEŞ SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "4340056984",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/gunes-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "035",
+    "SirketAdi": "ERGO SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "4810055676",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/ergo-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "036",
+    "SirketAdi": "MAGDEBURGER SİGORTA",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "4810055623",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/magde-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "038",
+    "SirketAdi": "ACIBADEM SAĞLIK VE HAYAT SİGORTA",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "1530036198\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/acibadem-sigorta.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "040",
+    "SirketAdi": "AXA SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "6490039946",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/axa-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "042",
+    "SirketAdi": "RAY SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "7340039798",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/ray-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "045",
+    "SirketAdi": "ALLIANZ SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "8000013270",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/allianz-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "047",
+    "SirketAdi": "LIBERTY SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "8010046566",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/liberty-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "049",
+    "SirketAdi": "SBN SİGORTA A.Ş.",
+    "VergiDairesi": "Beyoğlu",
+    "VergiNumarasi": "8440013568",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/sbn-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "050",
+    "SirketAdi": "MAPFRE SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "8790018869",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/mapfregenel-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "051",
+    "SirketAdi": "TÜRK NİPPON SİGORTA A.Ş.",
+    "VergiDairesi": "Anadolu Kurumlar",
+    "VergiNumarasi": "8760048993",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/turknippon-logo2.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "054",
+    "SirketAdi": "HDI SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "4700032959",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/hdi-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "061",
+    "SirketAdi": "SOMPO JAPAN SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "3870197553",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/sompojapan-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "063",
+    "SirketAdi": "DUBAİ STARR SİGORTA A.Ş.",
+    "VergiDairesi": "Üsküdar",
+    "VergiNumarasi": "3130548291",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/dubaistar-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "092",
+    "SirketAdi": "ZİRAAT SİGORTA A.Ş.",
+    "VergiDairesi": "Marmara Kurumlar",
+    "VergiNumarasi": "9980712081",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/ziraat-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "093",
+    "SirketAdi": "NEOVA SİGORTA A.Ş.",
+    "VergiDairesi": "Erenköy",
+    "VergiNumarasi": "4550331863",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/neova-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "096",
+    "SirketAdi": "S.S. KORU SİGORTA KOOPERATİF",
+    "VergiDairesi": "Beykoz",
+    "VergiNumarasi": "5800414427",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/koru-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "104",
+    "SirketAdi": "S.S.DOĞA SİGORTA KOOPERATİF",
+    "VergiDairesi": "Maslak\r\n",
+    "VergiNumarasi": "3020556222",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/doga-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "106",
+    "SirketAdi": "ORIENT SİGORTA ANONİM ŞİRKETİ",
+    "VergiDairesi": "Erenköy\r\n",
+    "VergiNumarasi": "6470345600",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/orient-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "200",
+    "SirketAdi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "8000013270\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/allianz-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "201",
+    "SirketAdi": "ETHICA SİGORTA",
+    "VergiDairesi": "Kozyatağı\r\n",
+    "VergiNumarasi": "3810459153\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/ethica-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "202",
+    "SirketAdi": "QUICK SİGORTA",
+    "VergiDairesi": "Maslak\r\n",
+    "VergiNumarasi": "3450249570",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/quick-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "203",
+    "SirketAdi": "SBM ONLİNE",
+    "VergiDairesi": null,
+    "VergiNumarasi": null,
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/sbm-logo.png",
+    "UygulamaKodu": 2,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "204",
+    "SirketAdi": "FIBA EMEKLILIK",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "3960599523\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/fibaemeklilik-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "206",
+    "SirketAdi": "BEREKET SİGORTA",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "4670058442\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/bereket-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "207",
+    "SirketAdi": "UNİCO KASKO",
+    "VergiDairesi": null,
+    "VergiNumarasi": null,
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/unico-logo.png",
+    "UygulamaKodu": 2,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "209",
+    "SirketAdi": "AEGON EMEKLİLİK VE HAYAT A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "0690102634",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/aegon-hayat-emeklilik-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "210",
+    "SirketAdi": "ANADOLU HAYAT EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "0680064936\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/anadolu-hayat-emeklilik-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "211",
+    "SirketAdi": "AvivaSA EMEKLİLİK VE HAYAT A.Ş.",
+    "VergiDairesi": null,
+    "VergiNumarasi": null,
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/avivasa-emeklilik.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "212",
+    "SirketAdi": "AXA HAYAT EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "0920000019\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/axa-hayat-emeklilik-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "213",
+    "SirketAdi": "BEREKET EMEKLİLİK VE HAYAT A.Ş.",
+    "VergiDairesi": "Ümraniye\r\n",
+    "VergiNumarasi": "0910513748\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/bereket-emeklilik-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "214",
+    "SirketAdi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "3060067283",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/bnp-paribas-cardif-emeklilik-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "215",
+    "SirketAdi": "BNP PARİBAS CARDİF  HAYAT A.Ş.",
+    "VergiDairesi": "Beyoğlu",
+    "VergiNumarasi": "2030286530",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/bnp-paribas-cardif-hayat-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "216",
+    "SirketAdi": "CIGNA FİNANS EMEKLİLİK VE HAYAT A.Ş.",
+    "VergiDairesi": "Anadolu Kurumlar\r\n",
+    "VergiNumarasi": "3880583115\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/cigna-finans-emeklilik-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "217",
+    "SirketAdi": "DEMİR HAYAT A.Ş.",
+    "VergiDairesi": "Mecidiyeköy\r\n",
+    "VergiNumarasi": "2780067385\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/demirhayat-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "218",
+    "SirketAdi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "0080067509\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/garanti-emeklilik-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "219",
+    "SirketAdi": "GROUPAMA EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler",
+    "VergiNumarasi": "1440057715",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/groupama-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "220",
+    "SirketAdi": "HALK EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "1780118867",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/halk-emeklilik-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "221",
+    "SirketAdi": "KATILIM EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Alemdağ\r\n",
+    "VergiNumarasi": "5280641047\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/katilim-emeklilik-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "222",
+    "SirketAdi": "MAPFRE YAŞAM SİGORTA A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "3940072280\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/mapfre-yasam-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "223",
+    "SirketAdi": "MetLife EMEKLİLİK VE HAYAT A.Ş.",
+    "VergiDairesi": null,
+    "VergiNumarasi": null,
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/MetLife-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "224",
+    "SirketAdi": "NEW LIFE YAŞAM SİGORTA A.Ş.",
+    "VergiDairesi": null,
+    "VergiNumarasi": null,
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/newlife-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "225",
+    "SirketAdi": "NN HAYAT VE EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "6490334450\r\n",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/nnhayat-emeklilik.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "226",
+    "SirketAdi": "VAKIF EMEKLİLİK A.Ş.",
+    "VergiDairesi": "Büyük Mükellefler\r\n",
+    "VergiNumarasi": "4340051452",
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/vakif-emeklilik-logo.jpg",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "227",
+    "SirketAdi": "ZİRAAT EMEKLİLİK A.Ş.",
+    "VergiDairesi": null,
+    "VergiNumarasi": null,
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/ziraat-emeklilik-logo.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  },
+  {
+    "SirketKodu": "230",
+    "SirketAdi": "ATLAS SİGORTA",
+    "VergiDairesi": null,
+    "VergiNumarasi": null,
+    "SirketLogo": "https://neoonlinestrg.blob.core.windows.net/sirket-logo/atlas-sigorta.png",
+    "UygulamaKodu": null,
+    "Telefon": "02123256800",
+    "Email": "bilgi@neosinerji.com.tr"
+  }
+]

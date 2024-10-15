@@ -1,0 +1,412 @@
+[
+  {
+    "IlKodu": "01",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ADANA"
+  },
+  {
+    "IlKodu": "02",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ADIYAMAN"
+  },
+  {
+    "IlKodu": "03",
+    "UlkeKodu": "TUR",
+    "IlAdi": "AFYON"
+  },
+  {
+    "IlKodu": "04",
+    "UlkeKodu": "TUR",
+    "IlAdi": "AGRI"
+  },
+  {
+    "IlKodu": "05",
+    "UlkeKodu": "TUR",
+    "IlAdi": "AMASYA"
+  },
+  {
+    "IlKodu": "06",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ANKARA"
+  },
+  {
+    "IlKodu": "07",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ANTALYA"
+  },
+  {
+    "IlKodu": "08",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ARTVIN"
+  },
+  {
+    "IlKodu": "09",
+    "UlkeKodu": "TUR",
+    "IlAdi": "AYDIN"
+  },
+  {
+    "IlKodu": "10",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BALIKESIR"
+  },
+  {
+    "IlKodu": "11",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BILECIK"
+  },
+  {
+    "IlKodu": "12",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BINGÖL"
+  },
+  {
+    "IlKodu": "13",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BITLIS"
+  },
+  {
+    "IlKodu": "14",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BOLU"
+  },
+  {
+    "IlKodu": "15",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BURDUR"
+  },
+  {
+    "IlKodu": "16",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BURSA"
+  },
+  {
+    "IlKodu": "17",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ÇANAKKALE"
+  },
+  {
+    "IlKodu": "18",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ÇANKIRI"
+  },
+  {
+    "IlKodu": "19",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ÇORUM"
+  },
+  {
+    "IlKodu": "20",
+    "UlkeKodu": "TUR",
+    "IlAdi": "DENIZLI"
+  },
+  {
+    "IlKodu": "21",
+    "UlkeKodu": "TUR",
+    "IlAdi": "DIYARBAKIR"
+  },
+  {
+    "IlKodu": "22",
+    "UlkeKodu": "TUR",
+    "IlAdi": "EDIRNE"
+  },
+  {
+    "IlKodu": "23",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ELAZIG"
+  },
+  {
+    "IlKodu": "24",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ERZINCAN"
+  },
+  {
+    "IlKodu": "25",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ERZURUM"
+  },
+  {
+    "IlKodu": "26",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ESKISEHIR"
+  },
+  {
+    "IlKodu": "27",
+    "UlkeKodu": "TUR",
+    "IlAdi": "GAZIANTEP"
+  },
+  {
+    "IlKodu": "28",
+    "UlkeKodu": "TUR",
+    "IlAdi": "GIRESUN"
+  },
+  {
+    "IlKodu": "29",
+    "UlkeKodu": "TUR",
+    "IlAdi": "GÜMÜSHANE"
+  },
+  {
+    "IlKodu": "30",
+    "UlkeKodu": "TUR",
+    "IlAdi": "HAKKARI"
+  },
+  {
+    "IlKodu": "31",
+    "UlkeKodu": "TUR",
+    "IlAdi": "HATAY"
+  },
+  {
+    "IlKodu": "32",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ISPARTA"
+  },
+  {
+    "IlKodu": "33",
+    "UlkeKodu": "TUR",
+    "IlAdi": "MERSIN"
+  },
+  {
+    "IlKodu": "34",
+    "UlkeKodu": "TUR",
+    "IlAdi": "İSTANBUL"
+  },
+  {
+    "IlKodu": "35",
+    "UlkeKodu": "TUR",
+    "IlAdi": "IZMIR"
+  },
+  {
+    "IlKodu": "36",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KARS"
+  },
+  {
+    "IlKodu": "37",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KASTAMONU"
+  },
+  {
+    "IlKodu": "38",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KAYSERI"
+  },
+  {
+    "IlKodu": "39",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KIRKLARELI"
+  },
+  {
+    "IlKodu": "40",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KIRSEHIR"
+  },
+  {
+    "IlKodu": "41",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KOCAELI"
+  },
+  {
+    "IlKodu": "42",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KONYA"
+  },
+  {
+    "IlKodu": "43",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KÜTAHYA"
+  },
+  {
+    "IlKodu": "44",
+    "UlkeKodu": "TUR",
+    "IlAdi": "MALATYA"
+  },
+  {
+    "IlKodu": "45",
+    "UlkeKodu": "TUR",
+    "IlAdi": "MANISA"
+  },
+  {
+    "IlKodu": "46",
+    "UlkeKodu": "TUR",
+    "IlAdi": "K.MARAS"
+  },
+  {
+    "IlKodu": "47",
+    "UlkeKodu": "TUR",
+    "IlAdi": "MARDIN"
+  },
+  {
+    "IlKodu": "48",
+    "UlkeKodu": "TUR",
+    "IlAdi": "MUGLA"
+  },
+  {
+    "IlKodu": "49",
+    "UlkeKodu": "TUR",
+    "IlAdi": "MUS"
+  },
+  {
+    "IlKodu": "50",
+    "UlkeKodu": "TUR",
+    "IlAdi": "NEVSEHIR"
+  },
+  {
+    "IlKodu": "51",
+    "UlkeKodu": "TUR",
+    "IlAdi": "NIGDE"
+  },
+  {
+    "IlKodu": "52",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ORDU"
+  },
+  {
+    "IlKodu": "53",
+    "UlkeKodu": "TUR",
+    "IlAdi": "RIZE"
+  },
+  {
+    "IlKodu": "54",
+    "UlkeKodu": "TUR",
+    "IlAdi": "SAKARYA"
+  },
+  {
+    "IlKodu": "55",
+    "UlkeKodu": "TUR",
+    "IlAdi": "SAMSUN"
+  },
+  {
+    "IlKodu": "56",
+    "UlkeKodu": "TUR",
+    "IlAdi": "SIIRT"
+  },
+  {
+    "IlKodu": "57",
+    "UlkeKodu": "TUR",
+    "IlAdi": "SINOP"
+  },
+  {
+    "IlKodu": "58",
+    "UlkeKodu": "TUR",
+    "IlAdi": "SIVAS"
+  },
+  {
+    "IlKodu": "59",
+    "UlkeKodu": "TUR",
+    "IlAdi": "TEKIRDAG"
+  },
+  {
+    "IlKodu": "60",
+    "UlkeKodu": "TUR",
+    "IlAdi": "TOKAT"
+  },
+  {
+    "IlKodu": "61",
+    "UlkeKodu": "TUR",
+    "IlAdi": "TRABZON"
+  },
+  {
+    "IlKodu": "62",
+    "UlkeKodu": "TUR",
+    "IlAdi": "TUNCELI"
+  },
+  {
+    "IlKodu": "63",
+    "UlkeKodu": "TUR",
+    "IlAdi": "SANLIURFA"
+  },
+  {
+    "IlKodu": "64",
+    "UlkeKodu": "TUR",
+    "IlAdi": "USAK"
+  },
+  {
+    "IlKodu": "65",
+    "UlkeKodu": "TUR",
+    "IlAdi": "VAN"
+  },
+  {
+    "IlKodu": "66",
+    "UlkeKodu": "TUR",
+    "IlAdi": "YOZGAT"
+  },
+  {
+    "IlKodu": "67",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ZONGULDAK"
+  },
+  {
+    "IlKodu": "68",
+    "UlkeKodu": "TUR",
+    "IlAdi": "AKSARAY"
+  },
+  {
+    "IlKodu": "69",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BAYBURT"
+  },
+  {
+    "IlKodu": "70",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KARAMAN"
+  },
+  {
+    "IlKodu": "71",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KIRIKKALE"
+  },
+  {
+    "IlKodu": "72",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BATMAN"
+  },
+  {
+    "IlKodu": "73",
+    "UlkeKodu": "TUR",
+    "IlAdi": "SIRNAK"
+  },
+  {
+    "IlKodu": "74",
+    "UlkeKodu": "TUR",
+    "IlAdi": "BARTIN"
+  },
+  {
+    "IlKodu": "75",
+    "UlkeKodu": "TUR",
+    "IlAdi": "ARDAHAN"
+  },
+  {
+    "IlKodu": "76",
+    "UlkeKodu": "TUR",
+    "IlAdi": "IGDIR"
+  },
+  {
+    "IlKodu": "77",
+    "UlkeKodu": "TUR",
+    "IlAdi": "YALOVA"
+  },
+  {
+    "IlKodu": "78",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KARABÜK"
+  },
+  {
+    "IlKodu": "79",
+    "UlkeKodu": "TUR",
+    "IlAdi": "KILIS"
+  },
+  {
+    "IlKodu": "80",
+    "UlkeKodu": "TUR",
+    "IlAdi": "OSMANIYE"
+  },
+  {
+    "IlKodu": "81",
+    "UlkeKodu": "TUR",
+    "IlAdi": "DÜZCE"
+  },
+  {
+    "IlKodu": "999",
+    "UlkeKodu": "000",
+    "IlAdi": "DIGER"
+  }
+]

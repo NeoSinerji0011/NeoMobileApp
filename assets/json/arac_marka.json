@@ -1,0 +1,606 @@
+[
+  {
+    "MarkaKodu": "003",
+    "MarkaAdi": "ALFA ROMEO"
+  },
+  {
+    "MarkaKodu": "007",
+    "MarkaAdi": "ANADOL"
+  },
+  {
+    "MarkaKodu": "008",
+    "MarkaAdi": "ASTON MARTIN"
+  },
+  {
+    "MarkaKodu": "009",
+    "MarkaAdi": "AUDI"
+  },
+  {
+    "MarkaKodu": "011",
+    "MarkaAdi": "ROVER"
+  },
+  {
+    "MarkaKodu": "018",
+    "MarkaAdi": "SAAB"
+  },
+  {
+    "MarkaKodu": "019",
+    "MarkaAdi": "SEAT"
+  },
+  {
+    "MarkaKodu": "021",
+    "MarkaAdi": "BMW"
+  },
+  {
+    "MarkaKodu": "025",
+    "MarkaAdi": "BUICK"
+  },
+  {
+    "MarkaKodu": "027",
+    "MarkaAdi": "BMC"
+  },
+  {
+    "MarkaKodu": "030",
+    "MarkaAdi": "DAEWOO"
+  },
+  {
+    "MarkaKodu": "031",
+    "MarkaAdi": "CADILLAC"
+  },
+  {
+    "MarkaKodu": "032",
+    "MarkaAdi": "CHEVROLET"
+  },
+  {
+    "MarkaKodu": "033",
+    "MarkaAdi": "CHRYSLER"
+  },
+  {
+    "MarkaKodu": "034",
+    "MarkaAdi": "CITROEN"
+  },
+  {
+    "MarkaKodu": "040",
+    "MarkaAdi": "DAF"
+  },
+  {
+    "MarkaKodu": "043",
+    "MarkaAdi": "DAIHATSU"
+  },
+  {
+    "MarkaKodu": "045",
+    "MarkaAdi": "DODGE/USA"
+  },
+  {
+    "MarkaKodu": "050",
+    "MarkaAdi": "FERRARI"
+  },
+  {
+    "MarkaKodu": "052",
+    "MarkaAdi": "FIAT"
+  },
+  {
+    "MarkaKodu": "053",
+    "MarkaAdi": "FORD/OTOSAN"
+  },
+  {
+    "MarkaKodu": "061",
+    "MarkaAdi": "HONDA"
+  },
+  {
+    "MarkaKodu": "066",
+    "MarkaAdi": "ISUZU"
+  },
+  {
+    "MarkaKodu": "080",
+    "MarkaAdi": "LANCIA"
+  },
+  {
+    "MarkaKodu": "082",
+    "MarkaAdi": "LINCOLN"
+  },
+  {
+    "MarkaKodu": "083",
+    "MarkaAdi": "LADA"
+  },
+  {
+    "MarkaKodu": "086",
+    "MarkaAdi": "MASERATI"
+  },
+  {
+    "MarkaKodu": "089",
+    "MarkaAdi": "MAZDA"
+  },
+  {
+    "MarkaKodu": "090",
+    "MarkaAdi": "MERCEDES"
+  },
+  {
+    "MarkaKodu": "091",
+    "MarkaAdi": "MERCURY"
+  },
+  {
+    "MarkaKodu": "094",
+    "MarkaAdi": "MITSUBISHI"
+  },
+  {
+    "MarkaKodu": "100",
+    "MarkaAdi": "TOFAS-FIAT"
+  },
+  {
+    "MarkaKodu": "101",
+    "MarkaAdi": "OTOKAR/MAGIRUS"
+  },
+  {
+    "MarkaKodu": "102",
+    "MarkaAdi": "MOSKWICH "
+  },
+  {
+    "MarkaKodu": "107",
+    "MarkaAdi": "NISSAN"
+  },
+  {
+    "MarkaKodu": "111",
+    "MarkaAdi": "OPEL"
+  },
+  {
+    "MarkaKodu": "114",
+    "MarkaAdi": "PEUGEOT"
+  },
+  {
+    "MarkaKodu": "117",
+    "MarkaAdi": "PONTIAC"
+  },
+  {
+    "MarkaKodu": "118",
+    "MarkaAdi": "PORSCHE"
+  },
+  {
+    "MarkaKodu": "119",
+    "MarkaAdi": "TATA"
+  },
+  {
+    "MarkaKodu": "122",
+    "MarkaAdi": "RENAULT (OYAK)"
+  },
+  {
+    "MarkaKodu": "123",
+    "MarkaAdi": "RENAULT"
+  },
+  {
+    "MarkaKodu": "125",
+    "MarkaAdi": "RANGE ROVER"
+  },
+  {
+    "MarkaKodu": "128",
+    "MarkaAdi": "SSANGYONG"
+  },
+  {
+    "MarkaKodu": "129",
+    "MarkaAdi": "SAMSUNG"
+  },
+  {
+    "MarkaKodu": "130",
+    "MarkaAdi": "SUZUKI"
+  },
+  {
+    "MarkaKodu": "133",
+    "MarkaAdi": "SKODA"
+  },
+  {
+    "MarkaKodu": "137",
+    "MarkaAdi": "SUBARU"
+  },
+  {
+    "MarkaKodu": "138",
+    "MarkaAdi": "SCANIA"
+  },
+  {
+    "MarkaKodu": "144",
+    "MarkaAdi": "TOYOTA"
+  },
+  {
+    "MarkaKodu": "151",
+    "MarkaAdi": "VANHOLL"
+  },
+  {
+    "MarkaKodu": "153",
+    "MarkaAdi": "VOLKSWAGEN"
+  },
+  {
+    "MarkaKodu": "154",
+    "MarkaAdi": "VOLVO"
+  },
+  {
+    "MarkaKodu": "175",
+    "MarkaAdi": "FORD /USA"
+  },
+  {
+    "MarkaKodu": "177",
+    "MarkaAdi": "HYUNDAI"
+  },
+  {
+    "MarkaKodu": "190",
+    "MarkaAdi": "HINO"
+  },
+  {
+    "MarkaKodu": "220",
+    "MarkaAdi": "JAGUAR"
+  },
+  {
+    "MarkaKodu": "225",
+    "MarkaAdi": "JAC"
+  },
+  {
+    "MarkaKodu": "230",
+    "MarkaAdi": "GULERYUZ"
+  },
+  {
+    "MarkaKodu": "235",
+    "MarkaAdi": "LAMBORGHINI"
+  },
+  {
+    "MarkaKodu": "245",
+    "MarkaAdi": "LOTUS"
+  },
+  {
+    "MarkaKodu": "275",
+    "MarkaAdi": "MORGAN"
+  },
+  {
+    "MarkaKodu": "320",
+    "MarkaAdi": "PROTON"
+  },
+  {
+    "MarkaKodu": "360",
+    "MarkaAdi": "MAN"
+  },
+  {
+    "MarkaKodu": "400",
+    "MarkaAdi": "ZIRAI TRAKTOR"
+  },
+  {
+    "MarkaKodu": "410",
+    "MarkaAdi": "VOLVO-TR"
+  },
+  {
+    "MarkaKodu": "420",
+    "MarkaAdi": "LAND ROVER"
+  },
+  {
+    "MarkaKodu": "421",
+    "MarkaAdi": "MINI"
+  },
+  {
+    "MarkaKodu": "440",
+    "MarkaAdi": "NEOPLAN"
+  },
+  {
+    "MarkaKodu": "445",
+    "MarkaAdi": "DACIA"
+  },
+  {
+    "MarkaKodu": "450",
+    "MarkaAdi": "SETRA"
+  },
+  {
+    "MarkaKodu": "451",
+    "MarkaAdi": "SMART"
+  },
+  {
+    "MarkaKodu": "452",
+    "MarkaAdi": "CATERHAM"
+  },
+  {
+    "MarkaKodu": "453",
+    "MarkaAdi": "INFINITI"
+  },
+  {
+    "MarkaKodu": "454",
+    "MarkaAdi": "TESLA"
+  },
+  {
+    "MarkaKodu": "455",
+    "MarkaAdi": "KTM"
+  },
+  {
+    "MarkaKodu": "456",
+    "MarkaAdi": "CHANGAN"
+  },
+  {
+    "MarkaKodu": "457",
+    "MarkaAdi": "FISKER"
+  },
+  {
+    "MarkaKodu": "458",
+    "MarkaAdi": "SHUANGHUAN"
+  },
+  {
+    "MarkaKodu": "459",
+    "MarkaAdi": "TCV"
+  },
+  {
+    "MarkaKodu": "501",
+    "MarkaAdi": "HASKAR"
+  },
+  {
+    "MarkaKodu": "520",
+    "MarkaAdi": "OTOYOL\\IVECO\\FIAT"
+  },
+  {
+    "MarkaKodu": "550",
+    "MarkaAdi": "TURKKAR"
+  },
+  {
+    "MarkaKodu": "551",
+    "MarkaAdi": "TEZELLER"
+  },
+  {
+    "MarkaKodu": "552",
+    "MarkaAdi": "TEMSA"
+  },
+  {
+    "MarkaKodu": "553",
+    "MarkaAdi": "ZONDA"
+  },
+  {
+    "MarkaKodu": "554",
+    "MarkaAdi": "ASKAM/FARGO/DESOTO"
+  },
+  {
+    "MarkaKodu": "555",
+    "MarkaAdi": "HUMMER"
+  },
+  {
+    "MarkaKodu": "556",
+    "MarkaAdi": "AR-BUS"
+  },
+  {
+    "MarkaKodu": "557",
+    "MarkaAdi": "IKCO"
+  },
+  {
+    "MarkaKodu": "558",
+    "MarkaAdi": "BENTLEY"
+  },
+  {
+    "MarkaKodu": "560",
+    "MarkaAdi": "BUSCLUB"
+  },
+  {
+    "MarkaKodu": "561",
+    "MarkaAdi": "KARSAN"
+  },
+  {
+    "MarkaKodu": "565",
+    "MarkaAdi": "PIAGGIO"
+  },
+  {
+    "MarkaKodu": "566",
+    "MarkaAdi": "HUANGHAI"
+  },
+  {
+    "MarkaKodu": "567",
+    "MarkaAdi": "VISEON"
+  },
+  {
+    "MarkaKodu": "568",
+    "MarkaAdi": "KENWORTH"
+  },
+  {
+    "MarkaKodu": "569",
+    "MarkaAdi": "IRIZAR"
+  },
+  {
+    "MarkaKodu": "570",
+    "MarkaAdi": "SAIPA"
+  },
+  {
+    "MarkaKodu": "571",
+    "MarkaAdi": "LEXUS"
+  },
+  {
+    "MarkaKodu": "572",
+    "MarkaAdi": "SOLARIS"
+  },
+  {
+    "MarkaKodu": "573",
+    "MarkaAdi": "POYRAZ"
+  },
+  {
+    "MarkaKodu": "574",
+    "MarkaAdi": "BOZANKAYA"
+  },
+  {
+    "MarkaKodu": "575",
+    "MarkaAdi": "MULTICAR"
+  },
+  {
+    "MarkaKodu": "600",
+    "MarkaAdi": "MOTORSIKLET"
+  },
+  {
+    "MarkaKodu": "700",
+    "MarkaAdi": "MEGA"
+  },
+  {
+    "MarkaKodu": "705",
+    "MarkaAdi": "AIXAM"
+  },
+  {
+    "MarkaKodu": "706",
+    "MarkaAdi": "FOLKVAN"
+  },
+  {
+    "MarkaKodu": "710",
+    "MarkaAdi": "PGO"
+  },
+  {
+    "MarkaKodu": "715",
+    "MarkaAdi": "MJT"
+  },
+  {
+    "MarkaKodu": "716",
+    "MarkaAdi": "SCAM"
+  },
+  {
+    "MarkaKodu": "717",
+    "MarkaAdi": "DFM"
+  },
+  {
+    "MarkaKodu": "718",
+    "MarkaAdi": "HFKANUNI"
+  },
+  {
+    "MarkaKodu": "720",
+    "MarkaAdi": "MAHINDRA"
+  },
+  {
+    "MarkaKodu": "721",
+    "MarkaAdi": "CHERY"
+  },
+  {
+    "MarkaKodu": "722",
+    "MarkaAdi": "TURKAR"
+  },
+  {
+    "MarkaKodu": "723",
+    "MarkaAdi": "KOENIGSEGG"
+  },
+  {
+    "MarkaKodu": "724",
+    "MarkaAdi": "GONOW"
+  },
+  {
+    "MarkaKodu": "725",
+    "MarkaAdi": "ASTRA"
+  },
+  {
+    "MarkaKodu": "726",
+    "MarkaAdi": "AVIA"
+  },
+  {
+    "MarkaKodu": "727",
+    "MarkaAdi": "VEICOLI"
+  },
+  {
+    "MarkaKodu": "728",
+    "MarkaAdi": "SINOTRUK"
+  },
+  {
+    "MarkaKodu": "729",
+    "MarkaAdi": "BREDAMENARIBUS"
+  },
+  {
+    "MarkaKodu": "730",
+    "MarkaAdi": "MAYBACH"
+  },
+  {
+    "MarkaKodu": "731",
+    "MarkaAdi": "PETERBILT"
+  },
+  {
+    "MarkaKodu": "732",
+    "MarkaAdi": "WIESMANN"
+  },
+  {
+    "MarkaKodu": "733",
+    "MarkaAdi": "HYMER"
+  },
+  {
+    "MarkaKodu": "734",
+    "MarkaAdi": "ROLLS-ROYCE"
+  },
+  {
+    "MarkaKodu": "735",
+    "MarkaAdi": "MICROCAR"
+  },
+  {
+    "MarkaKodu": "736",
+    "MarkaAdi": "AKIA"
+  },
+  {
+    "MarkaKodu": "737",
+    "MarkaAdi": "THE LONDON TAXI"
+  },
+  {
+    "MarkaKodu": "738",
+    "MarkaAdi": "GREAT WALL"
+  },
+  {
+    "MarkaKodu": "739",
+    "MarkaAdi": "GROVE"
+  },
+  {
+    "MarkaKodu": "740",
+    "MarkaAdi": "HISCAR"
+  },
+  {
+    "MarkaKodu": "741",
+    "MarkaAdi": "BYD"
+  },
+  {
+    "MarkaKodu": "742",
+    "MarkaAdi": "ZOOMLION"
+  },
+  {
+    "MarkaKodu": "743",
+    "MarkaAdi": "CODA"
+  },
+  {
+    "MarkaKodu": "744",
+    "MarkaAdi": "TATRA"
+  },
+  {
+    "MarkaKodu": "745",
+    "MarkaAdi": "TADANO FAUN"
+  },
+  {
+    "MarkaKodu": "746",
+    "MarkaAdi": "MENARINIBUS"
+  },
+  {
+    "MarkaKodu": "747",
+    "MarkaAdi": "PIMAKINA"
+  },
+  {
+    "MarkaKodu": "748",
+    "MarkaAdi": "DS"
+  },
+  {
+    "MarkaKodu": "800",
+    "MarkaAdi": "KIA"
+  },
+  {
+    "MarkaKodu": "801",
+    "MarkaAdi": "BUGATTI"
+  },
+  {
+    "MarkaKodu": "802",
+    "MarkaAdi": "GEELY"
+  },
+  {
+    "MarkaKodu": "803",
+    "MarkaAdi": "FAW"
+  },
+  {
+    "MarkaKodu": "804",
+    "MarkaAdi": "ISOBUS"
+  },
+  {
+    "MarkaKodu": "805",
+    "MarkaAdi": "EICHER"
+  },
+  {
+    "MarkaKodu": "806",
+    "MarkaAdi": "DFSK"
+  },
+  {
+    "MarkaKodu": "820",
+    "MarkaAdi": "GMC"
+  },
+  {
+    "MarkaKodu": "825",
+    "MarkaAdi": "GAZ"
+  }
+]

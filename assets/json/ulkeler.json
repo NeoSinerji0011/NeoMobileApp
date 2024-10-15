@@ -1,0 +1,3866 @@
+[
+  {
+    "Id": 1,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "15",
+    "UlkeAdi": " ALMANYA"
+  },
+  {
+    "Id": 2,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "41",
+    "UlkeAdi": " AVUSTURYA"
+  },
+  {
+    "Id": 3,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "56",
+    "UlkeAdi": " BELCIKA"
+  },
+  {
+    "Id": 4,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "109",
+    "UlkeAdi": " DANIMARKA"
+  },
+  {
+    "Id": 5,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "129",
+    "UlkeAdi": " ESTONYA"
+  },
+  {
+    "Id": 6,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "141",
+    "UlkeAdi": " FINLANDIYA"
+  },
+  {
+    "Id": 7,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "145",
+    "UlkeAdi": " FRANSA"
+  },
+  {
+    "Id": 8,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "195",
+    "UlkeAdi": " HOLLANDA"
+  },
+  {
+    "Id": 9,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "216",
+    "UlkeAdi": " ISPANYA"
+  },
+  {
+    "Id": 10,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "219",
+    "UlkeAdi": " ISVEC"
+  },
+  {
+    "Id": 11,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "221",
+    "UlkeAdi": " ITALYA"
+  },
+  {
+    "Id": 12,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "222",
+    "UlkeAdi": " IZLANDA"
+  },
+  {
+    "Id": 13,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "288",
+    "UlkeAdi": " LETONYA"
+  },
+  {
+    "Id": 14,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "291",
+    "UlkeAdi": " LIECHTENSTEIN"
+  },
+  {
+    "Id": 15,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "293",
+    "UlkeAdi": " LITVANYA"
+  },
+  {
+    "Id": 16,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "298",
+    "UlkeAdi": " LUKSEMBURG"
+  },
+  {
+    "Id": 17,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "300",
+    "UlkeAdi": " MACARISTAN"
+  },
+  {
+    "Id": 18,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "316",
+    "UlkeAdi": " MALTA"
+  },
+  {
+    "Id": 19,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "321",
+    "UlkeAdi": " MARITUS ADASI"
+  },
+  {
+    "Id": 20,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "353",
+    "UlkeAdi": " NORVEC"
+  },
+  {
+    "Id": 21,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "383",
+    "UlkeAdi": " POLONYA"
+  },
+  {
+    "Id": 22,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "384",
+    "UlkeAdi": " PORTEKIZ"
+  },
+  {
+    "Id": 23,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "999",
+    "UlkeAdi": " SCHENGEN ÜLKELERİ"
+  },
+  {
+    "Id": 24,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "536",
+    "UlkeAdi": " SLOVAKYA"
+  },
+  {
+    "Id": 25,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "436",
+    "UlkeAdi": " SLOVENYA"
+  },
+  {
+    "Id": 26,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "527",
+    "UlkeAdi": " YUNANISTAN"
+  },
+  {
+    "Id": 27,
+    "UlkeTipiKodu": 1,
+    "UlkeTipiAdi": "Schengen",
+    "UlkeKodu": "535",
+    "UlkeAdi": " ÇEK CUMHURİYETİ"
+  },
+  {
+    "Id": 28,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "78",
+    "UlkeAdi": " BULGARISTAN"
+  },
+  {
+    "Id": 29,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "171",
+    "UlkeAdi": " GUADALCANAL ADASI"
+  },
+  {
+    "Id": 30,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "194",
+    "UlkeAdi": " HIRVATISTAN"
+  },
+  {
+    "Id": 31,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "209",
+    "UlkeAdi": " INGILTERE"
+  },
+  {
+    "Id": 32,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "213",
+    "UlkeAdi": " IRLANDA"
+  },
+  {
+    "Id": 33,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "220",
+    "UlkeAdi": " ISVICRE"
+  },
+  {
+    "Id": 34,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "248",
+    "UlkeAdi": " KIBRIS RUM KESİMİ"
+  },
+  {
+    "Id": 35,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "277",
+    "UlkeAdi": " KUZEY KIBRIS TURK CUMHURIYETI"
+  },
+  {
+    "Id": 36,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "306",
+    "UlkeAdi": " MAKEDONYA"
+  },
+  {
+    "Id": 37,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "336",
+    "UlkeAdi": " MOLDOVA"
+  },
+  {
+    "Id": 38,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "337",
+    "UlkeAdi": " MONAKO"
+  },
+  {
+    "Id": 39,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "396",
+    "UlkeAdi": " ROMANYA"
+  },
+  {
+    "Id": 40,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "573",
+    "UlkeAdi": " SAN MARINO"
+  },
+  {
+    "Id": 41,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "434",
+    "UlkeAdi": " SIRBISTAN"
+  },
+  {
+    "Id": 42,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "491",
+    "UlkeAdi": " TURKIYE"
+  },
+  {
+    "Id": 43,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "498",
+    "UlkeAdi": " UKRAYNA"
+  },
+  {
+    "Id": 44,
+    "UlkeTipiKodu": 2,
+    "UlkeTipiAdi": "Diğer Avrupa",
+    "UlkeKodu": "575",
+    "UlkeAdi": " İSKOÇYA"
+  },
+  {
+    "Id": 45,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "1",
+    "UlkeAdi": " A.B.D"
+  },
+  {
+    "Id": 46,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "2",
+    "UlkeAdi": " ABD NIN VIRJIN ADASI"
+  },
+  {
+    "Id": 47,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "3",
+    "UlkeAdi": " ABU DABI"
+  },
+  {
+    "Id": 48,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "4",
+    "UlkeAdi": " SELİNYA ADALARI"
+  },
+  {
+    "Id": 49,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "5",
+    "UlkeAdi": " ADELYA ADALARI"
+  },
+  {
+    "Id": 50,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "6",
+    "UlkeAdi": " ADMIRALDI ADALARI"
+  },
+  {
+    "Id": 51,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "7",
+    "UlkeAdi": " AFGANISTAN"
+  },
+  {
+    "Id": 52,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "8",
+    "UlkeAdi": " AGELEGA ADALARI"
+  },
+  {
+    "Id": 53,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "10",
+    "UlkeAdi": " AJMAN"
+  },
+  {
+    "Id": 54,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "11",
+    "UlkeAdi": " ALAFI ADASI"
+  },
+  {
+    "Id": 55,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "12",
+    "UlkeAdi": " ALAND ADALARI"
+  },
+  {
+    "Id": 56,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "13",
+    "UlkeAdi": " ALASKA"
+  },
+  {
+    "Id": 57,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "14",
+    "UlkeAdi": " ALDOBRA ADASI"
+  },
+  {
+    "Id": 58,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "16",
+    "UlkeAdi": " ALPHANSE ADALARI"
+  },
+  {
+    "Id": 59,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "17",
+    "UlkeAdi": " AMINDIVI ADALARI"
+  },
+  {
+    "Id": 60,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "18",
+    "UlkeAdi": " AMIRANTE ADALARI"
+  },
+  {
+    "Id": 61,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "19",
+    "UlkeAdi": " ANDAMAN ADALARI"
+  },
+  {
+    "Id": 62,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "20",
+    "UlkeAdi": " ANDORA"
+  },
+  {
+    "Id": 63,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "21",
+    "UlkeAdi": " ANGOLA"
+  },
+  {
+    "Id": 64,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "22",
+    "UlkeAdi": " ANGUILLA ADASI"
+  },
+  {
+    "Id": 65,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "23",
+    "UlkeAdi": " ANJOVAN ADASI"
+  },
+  {
+    "Id": 66,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "24",
+    "UlkeAdi": " ANNOBAN ADASI"
+  },
+  {
+    "Id": 67,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "26",
+    "UlkeAdi": " ANTARTIKA"
+  },
+  {
+    "Id": 68,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "27",
+    "UlkeAdi": " ANTIGUA VE BARBUDA"
+  },
+  {
+    "Id": 69,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "28",
+    "UlkeAdi": " ANTIPODES ADASI"
+  },
+  {
+    "Id": 70,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "29",
+    "UlkeAdi": " ARJANTIN"
+  },
+  {
+    "Id": 71,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "30",
+    "UlkeAdi": " ARKIC REGIONS N.E.S."
+  },
+  {
+    "Id": 72,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "31",
+    "UlkeAdi": " ARNAVUTLUK"
+  },
+  {
+    "Id": 73,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "32",
+    "UlkeAdi": " ARUBA ADASI"
+  },
+  {
+    "Id": 74,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "33",
+    "UlkeAdi": " ASCENSION ADASI"
+  },
+  {
+    "Id": 75,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "34",
+    "UlkeAdi": " ASHMORE VE CARTIER ADALARI"
+  },
+  {
+    "Id": 76,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "35",
+    "UlkeAdi": " ASSUMPTION ADASI"
+  },
+  {
+    "Id": 77,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "36",
+    "UlkeAdi": " ASTOVE ADASI"
+  },
+  {
+    "Id": 78,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "37",
+    "UlkeAdi": " ATHOS DAGI"
+  },
+  {
+    "Id": 79,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "38",
+    "UlkeAdi": " ATOL DAS ROCAS"
+  },
+  {
+    "Id": 80,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "39",
+    "UlkeAdi": " AVUST.ANTERTIK BOLGESI"
+  },
+  {
+    "Id": 81,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "40",
+    "UlkeAdi": " AVUSTRALYA"
+  },
+  {
+    "Id": 82,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "42",
+    "UlkeAdi": " AZAR"
+  },
+  {
+    "Id": 83,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "43",
+    "UlkeAdi": " AZERBEYCAN-NAHCIVAN"
+  },
+  {
+    "Id": 84,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "44",
+    "UlkeAdi": " BAHAMA"
+  },
+  {
+    "Id": 85,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "45",
+    "UlkeAdi": " BAHREYN"
+  },
+  {
+    "Id": 86,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "46",
+    "UlkeAdi": " BAKER ADASI"
+  },
+  {
+    "Id": 87,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "47",
+    "UlkeAdi": " BALERIK ADALARI"
+  },
+  {
+    "Id": 88,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "48",
+    "UlkeAdi": " BANGLADES"
+  },
+  {
+    "Id": 89,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "49",
+    "UlkeAdi": " BARBADOS"
+  },
+  {
+    "Id": 90,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "50",
+    "UlkeAdi": " BASSAS DE INDIC ADASI"
+  },
+  {
+    "Id": 91,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "51",
+    "UlkeAdi": " BATI BERLIN"
+  },
+  {
+    "Id": 92,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "52",
+    "UlkeAdi": " BATI IRIAN"
+  },
+  {
+    "Id": 93,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "53",
+    "UlkeAdi": " BATI SAMOA"
+  },
+  {
+    "Id": 94,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "54",
+    "UlkeAdi": " BATI YENI GINESI"
+  },
+  {
+    "Id": 95,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "55",
+    "UlkeAdi": " BEAR ADASI"
+  },
+  {
+    "Id": 96,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "57",
+    "UlkeAdi": " BELEP"
+  },
+  {
+    "Id": 97,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "58",
+    "UlkeAdi": " BELIRLENEMEYEN ULKE VE TOPRAKLAR"
+  },
+  {
+    "Id": 98,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "59",
+    "UlkeAdi": " BELIZE"
+  },
+  {
+    "Id": 99,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "60",
+    "UlkeAdi": " BENIN"
+  },
+  {
+    "Id": 100,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "61",
+    "UlkeAdi": " BERMUDA"
+  },
+  {
+    "Id": 101,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "62",
+    "UlkeAdi": " BEYAZ RUSYA"
+  },
+  {
+    "Id": 102,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "63",
+    "UlkeAdi": " BIRD ADASI"
+  },
+  {
+    "Id": 103,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "64",
+    "UlkeAdi": " BIRLESIK ARAP EMIRLIKLERI"
+  },
+  {
+    "Id": 104,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "65",
+    "UlkeAdi": " BISMARK ARCHIPELEGO"
+  },
+  {
+    "Id": 105,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "66",
+    "UlkeAdi": " BJURNAYA ADASI"
+  },
+  {
+    "Id": 106,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "67",
+    "UlkeAdi": " BOAVISTA ADASI"
+  },
+  {
+    "Id": 107,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "68",
+    "UlkeAdi": " BOLIVYA"
+  },
+  {
+    "Id": 108,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "69",
+    "UlkeAdi": " BONAIRE"
+  },
+  {
+    "Id": 109,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "70",
+    "UlkeAdi": " BOSNA-HERSEK"
+  },
+  {
+    "Id": 110,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "71",
+    "UlkeAdi": " BOTSVANA"
+  },
+  {
+    "Id": 111,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "72",
+    "UlkeAdi": " BOUGAINVILLE"
+  },
+  {
+    "Id": 112,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "73",
+    "UlkeAdi": " BOUNTY ADASI"
+  },
+  {
+    "Id": 113,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "74",
+    "UlkeAdi": " BOVET ADASI"
+  },
+  {
+    "Id": 114,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "75",
+    "UlkeAdi": " BRAVA ADASI"
+  },
+  {
+    "Id": 115,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "76",
+    "UlkeAdi": " BREZILYA"
+  },
+  {
+    "Id": 116,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "77",
+    "UlkeAdi": " BUKA ADASI"
+  },
+  {
+    "Id": 117,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "79",
+    "UlkeAdi": " BURKINA-FASO"
+  },
+  {
+    "Id": 118,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "80",
+    "UlkeAdi": " BURMA (BİRMANYA)"
+  },
+  {
+    "Id": 119,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "81",
+    "UlkeAdi": " BURUNDI"
+  },
+  {
+    "Id": 120,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "82",
+    "UlkeAdi": " BURUNEI"
+  },
+  {
+    "Id": 121,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "83",
+    "UlkeAdi": " BUSINGEN"
+  },
+  {
+    "Id": 122,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "84",
+    "UlkeAdi": " BUTAN"
+  },
+  {
+    "Id": 123,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "85",
+    "UlkeAdi": " BUYUK KOMORO ADASI"
+  },
+  {
+    "Id": 124,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "86",
+    "UlkeAdi": " CAD"
+  },
+  {
+    "Id": 125,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "87",
+    "UlkeAdi": " CAPE VERDE"
+  },
+  {
+    "Id": 126,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "88",
+    "UlkeAdi": " CARAJOS SHOALS"
+  },
+  {
+    "Id": 127,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "89",
+    "UlkeAdi": " CEBELITARIK"
+  },
+  {
+    "Id": 128,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "90",
+    "UlkeAdi": " CECEN CUMHURIYETI"
+  },
+  {
+    "Id": 129,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "91",
+    "UlkeAdi": " CEKOSLAVAKYA"
+  },
+  {
+    "Id": 130,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "92",
+    "UlkeAdi": " CEPHALONIA ADASI"
+  },
+  {
+    "Id": 131,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "93",
+    "UlkeAdi": " CEVTA VE MELILLA"
+  },
+  {
+    "Id": 132,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "94",
+    "UlkeAdi": " CEZAYIR"
+  },
+  {
+    "Id": 133,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "95",
+    "UlkeAdi": " CHACOS TAKIMADALARI"
+  },
+  {
+    "Id": 134,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "96",
+    "UlkeAdi": " CHAFARINAS ADALARI"
+  },
+  {
+    "Id": 135,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "97",
+    "UlkeAdi": " CHAMPINE D ITALITIK(PELYE)"
+  },
+  {
+    "Id": 136,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "98",
+    "UlkeAdi": " CHATHEM ADASI"
+  },
+  {
+    "Id": 137,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "99",
+    "UlkeAdi": " CHESTERFIELD ADASI"
+  },
+  {
+    "Id": 138,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "100",
+    "UlkeAdi": " CHRISTMAS ADASI(HINT OKY.)"
+  },
+  {
+    "Id": 139,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "101",
+    "UlkeAdi": " CHRISTMAS ADASI(PASIFIK OKY.)"
+  },
+  {
+    "Id": 140,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "102",
+    "UlkeAdi": " CIBUTI"
+  },
+  {
+    "Id": 141,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "103",
+    "UlkeAdi": " CIN"
+  },
+  {
+    "Id": 142,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "104",
+    "UlkeAdi": " CIOS ADASI"
+  },
+  {
+    "Id": 143,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "105",
+    "UlkeAdi": " COLEN TAKIMADALARI"
+  },
+  {
+    "Id": 144,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "106",
+    "UlkeAdi": " COOK ADASI"
+  },
+  {
+    "Id": 145,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "107",
+    "UlkeAdi": " DENTRECASTEAX"
+  },
+  {
+    "Id": 146,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "108",
+    "UlkeAdi": " DAGISTAN CUMHURIYETI"
+  },
+  {
+    "Id": 147,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "110",
+    "UlkeAdi": " DENIS ADASI"
+  },
+  {
+    "Id": 148,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "111",
+    "UlkeAdi": " DESROCHES ADASI"
+  },
+  {
+    "Id": 149,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "112",
+    "UlkeAdi": " DIEGO GARCIA"
+  },
+  {
+    "Id": 150,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "113",
+    "UlkeAdi": " DOMINIK CUMHURIYETI"
+  },
+  {
+    "Id": 151,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "114",
+    "UlkeAdi": " DOMINIKA"
+  },
+  {
+    "Id": 152,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "115",
+    "UlkeAdi": " ABUDABI"
+  },
+  {
+    "Id": 153,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "116",
+    "UlkeAdi": " DUBAI"
+  },
+  {
+    "Id": 154,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "117",
+    "UlkeAdi": " DUCIC ADASI"
+  },
+  {
+    "Id": 155,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "118",
+    "UlkeAdi": " EASTER ADASI"
+  },
+  {
+    "Id": 156,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "119",
+    "UlkeAdi": " EGE ADALARI"
+  },
+  {
+    "Id": 157,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "121",
+    "UlkeAdi": " EKVADOR"
+  },
+  {
+    "Id": 158,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "122",
+    "UlkeAdi": " EKVATOR GINESI"
+  },
+  {
+    "Id": 159,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "123",
+    "UlkeAdi": " EL SALVADOR"
+  },
+  {
+    "Id": 160,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "124",
+    "UlkeAdi": " ELLICE ADASI"
+  },
+  {
+    "Id": 161,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "125",
+    "UlkeAdi": " ELOBEYS ADASI"
+  },
+  {
+    "Id": 162,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "126",
+    "UlkeAdi": " ENDONEZYA"
+  },
+  {
+    "Id": 163,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "127",
+    "UlkeAdi": " ERITRE"
+  },
+  {
+    "Id": 164,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "128",
+    "UlkeAdi": " ERMENİSTAN"
+  },
+  {
+    "Id": 165,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "130",
+    "UlkeAdi": " ETHOPYA"
+  },
+  {
+    "Id": 166,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "131",
+    "UlkeAdi": " EVROPA ADASI"
+  },
+  {
+    "Id": 167,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "132",
+    "UlkeAdi": " FAKLAND ADALARI"
+  },
+  {
+    "Id": 168,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "133",
+    "UlkeAdi": " FANNING ADASI"
+  },
+  {
+    "Id": 169,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "134",
+    "UlkeAdi": " FARKUAR ADASI"
+  },
+  {
+    "Id": 170,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "135",
+    "UlkeAdi": " FAROE ADALARI"
+  },
+  {
+    "Id": 171,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "136",
+    "UlkeAdi": " FAS"
+  },
+  {
+    "Id": 172,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "137",
+    "UlkeAdi": " FERNANDO DE NORONHA ADASI"
+  },
+  {
+    "Id": 173,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "138",
+    "UlkeAdi": " FIJI"
+  },
+  {
+    "Id": 174,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "139",
+    "UlkeAdi": " FILDISI SAHILI"
+  },
+  {
+    "Id": 175,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "140",
+    "UlkeAdi": " FILIPINLER"
+  },
+  {
+    "Id": 176,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "142",
+    "UlkeAdi": " FLINT ADASI"
+  },
+  {
+    "Id": 177,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "143",
+    "UlkeAdi": " FOGO ADASI"
+  },
+  {
+    "Id": 178,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "144",
+    "UlkeAdi": " FONIX ADASI"
+  },
+  {
+    "Id": 179,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "146",
+    "UlkeAdi": " FRANSIZ AFERS AN ISSAS"
+  },
+  {
+    "Id": 180,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "147",
+    "UlkeAdi": " FRANSIZ GINESI"
+  },
+  {
+    "Id": 181,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "148",
+    "UlkeAdi": " FRANSIZ GUNEY VE ATLANTIK"
+  },
+  {
+    "Id": 182,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "149",
+    "UlkeAdi": " FRANSIZ POLENEZYASI"
+  },
+  {
+    "Id": 183,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "150",
+    "UlkeAdi": " FREGATE ADASI"
+  },
+  {
+    "Id": 184,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "151",
+    "UlkeAdi": " FUJAIRAH"
+  },
+  {
+    "Id": 185,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "152",
+    "UlkeAdi": " GABON"
+  },
+  {
+    "Id": 186,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "153",
+    "UlkeAdi": " GALAPAGOS ADALARI"
+  },
+  {
+    "Id": 187,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "154",
+    "UlkeAdi": " GAMBIER ISLAND"
+  },
+  {
+    "Id": 188,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "155",
+    "UlkeAdi": " GAMBIYA"
+  },
+  {
+    "Id": 189,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "156",
+    "UlkeAdi": " GANA"
+  },
+  {
+    "Id": 190,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "158",
+    "UlkeAdi": " GAZZE"
+  },
+  {
+    "Id": 191,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "159",
+    "UlkeAdi": " GILBERT ADASI"
+  },
+  {
+    "Id": 192,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "160",
+    "UlkeAdi": " GINE"
+  },
+  {
+    "Id": 193,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "161",
+    "UlkeAdi": " GINE-BISSAU"
+  },
+  {
+    "Id": 194,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "162",
+    "UlkeAdi": " GIRIT ADASI"
+  },
+  {
+    "Id": 195,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "163",
+    "UlkeAdi": " GLORICUSES ADASI"
+  },
+  {
+    "Id": 196,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "164",
+    "UlkeAdi": " GLOUGH ADASI"
+  },
+  {
+    "Id": 197,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "165",
+    "UlkeAdi": " GOZO"
+  },
+  {
+    "Id": 198,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "166",
+    "UlkeAdi": " GRAHAM LAND"
+  },
+  {
+    "Id": 199,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "167",
+    "UlkeAdi": " GRANDE TERRE"
+  },
+  {
+    "Id": 200,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "168",
+    "UlkeAdi": " GREEN ADASI"
+  },
+  {
+    "Id": 201,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "169",
+    "UlkeAdi": " GRENADA"
+  },
+  {
+    "Id": 202,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "170",
+    "UlkeAdi": " GRENLAND"
+  },
+  {
+    "Id": 203,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "172",
+    "UlkeAdi": " GUADELUP"
+  },
+  {
+    "Id": 204,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "173",
+    "UlkeAdi": " GUAM"
+  },
+  {
+    "Id": 205,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "174",
+    "UlkeAdi": " GUATEMALA"
+  },
+  {
+    "Id": 206,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "176",
+    "UlkeAdi": " GUNEY GEORGIA"
+  },
+  {
+    "Id": 207,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "177",
+    "UlkeAdi": " GUNEY AFRIKA"
+  },
+  {
+    "Id": 208,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "178",
+    "UlkeAdi": " GUNEY AFRIKA CUM."
+  },
+  {
+    "Id": 209,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "179",
+    "UlkeAdi": " GUNEY GRENADIN ADALARI"
+  },
+  {
+    "Id": 210,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "180",
+    "UlkeAdi": " GUNEY KORE"
+  },
+  {
+    "Id": 211,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "181",
+    "UlkeAdi": " GUNEY ORKNEY ADALARI"
+  },
+  {
+    "Id": 212,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "182",
+    "UlkeAdi": " GUNEY SHETLAND ADALARI"
+  },
+  {
+    "Id": 213,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "183",
+    "UlkeAdi": " GUNEY YEMEN(DEM.YEMEN)"
+  },
+  {
+    "Id": 214,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "184",
+    "UlkeAdi": " GURCISTAN"
+  },
+  {
+    "Id": 215,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "185",
+    "UlkeAdi": " GUYANA"
+  },
+  {
+    "Id": 216,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "186",
+    "UlkeAdi": " HADRAMAOUT"
+  },
+  {
+    "Id": 217,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "187",
+    "UlkeAdi": " HAITI"
+  },
+  {
+    "Id": 218,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "188",
+    "UlkeAdi": " HAVAI"
+  },
+  {
+    "Id": 219,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "189",
+    "UlkeAdi": " HEARD ADASI"
+  },
+  {
+    "Id": 220,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "190",
+    "UlkeAdi": " HEARD AND MC DONALD ADALARI"
+  },
+  {
+    "Id": 221,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "191",
+    "UlkeAdi": " HEBRIDES ADASI"
+  },
+  {
+    "Id": 222,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "192",
+    "UlkeAdi": " HENDERSON ADASI"
+  },
+  {
+    "Id": 223,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "193",
+    "UlkeAdi": " HINDISTAN"
+  },
+  {
+    "Id": 224,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "196",
+    "UlkeAdi": " HOLLANDA ANTILLERI"
+  },
+  {
+    "Id": 225,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "197",
+    "UlkeAdi": " HONDURAS"
+  },
+  {
+    "Id": 226,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "198",
+    "UlkeAdi": " HONK KONG"
+  },
+  {
+    "Id": 227,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "199",
+    "UlkeAdi": " HOWLAND VE BAKER ADALARI"
+  },
+  {
+    "Id": 228,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "200",
+    "UlkeAdi": " HUON"
+  },
+  {
+    "Id": 229,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "201",
+    "UlkeAdi": " IC MOGOLISTAN"
+  },
+  {
+    "Id": 230,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "202",
+    "UlkeAdi": " ILES DE HORN"
+  },
+  {
+    "Id": 231,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "203",
+    "UlkeAdi": " ILES DES SAINTES"
+  },
+  {
+    "Id": 232,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "204",
+    "UlkeAdi": " INACCESIBLE ADASI"
+  },
+  {
+    "Id": 233,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "205",
+    "UlkeAdi": " INGILIZ ANTERTIK BOLGESI"
+  },
+  {
+    "Id": 234,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "206",
+    "UlkeAdi": " INGILIZ HIND. OKY.TOPRAKLARI"
+  },
+  {
+    "Id": 235,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "207",
+    "UlkeAdi": " INGILIZ KANAL ADALARI"
+  },
+  {
+    "Id": 236,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "208",
+    "UlkeAdi": " INGILIZ VIRGIN ADASI"
+  },
+  {
+    "Id": 237,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "210",
+    "UlkeAdi": " ION ADALARI"
+  },
+  {
+    "Id": 238,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "211",
+    "UlkeAdi": " IRAK"
+  },
+  {
+    "Id": 239,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "212",
+    "UlkeAdi": " IRAN"
+  },
+  {
+    "Id": 240,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "214",
+    "UlkeAdi": " ISLE OF MAN"
+  },
+  {
+    "Id": 241,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "215",
+    "UlkeAdi": " ISLE OF PINES"
+  },
+  {
+    "Id": 242,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "217",
+    "UlkeAdi": " ISRAIL"
+  },
+  {
+    "Id": 243,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "224",
+    "UlkeAdi": " JAMAIKA"
+  },
+  {
+    "Id": 244,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "225",
+    "UlkeAdi": " JAN MAYEN ADASI"
+  },
+  {
+    "Id": 245,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "226",
+    "UlkeAdi": " JAPONYA"
+  },
+  {
+    "Id": 246,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "227",
+    "UlkeAdi": " JAVIS ADASI"
+  },
+  {
+    "Id": 247,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "228",
+    "UlkeAdi": " JUAN DE NOVA ADASI"
+  },
+  {
+    "Id": 248,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "229",
+    "UlkeAdi": " KABINDA"
+  },
+  {
+    "Id": 249,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "230",
+    "UlkeAdi": " KAMARAN ADASI"
+  },
+  {
+    "Id": 250,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "231",
+    "UlkeAdi": " KAMBELL ADASI"
+  },
+  {
+    "Id": 251,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "232",
+    "UlkeAdi": " KAMBOCYA"
+  },
+  {
+    "Id": 252,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "233",
+    "UlkeAdi": " KAMERUN"
+  },
+  {
+    "Id": 253,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "234",
+    "UlkeAdi": " KAMINO"
+  },
+  {
+    "Id": 254,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "235",
+    "UlkeAdi": " KANADA"
+  },
+  {
+    "Id": 255,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "236",
+    "UlkeAdi": " KANARYA ADALARI"
+  },
+  {
+    "Id": 256,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "237",
+    "UlkeAdi": " KANDEVU ADASI"
+  },
+  {
+    "Id": 257,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "238",
+    "UlkeAdi": " KANTON VE ENDERBURY ADALARI"
+  },
+  {
+    "Id": 258,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "239",
+    "UlkeAdi": " KARGADOS"
+  },
+  {
+    "Id": 259,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "240",
+    "UlkeAdi": " KAROLIN ADALARI"
+  },
+  {
+    "Id": 260,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "241",
+    "UlkeAdi": " KATAR"
+  },
+  {
+    "Id": 261,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "242",
+    "UlkeAdi": " KAZAKISTAN"
+  },
+  {
+    "Id": 262,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "243",
+    "UlkeAdi": " KENYA"
+  },
+  {
+    "Id": 263,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "244",
+    "UlkeAdi": " KERKUSELEN ADASI"
+  },
+  {
+    "Id": 264,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "245",
+    "UlkeAdi": " KERMADEK ADASI"
+  },
+  {
+    "Id": 265,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "246",
+    "UlkeAdi": " KEYMEN ADALARI"
+  },
+  {
+    "Id": 266,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "247",
+    "UlkeAdi": " KEYMEN BRAK ADASI"
+  },
+  {
+    "Id": 267,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "249",
+    "UlkeAdi": " KINKMAN REEF"
+  },
+  {
+    "Id": 268,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "250",
+    "UlkeAdi": " KIRGIZISTAN"
+  },
+  {
+    "Id": 269,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "251",
+    "UlkeAdi": " KIRIBATI"
+  },
+  {
+    "Id": 270,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "252",
+    "UlkeAdi": " KLIPPERTON ADASI"
+  },
+  {
+    "Id": 271,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "253",
+    "UlkeAdi": " KOKOS ADASI (PASIFIK OKY.)"
+  },
+  {
+    "Id": 272,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "254",
+    "UlkeAdi": " KOKOS(KEELING) ADASI"
+  },
+  {
+    "Id": 273,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "255",
+    "UlkeAdi": " KOLOMBIA"
+  },
+  {
+    "Id": 274,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "256",
+    "UlkeAdi": " KOMOROS"
+  },
+  {
+    "Id": 275,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "257",
+    "UlkeAdi": " KONGO"
+  },
+  {
+    "Id": 276,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "258",
+    "UlkeAdi": " KORFU ADASI"
+  },
+  {
+    "Id": 277,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "259",
+    "UlkeAdi": " KORISCA ADASI"
+  },
+  {
+    "Id": 278,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "260",
+    "UlkeAdi": " KORN ADASI"
+  },
+  {
+    "Id": 279,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "261",
+    "UlkeAdi": " KORO ADASI"
+  },
+  {
+    "Id": 280,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "262",
+    "UlkeAdi": " KOSMOLEDO ADASI"
+  },
+  {
+    "Id": 281,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "263",
+    "UlkeAdi": " KOSTARIKA"
+  },
+  {
+    "Id": 282,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "264",
+    "UlkeAdi": " KRALICE MAUD ADASI"
+  },
+  {
+    "Id": 283,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "265",
+    "UlkeAdi": " KROZET ADASI"
+  },
+  {
+    "Id": 284,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "266",
+    "UlkeAdi": " KUBA"
+  },
+  {
+    "Id": 285,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "267",
+    "UlkeAdi": " KUCUK TEERE ADASI"
+  },
+  {
+    "Id": 286,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "268",
+    "UlkeAdi": " KUĞU ADASI"
+  },
+  {
+    "Id": 287,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "269",
+    "UlkeAdi": " KUNHA ADASI"
+  },
+  {
+    "Id": 288,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "270",
+    "UlkeAdi": " KURAKAO ADASI"
+  },
+  {
+    "Id": 289,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "271",
+    "UlkeAdi": " KURIA MURIA ADASI"
+  },
+  {
+    "Id": 290,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "272",
+    "UlkeAdi": " KUTUP BOLGELERI"
+  },
+  {
+    "Id": 291,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "274",
+    "UlkeAdi": " KUVEYT"
+  },
+  {
+    "Id": 292,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "275",
+    "UlkeAdi": " KUZEY GRENADINES ADALARI"
+  },
+  {
+    "Id": 293,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "276",
+    "UlkeAdi": " KUZEY IRLANDA"
+  },
+  {
+    "Id": 294,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "277",
+    "UlkeAdi": " KUZEY KIBRIS TURK CUMHURİYETİ"
+  },
+  {
+    "Id": 295,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "278",
+    "UlkeAdi": " KUZEY KORE"
+  },
+  {
+    "Id": 296,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "279",
+    "UlkeAdi": " KUZEY YEMEN"
+  },
+  {
+    "Id": 297,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "280",
+    "UlkeAdi": " LA DESIRADE ADASI"
+  },
+  {
+    "Id": 298,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "281",
+    "UlkeAdi": " LAKADIVE ADASI"
+  },
+  {
+    "Id": 299,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "282",
+    "UlkeAdi": " LAOS"
+  },
+  {
+    "Id": 300,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "283",
+    "UlkeAdi": " LAU ADASI"
+  },
+  {
+    "Id": 301,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "284",
+    "UlkeAdi": " LAVANKEI"
+  },
+  {
+    "Id": 302,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "285",
+    "UlkeAdi": " LEAUKAS ADASI"
+  },
+  {
+    "Id": 303,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "286",
+    "UlkeAdi": " LESATHO"
+  },
+  {
+    "Id": 304,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "287",
+    "UlkeAdi": " LESBOS ADASI"
+  },
+  {
+    "Id": 305,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "289",
+    "UlkeAdi": " LIBERYA"
+  },
+  {
+    "Id": 306,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "290",
+    "UlkeAdi": " LIBYA"
+  },
+  {
+    "Id": 307,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "292",
+    "UlkeAdi": " LINE ADASI"
+  },
+  {
+    "Id": 308,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "294",
+    "UlkeAdi": " LORD HAVE ADASI"
+  },
+  {
+    "Id": 309,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "295",
+    "UlkeAdi": " LOUISEDE TAKIMADALARI"
+  },
+  {
+    "Id": 310,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "296",
+    "UlkeAdi": " LOYALTY"
+  },
+  {
+    "Id": 311,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "297",
+    "UlkeAdi": " LUBNAN"
+  },
+  {
+    "Id": 312,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "299",
+    "UlkeAdi": " MACAIS NGUEMO BIYOGO ADASI"
+  },
+  {
+    "Id": 313,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "301",
+    "UlkeAdi": " MADAGASKAR"
+  },
+  {
+    "Id": 314,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "302",
+    "UlkeAdi": " MADERIA"
+  },
+  {
+    "Id": 315,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "303",
+    "UlkeAdi": " MAHE ADASI"
+  },
+  {
+    "Id": 316,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "304",
+    "UlkeAdi": " MAIO ADASI"
+  },
+  {
+    "Id": 317,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "305",
+    "UlkeAdi": " MAKAO"
+  },
+  {
+    "Id": 318,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "307",
+    "UlkeAdi": " MAKKOAYR ADASI"
+  },
+  {
+    "Id": 319,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "308",
+    "UlkeAdi": " MALAITA ADASI"
+  },
+  {
+    "Id": 320,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "309",
+    "UlkeAdi": " MALAVI"
+  },
+  {
+    "Id": 321,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "310",
+    "UlkeAdi": " MALAY"
+  },
+  {
+    "Id": 322,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "311",
+    "UlkeAdi": " MALDEN ADASI"
+  },
+  {
+    "Id": 323,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "312",
+    "UlkeAdi": " MALDIVLER"
+  },
+  {
+    "Id": 324,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "313",
+    "UlkeAdi": " MALEZYA"
+  },
+  {
+    "Id": 325,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "314",
+    "UlkeAdi": " MALI"
+  },
+  {
+    "Id": 326,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "315",
+    "UlkeAdi": " MALPELO ADASI"
+  },
+  {
+    "Id": 327,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "317",
+    "UlkeAdi": " MAMELLES ADASI"
+  },
+  {
+    "Id": 328,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "318",
+    "UlkeAdi": " MARIANA ADASI"
+  },
+  {
+    "Id": 329,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "319",
+    "UlkeAdi": " MARIE-GALANTE ADASI"
+  },
+  {
+    "Id": 330,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "320",
+    "UlkeAdi": " MARION ADASI"
+  },
+  {
+    "Id": 331,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "322",
+    "UlkeAdi": " MARKISAS ADASI"
+  },
+  {
+    "Id": 332,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "323",
+    "UlkeAdi": " MARSHAL ADASI"
+  },
+  {
+    "Id": 333,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "324",
+    "UlkeAdi": " MARTIN VAS ADASI"
+  },
+  {
+    "Id": 334,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "325",
+    "UlkeAdi": " MARTINIK"
+  },
+  {
+    "Id": 335,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "326",
+    "UlkeAdi": " MAYOT"
+  },
+  {
+    "Id": 336,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "327",
+    "UlkeAdi": " MEKSIKA"
+  },
+  {
+    "Id": 337,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "328",
+    "UlkeAdi": " MERKEZI AFRIKA CUMHURIYETI"
+  },
+  {
+    "Id": 338,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "330",
+    "UlkeAdi": " MIDVAY"
+  },
+  {
+    "Id": 339,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "331",
+    "UlkeAdi": " MINIKOY ADASI"
+  },
+  {
+    "Id": 340,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "332",
+    "UlkeAdi": " MISIR"
+  },
+  {
+    "Id": 341,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "333",
+    "UlkeAdi": " MITLEBERK"
+  },
+  {
+    "Id": 342,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "334",
+    "UlkeAdi": " MOGOLISTAN"
+  },
+  {
+    "Id": 343,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "335",
+    "UlkeAdi": " MOHELL ADASI"
+  },
+  {
+    "Id": 344,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "338",
+    "UlkeAdi": " MONTENEGRO"
+  },
+  {
+    "Id": 345,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "339",
+    "UlkeAdi": " MONTSERRAT ADASI"
+  },
+  {
+    "Id": 346,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "340",
+    "UlkeAdi": " MORANT KEYS"
+  },
+  {
+    "Id": 347,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "341",
+    "UlkeAdi": " MORITANYA"
+  },
+  {
+    "Id": 348,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "342",
+    "UlkeAdi": " MOZAMBIK"
+  },
+  {
+    "Id": 349,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "343",
+    "UlkeAdi": " NAMIBYA"
+  },
+  {
+    "Id": 350,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "344",
+    "UlkeAdi": " NAURU"
+  },
+  {
+    "Id": 351,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "345",
+    "UlkeAdi": " NEPAL"
+  },
+  {
+    "Id": 352,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "346",
+    "UlkeAdi": " NIGUA ADASI"
+  },
+  {
+    "Id": 353,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "347",
+    "UlkeAdi": " NIHTINGALE ADASI"
+  },
+  {
+    "Id": 354,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "348",
+    "UlkeAdi": " NIJER"
+  },
+  {
+    "Id": 355,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "349",
+    "UlkeAdi": " NIJERYA"
+  },
+  {
+    "Id": 356,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "350",
+    "UlkeAdi": " NIKABAR ADASI"
+  },
+  {
+    "Id": 357,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "351",
+    "UlkeAdi": " NIKARAGUA"
+  },
+  {
+    "Id": 358,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "352",
+    "UlkeAdi": " NORFOLK ADASI"
+  },
+  {
+    "Id": 359,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "354",
+    "UlkeAdi": " OCEAN ADASI"
+  },
+  {
+    "Id": 360,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "355",
+    "UlkeAdi": " OCENIA (AMERIKAN)"
+  },
+  {
+    "Id": 361,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "356",
+    "UlkeAdi": " OCENIA (AVUSTURALYA)"
+  },
+  {
+    "Id": 362,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "357",
+    "UlkeAdi": " OCENIA (YENI ZELANDA)"
+  },
+  {
+    "Id": 363,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "358",
+    "UlkeAdi": " OE-CUSSI"
+  },
+  {
+    "Id": 364,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "359",
+    "UlkeAdi": " OENO ADASI"
+  },
+  {
+    "Id": 365,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "360",
+    "UlkeAdi": " OKLAND ADASI"
+  },
+  {
+    "Id": 366,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "361",
+    "UlkeAdi": " ONIKI(EGE DENIZI) ADA"
+  },
+  {
+    "Id": 367,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "362",
+    "UlkeAdi": " ORKNEY ADASI"
+  },
+  {
+    "Id": 368,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "363",
+    "UlkeAdi": " OVALAU ADASI"
+  },
+  {
+    "Id": 369,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "364",
+    "UlkeAdi": " OZBEKISTAN"
+  },
+  {
+    "Id": 370,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "365",
+    "UlkeAdi": " PAKISTAN"
+  },
+  {
+    "Id": 371,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "366",
+    "UlkeAdi": " PALMIRA ADALARI"
+  },
+  {
+    "Id": 372,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "367",
+    "UlkeAdi": " PAMANZI"
+  },
+  {
+    "Id": 373,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "368",
+    "UlkeAdi": " PANAMA"
+  },
+  {
+    "Id": 374,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "369",
+    "UlkeAdi": " PANAMA KANAL BOLGESI"
+  },
+  {
+    "Id": 375,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "370",
+    "UlkeAdi": " PAPUA"
+  },
+  {
+    "Id": 376,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "371",
+    "UlkeAdi": " PAPUA YENI GINE"
+  },
+  {
+    "Id": 377,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "372",
+    "UlkeAdi": " PARAGUAY"
+  },
+  {
+    "Id": 378,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "373",
+    "UlkeAdi": " PEDRO KEYS"
+  },
+  {
+    "Id": 379,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "374",
+    "UlkeAdi": " PEMBA"
+  },
+  {
+    "Id": 380,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "375",
+    "UlkeAdi": " PENON DE ALHUCEMAS"
+  },
+  {
+    "Id": 381,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "376",
+    "UlkeAdi": " PERIM ADASI"
+  },
+  {
+    "Id": 382,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "377",
+    "UlkeAdi": " PERU"
+  },
+  {
+    "Id": 383,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "378",
+    "UlkeAdi": " PESKEDORES ADASI"
+  },
+  {
+    "Id": 384,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "379",
+    "UlkeAdi": " PETER ADASI"
+  },
+  {
+    "Id": 385,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "380",
+    "UlkeAdi": " PIGOLU ADASI"
+  },
+  {
+    "Id": 386,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "381",
+    "UlkeAdi": " PITCAIRN"
+  },
+  {
+    "Id": 387,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "382",
+    "UlkeAdi": " POLAR"
+  },
+  {
+    "Id": 388,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "385",
+    "UlkeAdi": " PORTO RIKO"
+  },
+  {
+    "Id": 389,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "386",
+    "UlkeAdi": " PRASLIN ADASI"
+  },
+  {
+    "Id": 390,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "388",
+    "UlkeAdi": " PRENS EDWARD ADASI"
+  },
+  {
+    "Id": 391,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "389",
+    "UlkeAdi": " PROVIDENCE ADASI"
+  },
+  {
+    "Id": 392,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "390",
+    "UlkeAdi": " RAHIF ADASI"
+  },
+  {
+    "Id": 393,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "391",
+    "UlkeAdi": " RAS AL KHEIMAH"
+  },
+  {
+    "Id": 394,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "392",
+    "UlkeAdi": " REDONDE ADASI"
+  },
+  {
+    "Id": 395,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "393",
+    "UlkeAdi": " REUNION"
+  },
+  {
+    "Id": 396,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "394",
+    "UlkeAdi": " RIO MUNI"
+  },
+  {
+    "Id": 397,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "395",
+    "UlkeAdi": " RODRIGES ADASI"
+  },
+  {
+    "Id": 398,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "397",
+    "UlkeAdi": " RONSENDO KAY"
+  },
+  {
+    "Id": 399,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "398",
+    "UlkeAdi": " ROSS"
+  },
+  {
+    "Id": 400,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "399",
+    "UlkeAdi": " RUANDA"
+  },
+  {
+    "Id": 401,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "400",
+    "UlkeAdi": " RUSYA FEDERASYONU"
+  },
+  {
+    "Id": 402,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "401",
+    "UlkeAdi": " SABA ADASI"
+  },
+  {
+    "Id": 403,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "402",
+    "UlkeAdi": " SABAH"
+  },
+  {
+    "Id": 404,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "403",
+    "UlkeAdi": " SAL ADASI"
+  },
+  {
+    "Id": 405,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "404",
+    "UlkeAdi": " SAL Y GOMEZ ADASI"
+  },
+  {
+    "Id": 406,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "405",
+    "UlkeAdi": " SAMOA(AMERIKAN)"
+  },
+  {
+    "Id": 407,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "406",
+    "UlkeAdi": " SAMOS  ADASI"
+  },
+  {
+    "Id": 408,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "407",
+    "UlkeAdi": " SAN ANDRES Y PROVEDINCIA ADASI"
+  },
+  {
+    "Id": 409,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "408",
+    "UlkeAdi": " SAN FELIX ADASI"
+  },
+  {
+    "Id": 410,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "409",
+    "UlkeAdi": " SAN KRISTOBAL ADASI"
+  },
+  {
+    "Id": 411,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "411",
+    "UlkeAdi": " SAND ADASI"
+  },
+  {
+    "Id": 412,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "412",
+    "UlkeAdi": " SANDVIC ADALARIN GUNEY KISMI"
+  },
+  {
+    "Id": 413,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "413",
+    "UlkeAdi": " SANTA ISABEL ADASI"
+  },
+  {
+    "Id": 414,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "414",
+    "UlkeAdi": " SANTA LUZIA ADASI"
+  },
+  {
+    "Id": 415,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "415",
+    "UlkeAdi": " SANTO ANTAO ADASI"
+  },
+  {
+    "Id": 416,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "416",
+    "UlkeAdi": " SAO NICOLAU ADASI"
+  },
+  {
+    "Id": 417,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "417",
+    "UlkeAdi": " SAO PAULO ADASI"
+  },
+  {
+    "Id": 418,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "418",
+    "UlkeAdi": " SAO PEDRO"
+  },
+  {
+    "Id": 419,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "419",
+    "UlkeAdi": " SAO TIAGO ADASI"
+  },
+  {
+    "Id": 420,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "420",
+    "UlkeAdi": " SAO TOME ADASI"
+  },
+  {
+    "Id": 421,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "421",
+    "UlkeAdi": " SAO VINCENT ADASI"
+  },
+  {
+    "Id": 422,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "422",
+    "UlkeAdi": " SARAVAK"
+  },
+  {
+    "Id": 423,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "423",
+    "UlkeAdi": " SENEGAL"
+  },
+  {
+    "Id": 424,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "424",
+    "UlkeAdi": " SERRANA BANK"
+  },
+  {
+    "Id": 425,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "425",
+    "UlkeAdi": " SERRANILA BANK"
+  },
+  {
+    "Id": 426,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "426",
+    "UlkeAdi": " SEYŞELLER VE BAĞLANTILARI"
+  },
+  {
+    "Id": 427,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "427",
+    "UlkeAdi": " SHARJAH"
+  },
+  {
+    "Id": 428,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "428",
+    "UlkeAdi": " SHETLAND ADALARI"
+  },
+  {
+    "Id": 429,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "429",
+    "UlkeAdi": " SIERA LEONE"
+  },
+  {
+    "Id": 430,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "430",
+    "UlkeAdi": " SIKKIM"
+  },
+  {
+    "Id": 431,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "431",
+    "UlkeAdi": " SILI"
+  },
+  {
+    "Id": 432,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "432",
+    "UlkeAdi": " SILVET ADASI"
+  },
+  {
+    "Id": 433,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "433",
+    "UlkeAdi": " SINGAPUR"
+  },
+  {
+    "Id": 434,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "437",
+    "UlkeAdi": " SNARES ADASI"
+  },
+  {
+    "Id": 435,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "438",
+    "UlkeAdi": " SOCIETY ADASI"
+  },
+  {
+    "Id": 436,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "439",
+    "UlkeAdi": " SOKODRA ADASI"
+  },
+  {
+    "Id": 437,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "440",
+    "UlkeAdi": " SOLOMON ADASI"
+  },
+  {
+    "Id": 438,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "441",
+    "UlkeAdi": " SOMALI"
+  },
+  {
+    "Id": 439,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "442",
+    "UlkeAdi": " ŞOSEL ADASI"
+  },
+  {
+    "Id": 440,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "443",
+    "UlkeAdi": " SPITZBERGER TAKIMADALARI"
+  },
+  {
+    "Id": 441,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "444",
+    "UlkeAdi": " SRI LANKA"
+  },
+  {
+    "Id": 442,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "445",
+    "UlkeAdi": " ST.BRANDON ADALARI"
+  },
+  {
+    "Id": 443,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "446",
+    "UlkeAdi": " ST.EUSTATIOS ADASI"
+  },
+  {
+    "Id": 444,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "447",
+    "UlkeAdi": " ST.HELENA VE BAĞLANTILARI"
+  },
+  {
+    "Id": 445,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "448",
+    "UlkeAdi": " ST.JOHN ADASI"
+  },
+  {
+    "Id": 446,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "449",
+    "UlkeAdi": " ST.KRISTOFER VE NEVIS"
+  },
+  {
+    "Id": 447,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "450",
+    "UlkeAdi": " ST.KROIX ADASI"
+  },
+  {
+    "Id": 448,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "451",
+    "UlkeAdi": " ST.LUSIA"
+  },
+  {
+    "Id": 449,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "452",
+    "UlkeAdi": " ST.MARTIN"
+  },
+  {
+    "Id": 450,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "453",
+    "UlkeAdi": " ST.PAUL ADASI"
+  },
+  {
+    "Id": 451,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "454",
+    "UlkeAdi": " ST.PIERRE VE MIKELON"
+  },
+  {
+    "Id": 452,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "455",
+    "UlkeAdi": " ST.THOMAS ADASI"
+  },
+  {
+    "Id": 453,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "456",
+    "UlkeAdi": " ST.VINCET"
+  },
+  {
+    "Id": 454,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "457",
+    "UlkeAdi": " STARBUCK ADASI"
+  },
+  {
+    "Id": 455,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "458",
+    "UlkeAdi": " SUDAN"
+  },
+  {
+    "Id": 456,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "459",
+    "UlkeAdi": " SUKLADES ADASI"
+  },
+  {
+    "Id": 457,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "460",
+    "UlkeAdi": " SURINAM"
+  },
+  {
+    "Id": 458,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "461",
+    "UlkeAdi": " SURIYE"
+  },
+  {
+    "Id": 459,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "462",
+    "UlkeAdi": " SUUDI ARABISTAN"
+  },
+  {
+    "Id": 460,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "463",
+    "UlkeAdi": " SVAINS ADASI"
+  },
+  {
+    "Id": 461,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "464",
+    "UlkeAdi": " SVALBART TAKIMADALARI"
+  },
+  {
+    "Id": 462,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "465",
+    "UlkeAdi": " SVAZILAND"
+  },
+  {
+    "Id": 463,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "466",
+    "UlkeAdi": " TABAK ADASI"
+  },
+  {
+    "Id": 464,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "467",
+    "UlkeAdi": " TACIKISTAN"
+  },
+  {
+    "Id": 465,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "468",
+    "UlkeAdi": " TAIVAN"
+  },
+  {
+    "Id": 466,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "469",
+    "UlkeAdi": " TANGANIKA"
+  },
+  {
+    "Id": 467,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "470",
+    "UlkeAdi": " TANZANYA"
+  },
+  {
+    "Id": 468,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "471",
+    "UlkeAdi": " TATARISTAN"
+  },
+  {
+    "Id": 469,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "472",
+    "UlkeAdi": " TAVEUNI ADASI"
+  },
+  {
+    "Id": 470,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "473",
+    "UlkeAdi": " TAYLAND"
+  },
+  {
+    "Id": 471,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "474",
+    "UlkeAdi": " TIBET"
+  },
+  {
+    "Id": 472,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "475",
+    "UlkeAdi": " TIMOR"
+  },
+  {
+    "Id": 473,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "476",
+    "UlkeAdi": " TIMOR (PORTEKIZ)"
+  },
+  {
+    "Id": 474,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "477",
+    "UlkeAdi": " TOGO"
+  },
+  {
+    "Id": 475,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "478",
+    "UlkeAdi": " TOKELAO VE NIVE ADALARI"
+  },
+  {
+    "Id": 476,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "479",
+    "UlkeAdi": " TONGA"
+  },
+  {
+    "Id": 477,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "482",
+    "UlkeAdi": " TREE KINGS ADASI"
+  },
+  {
+    "Id": 478,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "483",
+    "UlkeAdi": " TRINDADE ADASI"
+  },
+  {
+    "Id": 479,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "484",
+    "UlkeAdi": " TRINIDAD VE TOBAGO"
+  },
+  {
+    "Id": 480,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "485",
+    "UlkeAdi": " TRISTAN DE CUMHA ADASI"
+  },
+  {
+    "Id": 481,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "486",
+    "UlkeAdi": " TROBRIAND ADASI"
+  },
+  {
+    "Id": 482,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "487",
+    "UlkeAdi": " TROMELIN ADASI"
+  },
+  {
+    "Id": 483,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "488",
+    "UlkeAdi": " TUBUAI ADASI"
+  },
+  {
+    "Id": 484,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "489",
+    "UlkeAdi": " TUCNATO TAKIMADASI"
+  },
+  {
+    "Id": 485,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "490",
+    "UlkeAdi": " TUNUS"
+  },
+  {
+    "Id": 486,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "493",
+    "UlkeAdi": " TURKMENISTAN"
+  },
+  {
+    "Id": 487,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "494",
+    "UlkeAdi": " TURKS VE CAICOS ADASI"
+  },
+  {
+    "Id": 488,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "495",
+    "UlkeAdi": " TUTUILA ADASI"
+  },
+  {
+    "Id": 489,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "496",
+    "UlkeAdi": " TUVALU"
+  },
+  {
+    "Id": 490,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "497",
+    "UlkeAdi": " UGANDA"
+  },
+  {
+    "Id": 491,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "499",
+    "UlkeAdi": " UMM AL KAIVAIN"
+  },
+  {
+    "Id": 492,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "500",
+    "UlkeAdi": " UMMAN"
+  },
+  {
+    "Id": 493,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "501",
+    "UlkeAdi": " URDUN"
+  },
+  {
+    "Id": 494,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "502",
+    "UlkeAdi": " URUGUAY"
+  },
+  {
+    "Id": 495,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "503",
+    "UlkeAdi": " UVEA ADASI"
+  },
+  {
+    "Id": 496,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "504",
+    "UlkeAdi": " VANUA LEVU ADASI"
+  },
+  {
+    "Id": 497,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "505",
+    "UlkeAdi": " VATIKAN"
+  },
+  {
+    "Id": 498,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "506",
+    "UlkeAdi": " VENEZUELA"
+  },
+  {
+    "Id": 499,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "507",
+    "UlkeAdi": " VANUTAU"
+  },
+  {
+    "Id": 500,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "508",
+    "UlkeAdi": " VIETNAM"
+  },
+  {
+    "Id": 501,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "509",
+    "UlkeAdi": " VITI LEVU ISLAND"
+  },
+  {
+    "Id": 502,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "510",
+    "UlkeAdi": " VOSTOK"
+  },
+  {
+    "Id": 503,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "511",
+    "UlkeAdi": " WAKE AN JOHNSTON ADALARI"
+  },
+  {
+    "Id": 504,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "512",
+    "UlkeAdi": " WALLIS VE FUTUNA ADALARI"
+  },
+  {
+    "Id": 505,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "513",
+    "UlkeAdi": " WALPOLE ADASI"
+  },
+  {
+    "Id": 506,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "514",
+    "UlkeAdi": " WALVIS KORFEZI"
+  },
+  {
+    "Id": 507,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "515",
+    "UlkeAdi": " WASHINGTON ADASI"
+  },
+  {
+    "Id": 508,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "516",
+    "UlkeAdi": " WORDLARK ADASI"
+  },
+  {
+    "Id": 509,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "517",
+    "UlkeAdi": " YAKUTISTAN"
+  },
+  {
+    "Id": 510,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "518",
+    "UlkeAdi": " YASAWA ADASI"
+  },
+  {
+    "Id": 511,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "519",
+    "UlkeAdi": " YENI BRITANYA"
+  },
+  {
+    "Id": 512,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "520",
+    "UlkeAdi": " YENI HEBRIDES"
+  },
+  {
+    "Id": 513,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "521",
+    "UlkeAdi": " YENI IRLANDA"
+  },
+  {
+    "Id": 514,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "522",
+    "UlkeAdi": " YENI KALEDONYA VE BAĞLANTILARI"
+  },
+  {
+    "Id": 515,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "523",
+    "UlkeAdi": " YENI ZELLANDA"
+  },
+  {
+    "Id": 516,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "524",
+    "UlkeAdi": " YENI-AMSTERDAM ADASI"
+  },
+  {
+    "Id": 517,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "525",
+    "UlkeAdi": " YESIL BURUN CUM."
+  },
+  {
+    "Id": 518,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "526",
+    "UlkeAdi": " YUGOSLAVYA"
+  },
+  {
+    "Id": 519,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "528",
+    "UlkeAdi": " YUNGHOLZ(AVUSTURYA)"
+  },
+  {
+    "Id": 520,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "529",
+    "UlkeAdi": " ZAIRE"
+  },
+  {
+    "Id": 521,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "530",
+    "UlkeAdi": " ZAMBIA"
+  },
+  {
+    "Id": 522,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "531",
+    "UlkeAdi": " ZANTE ADASI"
+  },
+  {
+    "Id": 523,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "532",
+    "UlkeAdi": " ZANZIBAR"
+  },
+  {
+    "Id": 524,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "533",
+    "UlkeAdi": " ZIMBABVE"
+  },
+  {
+    "Id": 525,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "547",
+    "UlkeAdi": " SIRBISTAN VE KARADAĞ"
+  },
+  {
+    "Id": 526,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "550",
+    "UlkeAdi": " ABAZYA"
+  },
+  {
+    "Id": 527,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "551",
+    "UlkeAdi": " ADANA YUMURTALIK SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 528,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "552",
+    "UlkeAdi": " AHL SERBEST BOLGE"
+  },
+  {
+    "Id": 529,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "553",
+    "UlkeAdi": " ANTALYA SERBEST BOLGE"
+  },
+  {
+    "Id": 530,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "554",
+    "UlkeAdi": " AVRUPA SERBEST BOLGESI"
+  },
+  {
+    "Id": 531,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "555",
+    "UlkeAdi": " BURSA SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 532,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "556",
+    "UlkeAdi": " D.ANADOLU SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 533,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "557",
+    "UlkeAdi": " EGE (GAZİEMİR) SERBEST BOLGE"
+  },
+  {
+    "Id": 534,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "558",
+    "UlkeAdi": " GAZİANTEP SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 535,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "559",
+    "UlkeAdi": " GAZİEMIR SERBEST BÖLGE"
+  },
+  {
+    "Id": 536,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "560",
+    "UlkeAdi": " İMKB SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 537,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "561",
+    "UlkeAdi": " ISTANBUL DERI SERBEST BOLGE"
+  },
+  {
+    "Id": 538,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "562",
+    "UlkeAdi": " IZMIR SERBEST BOLGE"
+  },
+  {
+    "Id": 539,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "563",
+    "UlkeAdi": " KAŞMİR & ASSAM"
+  },
+  {
+    "Id": 540,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "564",
+    "UlkeAdi": " KAYSERİ SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 541,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "565",
+    "UlkeAdi": " MARDİN SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 542,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "566",
+    "UlkeAdi": " MERSIN SERBEST BOLGE"
+  },
+  {
+    "Id": 543,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "567",
+    "UlkeAdi": " RİZE SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 544,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "568",
+    "UlkeAdi": " SAMSUN SERBEST BÖLGESİ"
+  },
+  {
+    "Id": 545,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "569",
+    "UlkeAdi": " TRABZON SERBEST BOLGE"
+  },
+  {
+    "Id": 546,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "570",
+    "UlkeAdi": " TRAKYA SERBEST BOLGE"
+  },
+  {
+    "Id": 547,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "571",
+    "UlkeAdi": " TURKIYE SERBEST BOLGELERI"
+  },
+  {
+    "Id": 548,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "572",
+    "UlkeAdi": " YEMEN"
+  },
+  {
+    "Id": 549,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "574",
+    "UlkeAdi": " MAURITIUS"
+  },
+  {
+    "Id": 550,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "997",
+    "UlkeAdi": " TÜM DÜNYA"
+  },
+  {
+    "Id": 551,
+    "UlkeTipiKodu": 3,
+    "UlkeTipiAdi": "Dünya",
+    "UlkeKodu": "998",
+    "UlkeAdi": " DIGER"
+  },
+  {
+    "Id": 552,
+    "UlkeTipiKodu": 4,
+    "UlkeTipiAdi": "Türkiye",
+    "UlkeKodu": "9999",
+    "UlkeAdi": " TÜRKİYE"
+  }
+]

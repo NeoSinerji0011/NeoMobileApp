@@ -1,0 +1,4798 @@
+[
+  {
+    "MeslekKodu": 1,
+    "MeslekAdi": "2. MÜDÜR"
+  },
+  {
+    "MeslekKodu": 2,
+    "MeslekAdi": "ABAJURCU"
+  },
+  {
+    "MeslekKodu": 3,
+    "MeslekAdi": "ABONE HİZMET SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 4,
+    "MeslekAdi": "ACENTE"
+  },
+  {
+    "MeslekKodu": 5,
+    "MeslekAdi": "ACENTE ELEMANI"
+  },
+  {
+    "MeslekKodu": 6,
+    "MeslekAdi": "ACENTE KANALI MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 7,
+    "MeslekAdi": "ACENTE SAHİBİ"
+  },
+  {
+    "MeslekKodu": 8,
+    "MeslekAdi": "ACENTE SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 9,
+    "MeslekAdi": "ACENTE UZMANI"
+  },
+  {
+    "MeslekKodu": 10,
+    "MeslekAdi": "ACENTE VE BROK.PORTFÖY YETKILİ"
+  },
+  {
+    "MeslekKodu": 11,
+    "MeslekAdi": "ACENTE YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 12,
+    "MeslekAdi": "ACENTELER MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 13,
+    "MeslekAdi": "ACENTELER MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 14,
+    "MeslekAdi": "ACENTELER YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 15,
+    "MeslekAdi": "ACENTELER YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 16,
+    "MeslekAdi": "ADLİ TIP DOKTORU"
+  },
+  {
+    "MeslekKodu": 17,
+    "MeslekAdi": "AEROBİK HOCASI"
+  },
+  {
+    "MeslekKodu": 18,
+    "MeslekAdi": "AGRONOM"
+  },
+  {
+    "MeslekKodu": 19,
+    "MeslekAdi": "AĞIZ VE ÇENE CERRAHI"
+  },
+  {
+    "MeslekKodu": 20,
+    "MeslekAdi": "AĞRI TEDAVİSİ BÖLÜM ŞEFİ"
+  },
+  {
+    "MeslekKodu": 21,
+    "MeslekAdi": "AİLE HEKİMLİĞİ UZMANI"
+  },
+  {
+    "MeslekKodu": 22,
+    "MeslekAdi": "AKARYAKIT BAYİLİĞİ OLANLAR"
+  },
+  {
+    "MeslekKodu": 23,
+    "MeslekAdi": "AKTAR"
+  },
+  {
+    "MeslekKodu": 24,
+    "MeslekAdi": "AKTİF SATIŞ KANALLARI MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 25,
+    "MeslekAdi": "AKTİF SİGORTA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 26,
+    "MeslekAdi": "AKTÖR"
+  },
+  {
+    "MeslekKodu": 27,
+    "MeslekAdi": "AKTÜER"
+  },
+  {
+    "MeslekKodu": 28,
+    "MeslekAdi": "ALTERNATİF DAĞ.KANAL.YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 29,
+    "MeslekAdi": "ALTERNATİF DAĞ.KANALL.UZMAN"
+  },
+  {
+    "MeslekKodu": 30,
+    "MeslekAdi": "AMBALAJ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 31,
+    "MeslekAdi": "AMBALAJCI"
+  },
+  {
+    "MeslekKodu": 32,
+    "MeslekAdi": "AMİR"
+  },
+  {
+    "MeslekKodu": 33,
+    "MeslekAdi": "ANA OKULU ÖĞRETMENİ"
+  },
+  {
+    "MeslekKodu": 34,
+    "MeslekAdi": "ANA SINIFI ÖĞRETMENİ"
+  },
+  {
+    "MeslekKodu": 35,
+    "MeslekAdi": "ANATOMİST"
+  },
+  {
+    "MeslekKodu": 36,
+    "MeslekAdi": "ANESTEZİ UZMANI"
+  },
+  {
+    "MeslekKodu": 37,
+    "MeslekAdi": "ANESTEZİYOLOG"
+  },
+  {
+    "MeslekKodu": 38,
+    "MeslekAdi": "ANTİKACI"
+  },
+  {
+    "MeslekKodu": 39,
+    "MeslekAdi": "ANTRENÖR"
+  },
+  {
+    "MeslekKodu": 40,
+    "MeslekAdi": "ANTROPOLOG"
+  },
+  {
+    "MeslekKodu": 41,
+    "MeslekAdi": "APK GENEL MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 42,
+    "MeslekAdi": "ARAŞTIRMA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 43,
+    "MeslekAdi": "ARAŞTIRMA-GELİŞTİRME"
+  },
+  {
+    "MeslekKodu": 44,
+    "MeslekAdi": "AR-GE REASÜRANS ASİSTANI"
+  },
+  {
+    "MeslekKodu": 45,
+    "MeslekAdi": "AR-GE REASÜRANS MÜDÜR YARD."
+  },
+  {
+    "MeslekKodu": 46,
+    "MeslekAdi": "ARGON KAYNAKÇI"
+  },
+  {
+    "MeslekKodu": 47,
+    "MeslekAdi": "ARICI"
+  },
+  {
+    "MeslekKodu": 48,
+    "MeslekAdi": "ARIZA KABUL SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 49,
+    "MeslekAdi": "ARKEOLOG"
+  },
+  {
+    "MeslekKodu": 50,
+    "MeslekAdi": "ARKEOLOG"
+  },
+  {
+    "MeslekKodu": 51,
+    "MeslekAdi": "ARMATÖR"
+  },
+  {
+    "MeslekKodu": 52,
+    "MeslekAdi": "ARŞİVCİ"
+  },
+  {
+    "MeslekKodu": 53,
+    "MeslekAdi": "ARTİST"
+  },
+  {
+    "MeslekKodu": 54,
+    "MeslekAdi": "ASANSÖR SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 55,
+    "MeslekAdi": "ASTRONOM"
+  },
+  {
+    "MeslekKodu": 56,
+    "MeslekAdi": "ASTRONOT"
+  },
+  {
+    "MeslekKodu": 57,
+    "MeslekAdi": "AŞÇI"
+  },
+  {
+    "MeslekKodu": 58,
+    "MeslekAdi": "AŞÇI"
+  },
+  {
+    "MeslekKodu": 59,
+    "MeslekAdi": "ATÖLYE BAKIM ONARIM ŞEFİ"
+  },
+  {
+    "MeslekKodu": 60,
+    "MeslekAdi": "ATÖLYE MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 61,
+    "MeslekAdi": "AVİZECİ"
+  },
+  {
+    "MeslekKodu": 62,
+    "MeslekAdi": "AVRUPA BÖLÜM DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 63,
+    "MeslekAdi": "AVUKAT"
+  },
+  {
+    "MeslekKodu": 64,
+    "MeslekAdi": "AVUKAT"
+  },
+  {
+    "MeslekKodu": 65,
+    "MeslekAdi": "AYAKKABICI"
+  },
+  {
+    "MeslekKodu": 66,
+    "MeslekAdi": "AYNACI"
+  },
+  {
+    "MeslekKodu": 67,
+    "MeslekAdi": "BAĞCI"
+  },
+  {
+    "MeslekKodu": 68,
+    "MeslekAdi": "BAHARATÇI"
+  },
+  {
+    "MeslekKodu": 69,
+    "MeslekAdi": "BAHÇIVAN"
+  },
+  {
+    "MeslekKodu": 70,
+    "MeslekAdi": "BAHÇIVAN"
+  },
+  {
+    "MeslekKodu": 71,
+    "MeslekAdi": "BAKIM FORMENİ"
+  },
+  {
+    "MeslekKodu": 72,
+    "MeslekAdi": "BAKIM MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 73,
+    "MeslekAdi": "BAKIM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 74,
+    "MeslekAdi": "BAKIM MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 75,
+    "MeslekAdi": "BAKIM ONARIM ATELYE USTASI"
+  },
+  {
+    "MeslekKodu": 76,
+    "MeslekAdi": "BAKIM ONARIM MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 77,
+    "MeslekAdi": "BAKIM ONARIM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 78,
+    "MeslekAdi": "BAKIM ONARIM MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 79,
+    "MeslekAdi": "BAKIM ONARIM ŞEFİ"
+  },
+  {
+    "MeslekKodu": 80,
+    "MeslekAdi": "BAKIM PLANLAMA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 81,
+    "MeslekAdi": "BAKIM PLANLAMA ŞEFİ"
+  },
+  {
+    "MeslekKodu": 82,
+    "MeslekAdi": "BAKIM ŞEFİ"
+  },
+  {
+    "MeslekKodu": 83,
+    "MeslekAdi": "BAKIM TEKNİSYENİ"
+  },
+  {
+    "MeslekKodu": 84,
+    "MeslekAdi": "BAKIM USTASI"
+  },
+  {
+    "MeslekKodu": 85,
+    "MeslekAdi": "BAKKAL"
+  },
+  {
+    "MeslekKodu": 86,
+    "MeslekAdi": "BAKTERİOLOG"
+  },
+  {
+    "MeslekKodu": 87,
+    "MeslekAdi": "BALERİN"
+  },
+  {
+    "MeslekKodu": 88,
+    "MeslekAdi": "BALET"
+  },
+  {
+    "MeslekKodu": 89,
+    "MeslekAdi": "BALIKÇI"
+  },
+  {
+    "MeslekKodu": 90,
+    "MeslekAdi": "BANKA SİGORTACILIĞI MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 91,
+    "MeslekAdi": "BANKACI"
+  },
+  {
+    "MeslekKodu": 92,
+    "MeslekAdi": "BANKER"
+  },
+  {
+    "MeslekKodu": 93,
+    "MeslekAdi": "BANOQUET-CAPTAIN"
+  },
+  {
+    "MeslekKodu": 94,
+    "MeslekAdi": "BAR ŞEFİ"
+  },
+  {
+    "MeslekKodu": 95,
+    "MeslekAdi": "BARINDIRMA ÇÖZÜMLERİ UZMANI"
+  },
+  {
+    "MeslekKodu": 96,
+    "MeslekAdi": "BARMEN"
+  },
+  {
+    "MeslekKodu": 97,
+    "MeslekAdi": "BARMEN"
+  },
+  {
+    "MeslekKodu": 98,
+    "MeslekAdi": "BASIN DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 99,
+    "MeslekAdi": "BASIN VE HALKLA İLİŞKİLER MÜDÜ"
+  },
+  {
+    "MeslekKodu": 100,
+    "MeslekAdi": "BASKI OPERATÖRÜ"
+  },
+  {
+    "MeslekKodu": 101,
+    "MeslekAdi": "BAŞ DANIŞMAN"
+  },
+  {
+    "MeslekKodu": 102,
+    "MeslekAdi": "BAŞ HUKUK MÜŞAVİRİ"
+  },
+  {
+    "MeslekKodu": 103,
+    "MeslekAdi": "BAŞ RESSAM"
+  },
+  {
+    "MeslekKodu": 104,
+    "MeslekAdi": "BAŞ VEZNEDAR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 105,
+    "MeslekAdi": "BAŞHEKIM"
+  },
+  {
+    "MeslekKodu": 106,
+    "MeslekAdi": "BAŞKAN"
+  },
+  {
+    "MeslekKodu": 107,
+    "MeslekAdi": "BAŞKAN VEKİLİ"
+  },
+  {
+    "MeslekKodu": 108,
+    "MeslekAdi": "BAŞKAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 109,
+    "MeslekAdi": "BAŞVEZNEDAR"
+  },
+  {
+    "MeslekKodu": 110,
+    "MeslekAdi": "BAYİ"
+  },
+  {
+    "MeslekKodu": 111,
+    "MeslekAdi": "BEKÇİ"
+  },
+  {
+    "MeslekKodu": 112,
+    "MeslekAdi": "BELEDİYE ZABITASI"
+  },
+  {
+    "MeslekKodu": 113,
+    "MeslekAdi": "BERBER"
+  },
+  {
+    "MeslekKodu": 114,
+    "MeslekAdi": "BEYİN VE SİNİR CERRAHI"
+  },
+  {
+    "MeslekKodu": 115,
+    "MeslekAdi": "BİLEYİCİ"
+  },
+  {
+    "MeslekKodu": 116,
+    "MeslekAdi": "BİLGİ GÜNCELLEME BİRİMİ"
+  },
+  {
+    "MeslekKodu": 117,
+    "MeslekAdi": "BİLGİ İŞL.-ANLAŞMALI KURUM.MD."
+  },
+  {
+    "MeslekKodu": 118,
+    "MeslekAdi": "BİLGİ İŞLEM MRK. SERVİS MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 119,
+    "MeslekAdi": "BİLGİ İŞLEM MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 120,
+    "MeslekAdi": "BİLGİ İŞLEM SİSTEM ŞEFİ"
+  },
+  {
+    "MeslekKodu": 121,
+    "MeslekAdi": "BİLGİ SİSTEMLERİ MEMURU"
+  },
+  {
+    "MeslekKodu": 122,
+    "MeslekAdi": "BİLGİ TEKN.GELİŞT.GRUP BAŞKANI"
+  },
+  {
+    "MeslekKodu": 123,
+    "MeslekAdi": "BİLGİ TEKNOLOJİLERİ BLM. BŞK."
+  },
+  {
+    "MeslekKodu": 124,
+    "MeslekAdi": "BİLGİ TEKNOLOJİLERİ DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 125,
+    "MeslekAdi": "BİLGİ TEKNOLOJİLERİ DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 126,
+    "MeslekAdi": "BİLGİ TEKNOLOJİLERİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 127,
+    "MeslekAdi": "BİLGİ TEKNOLOJİLERİ TEKNİKERİ"
+  },
+  {
+    "MeslekKodu": 128,
+    "MeslekAdi": "BİLGİ TEKNOLOJİLERİ UZMANI"
+  },
+  {
+    "MeslekKodu": 129,
+    "MeslekAdi": "BİLGİSAYAR MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 130,
+    "MeslekAdi": "BİLGİSAYAR OPERATÖRÜ"
+  },
+  {
+    "MeslekKodu": 131,
+    "MeslekAdi": "BİLGİSAYAR TEKNİSYENİ"
+  },
+  {
+    "MeslekKodu": 132,
+    "MeslekAdi": "BİREYSEL BANK. SATIŞ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 133,
+    "MeslekAdi": "BİREYSEL BANK.MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 134,
+    "MeslekAdi": "BİREYSEL BANK.PAZ.YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 135,
+    "MeslekAdi": "BİREYSEL BANK.SATIŞ YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 136,
+    "MeslekAdi": "BİREYSEL BANK.UZMAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 137,
+    "MeslekAdi": "BİREYSEL BANK.YETKİLİ YARD."
+  },
+  {
+    "MeslekKodu": 138,
+    "MeslekAdi": "BİREYSEL BANK.YÖNETMEN YARDIMC"
+  },
+  {
+    "MeslekKodu": 139,
+    "MeslekAdi": "BİREYSEL BANKACILIK UZMANI"
+  },
+  {
+    "MeslekKodu": 140,
+    "MeslekAdi": "BİREYSEL BANKACILIK YETKİLİ"
+  },
+  {
+    "MeslekKodu": 141,
+    "MeslekAdi": "BİREYSEL BANKACILIK YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 142,
+    "MeslekAdi": "BİREYSEL MÜŞTERİ TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 143,
+    "MeslekAdi": "BİREYSEL PAZ.YÖNETMEN YARD."
+  },
+  {
+    "MeslekKodu": 144,
+    "MeslekAdi": "BİREYSEL PAZARLAMA MD.YARD."
+  },
+  {
+    "MeslekKodu": 145,
+    "MeslekAdi": "BİREYSEL PAZARLAMA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 146,
+    "MeslekAdi": "BİREYSEL PAZARLAMA YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 147,
+    "MeslekAdi": "BİREYSEL PORTFÖY YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 148,
+    "MeslekAdi": "BİREYSEL SİGORTALAR MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 149,
+    "MeslekAdi": "BİRİM BAŞKANI"
+  },
+  {
+    "MeslekKodu": 150,
+    "MeslekAdi": "BİRİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 151,
+    "MeslekAdi": "BİRİM PAZARLAMA YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 152,
+    "MeslekAdi": "BİRİM YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 153,
+    "MeslekAdi": "BİYOKİMYA UZMANI, PH D."
+  },
+  {
+    "MeslekKodu": 154,
+    "MeslekAdi": "BİYOKİMYACI"
+  },
+  {
+    "MeslekKodu": 155,
+    "MeslekAdi": "BİYOLOG"
+  },
+  {
+    "MeslekKodu": 156,
+    "MeslekAdi": "BİYOTEKNOLOJİ LAB. ELEMANI"
+  },
+  {
+    "MeslekKodu": 157,
+    "MeslekAdi": "BİYOTEKNOLOJİ LAB. UZMANI"
+  },
+  {
+    "MeslekKodu": 158,
+    "MeslekAdi": "BONUS KART SATICISI"
+  },
+  {
+    "MeslekKodu": 159,
+    "MeslekAdi": "BORSACI"
+  },
+  {
+    "MeslekKodu": 160,
+    "MeslekAdi": "BORUCU"
+  },
+  {
+    "MeslekKodu": 161,
+    "MeslekAdi": "BORUCU USTASI"
+  },
+  {
+    "MeslekKodu": 162,
+    "MeslekAdi": "BOYACI"
+  },
+  {
+    "MeslekKodu": 163,
+    "MeslekAdi": "BÖLGE DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 164,
+    "MeslekAdi": "BÖLGE MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 165,
+    "MeslekAdi": "BÖLGE SATIŞ UZMANI"
+  },
+  {
+    "MeslekKodu": 166,
+    "MeslekAdi": "BÖLGE ŞEFİ"
+  },
+  {
+    "MeslekKodu": 167,
+    "MeslekAdi": "BÖLGE YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 168,
+    "MeslekAdi": "BÖLGELER-KOORDİNASYON GRUP MD."
+  },
+  {
+    "MeslekKodu": 169,
+    "MeslekAdi": "BÖLÜM ASİSTANI"
+  },
+  {
+    "MeslekKodu": 170,
+    "MeslekAdi": "BÖLÜM BAŞKANI"
+  },
+  {
+    "MeslekKodu": 171,
+    "MeslekAdi": "BÖLÜM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 172,
+    "MeslekAdi": "BÖLÜM YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 173,
+    "MeslekAdi": "BÖREKÇİ"
+  },
+  {
+    "MeslekKodu": 174,
+    "MeslekAdi": "BRANDACI"
+  },
+  {
+    "MeslekKodu": 175,
+    "MeslekAdi": "BROKERLAR VE ACENT. YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 176,
+    "MeslekAdi": "BROKERLAR VE ACN.BİRİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 177,
+    "MeslekAdi": "BUHARCI"
+  },
+  {
+    "MeslekKodu": 178,
+    "MeslekAdi": "BÜRO MEMURU"
+  },
+  {
+    "MeslekKodu": 179,
+    "MeslekAdi": "BÜROKRAT"
+  },
+  {
+    "MeslekKodu": 180,
+    "MeslekAdi": "BÜTÇE PLANLAMA MÜDÜR YARDIMCIS"
+  },
+  {
+    "MeslekKodu": 181,
+    "MeslekAdi": "BÜTÇE RAPORLAMA UZMANI"
+  },
+  {
+    "MeslekKodu": 182,
+    "MeslekAdi": "BÜTÇE ŞEFİ"
+  },
+  {
+    "MeslekKodu": 183,
+    "MeslekAdi": "BÜTÇE UZMANI"
+  },
+  {
+    "MeslekKodu": 184,
+    "MeslekAdi": "BÜTÇE VE FİNANSMAN UZMANI"
+  },
+  {
+    "MeslekKodu": 185,
+    "MeslekAdi": "BÜTÇE VE MALİ KONTROL MEMURU"
+  },
+  {
+    "MeslekKodu": 186,
+    "MeslekAdi": "CAMCI"
+  },
+  {
+    "MeslekKodu": 187,
+    "MeslekAdi": "CANKURTARAN"
+  },
+  {
+    "MeslekKodu": 188,
+    "MeslekAdi": "CARİ HESAPLAR YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 189,
+    "MeslekAdi": "CARİ HESAPLAR YÖNETMEN YARDIMC"
+  },
+  {
+    "MeslekKodu": 190,
+    "MeslekAdi": "CARİ HESAPLAR YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 191,
+    "MeslekAdi": "CATERING VE TEMİZLİK ŞEFİ"
+  },
+  {
+    "MeslekKodu": 192,
+    "MeslekAdi": "CENAZE LEVAZIMCISI"
+  },
+  {
+    "MeslekKodu": 193,
+    "MeslekAdi": "CERRAH"
+  },
+  {
+    "MeslekKodu": 194,
+    "MeslekAdi": "CİLDİYECİ"
+  },
+  {
+    "MeslekKodu": 195,
+    "MeslekAdi": "ÇELİK SİLO ZİRAAT MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 196,
+    "MeslekAdi": "ÇEVRE MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 197,
+    "MeslekAdi": "ÇEVRE MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 198,
+    "MeslekAdi": "ÇİÇEKÇİ"
+  },
+  {
+    "MeslekKodu": 199,
+    "MeslekAdi": "ÇİFTÇİ"
+  },
+  {
+    "MeslekKodu": 200,
+    "MeslekAdi": "ÇİLİNGİR"
+  },
+  {
+    "MeslekKodu": 201,
+    "MeslekAdi": "ÇOCUK BAKICISI"
+  },
+  {
+    "MeslekKodu": 202,
+    "MeslekAdi": "ÇOCUK CERRAHI"
+  },
+  {
+    "MeslekKodu": 203,
+    "MeslekAdi": "ÇOCUK RUH SAĞLIĞI VE HASTALIĞI UZM."
+  },
+  {
+    "MeslekKodu": 204,
+    "MeslekAdi": "ÇÖPÇÜ"
+  },
+  {
+    "MeslekKodu": 205,
+    "MeslekAdi": "ÇÖZÜM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 206,
+    "MeslekAdi": "ÇÖZÜM SATIŞ UZMANI"
+  },
+  {
+    "MeslekKodu": 207,
+    "MeslekAdi": "ÇÖZÜM-İŞ GELİŞTİRME YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 208,
+    "MeslekAdi": "DAĞITIM KANALLARI YÖNETİMİ MD."
+  },
+  {
+    "MeslekKodu": 209,
+    "MeslekAdi": "DAHİLİYECİ"
+  },
+  {
+    "MeslekKodu": 210,
+    "MeslekAdi": "DAİRE BAŞKANI"
+  },
+  {
+    "MeslekKodu": 211,
+    "MeslekAdi": "DAKTİLOGRAF"
+  },
+  {
+    "MeslekKodu": 212,
+    "MeslekAdi": "DALGIÇ"
+  },
+  {
+    "MeslekKodu": 213,
+    "MeslekAdi": "DANIŞMAN"
+  },
+  {
+    "MeslekKodu": 214,
+    "MeslekAdi": "DANIŞMANLIK KAYNAK YÖETİCİSİ"
+  },
+  {
+    "MeslekKodu": 215,
+    "MeslekAdi": "DANS ÖĞRETMENLERİ"
+  },
+  {
+    "MeslekKodu": 216,
+    "MeslekAdi": "DAP-NPK PROSES MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 217,
+    "MeslekAdi": "DASK BİRİM ASİSTANI"
+  },
+  {
+    "MeslekKodu": 218,
+    "MeslekAdi": "DATA CENTER MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 219,
+    "MeslekAdi": "DEBBAĞ"
+  },
+  {
+    "MeslekKodu": 220,
+    "MeslekAdi": "DEDEKTİF"
+  },
+  {
+    "MeslekKodu": 221,
+    "MeslekAdi": "DEKAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 222,
+    "MeslekAdi": "DEKARATÖR"
+  },
+  {
+    "MeslekKodu": 223,
+    "MeslekAdi": "DEMİRCİ"
+  },
+  {
+    "MeslekKodu": 224,
+    "MeslekAdi": "DEMİRCİ USTASI"
+  },
+  {
+    "MeslekKodu": 225,
+    "MeslekAdi": "DENEME TAKİP MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 226,
+    "MeslekAdi": "DENETÇI"
+  },
+  {
+    "MeslekKodu": 227,
+    "MeslekAdi": "DENETÇİ"
+  },
+  {
+    "MeslekKodu": 228,
+    "MeslekAdi": "DENETÇİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 229,
+    "MeslekAdi": "DENİZ VE SUALTI DOKTORU"
+  },
+  {
+    "MeslekKodu": 230,
+    "MeslekAdi": "DEPARTMAN SEKRETERİ"
+  },
+  {
+    "MeslekKodu": 231,
+    "MeslekAdi": "DEPARTMAN YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 232,
+    "MeslekAdi": "DEPARTMAN YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 233,
+    "MeslekAdi": "DEPO VE SEVK ELEMANI"
+  },
+  {
+    "MeslekKodu": 234,
+    "MeslekAdi": "DEPO VE SEVK SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 235,
+    "MeslekAdi": "DERİ VE ZÜHREVİ HASTALIKLAR DOKTORU"
+  },
+  {
+    "MeslekKodu": 236,
+    "MeslekAdi": "DERİCİ"
+  },
+  {
+    "MeslekKodu": 237,
+    "MeslekAdi": "DERMATOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 238,
+    "MeslekAdi": "DESİNATÖR"
+  },
+  {
+    "MeslekKodu": 239,
+    "MeslekAdi": "DESTEK HİZMET GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 240,
+    "MeslekAdi": "DIŞ İŞLEMLER ÇALIŞANI"
+  },
+  {
+    "MeslekKodu": 241,
+    "MeslekAdi": "DİĞER"
+  },
+  {
+    "MeslekKodu": 242,
+    "MeslekAdi": "DİN ADAMLARI"
+  },
+  {
+    "MeslekKodu": 243,
+    "MeslekAdi": "DİPLOMAT"
+  },
+  {
+    "MeslekKodu": 244,
+    "MeslekAdi": "DİREKTÖR"
+  },
+  {
+    "MeslekKodu": 245,
+    "MeslekAdi": "DİŞ HEKİMİ"
+  },
+  {
+    "MeslekKodu": 246,
+    "MeslekAdi": "DİŞ HEKİMİ"
+  },
+  {
+    "MeslekKodu": 247,
+    "MeslekAdi": "DİŞ TEKNİSYENLERİ"
+  },
+  {
+    "MeslekKodu": 248,
+    "MeslekAdi": "DİYETİSYEN"
+  },
+  {
+    "MeslekKodu": 249,
+    "MeslekAdi": "DİYETİSYEN"
+  },
+  {
+    "MeslekKodu": 250,
+    "MeslekAdi": "DOÇENT"
+  },
+  {
+    "MeslekKodu": 251,
+    "MeslekAdi": "DOĞRAMACI"
+  },
+  {
+    "MeslekKodu": 252,
+    "MeslekAdi": "DOKTOR"
+  },
+  {
+    "MeslekKodu": 253,
+    "MeslekAdi": "DOKUMACI"
+  },
+  {
+    "MeslekKodu": 254,
+    "MeslekAdi": "DOSYA İNCELEME"
+  },
+  {
+    "MeslekKodu": 255,
+    "MeslekAdi": "DOSYA İNCELEME ŞEF YRD."
+  },
+  {
+    "MeslekKodu": 256,
+    "MeslekAdi": "DOSYA İNCELEME UZMAN YRD."
+  },
+  {
+    "MeslekKodu": 257,
+    "MeslekAdi": "DOSYA İNCELEME UZMANI"
+  },
+  {
+    "MeslekKodu": 258,
+    "MeslekAdi": "DOSYA SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 259,
+    "MeslekAdi": "DÖKÜMCÜ"
+  },
+  {
+    "MeslekKodu": 260,
+    "MeslekAdi": "DÖNERCİ"
+  },
+  {
+    "MeslekKodu": 261,
+    "MeslekAdi": "DÖŞEMECİ"
+  },
+  {
+    "MeslekKodu": 262,
+    "MeslekAdi": "DÖVİZ BÜROSU SAHİBİ"
+  },
+  {
+    "MeslekKodu": 263,
+    "MeslekAdi": "DUVARCI"
+  },
+  {
+    "MeslekKodu": 264,
+    "MeslekAdi": "EBE"
+  },
+  {
+    "MeslekKodu": 265,
+    "MeslekAdi": "ECZACI"
+  },
+  {
+    "MeslekKodu": 266,
+    "MeslekAdi": "EDİTÖR"
+  },
+  {
+    "MeslekKodu": 267,
+    "MeslekAdi": "EĞİTİM MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 268,
+    "MeslekAdi": "EĞİTİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 269,
+    "MeslekAdi": "EĞİTİM UZMANI"
+  },
+  {
+    "MeslekKodu": 270,
+    "MeslekAdi": "EĞİTMEN"
+  },
+  {
+    "MeslekKodu": 271,
+    "MeslekAdi": "EKİP LİDERİ"
+  },
+  {
+    "MeslekKodu": 272,
+    "MeslekAdi": "EKONOMİST"
+  },
+  {
+    "MeslekKodu": 273,
+    "MeslekAdi": "EKSPER"
+  },
+  {
+    "MeslekKodu": 274,
+    "MeslekAdi": "EKSPER"
+  },
+  {
+    "MeslekKodu": 275,
+    "MeslekAdi": "EL SANATLARI İLE UĞRAŞANLAR"
+  },
+  {
+    "MeslekKodu": 276,
+    "MeslekAdi": "ELEKTRİK BAKIM MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 277,
+    "MeslekAdi": "ELEKTRİK DİZAYNER"
+  },
+  {
+    "MeslekKodu": 278,
+    "MeslekAdi": "ELEKTRİK ENST.İNSPEKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 279,
+    "MeslekAdi": "ELEKTRİK ENTRÜMAN ŞEFİ"
+  },
+  {
+    "MeslekKodu": 280,
+    "MeslekAdi": "ELEKTRİK ŞEFİ"
+  },
+  {
+    "MeslekKodu": 281,
+    "MeslekAdi": "ELEKTRİKÇİ"
+  },
+  {
+    "MeslekKodu": 282,
+    "MeslekAdi": "ELEKTRİK-ELEKTRONİK MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 283,
+    "MeslekAdi": "ELEKTRONİKÇİ"
+  },
+  {
+    "MeslekKodu": 284,
+    "MeslekAdi": "ELEMAN"
+  },
+  {
+    "MeslekKodu": 285,
+    "MeslekAdi": "EMEKLİ"
+  },
+  {
+    "MeslekKodu": 286,
+    "MeslekAdi": "EMEKLİ"
+  },
+  {
+    "MeslekKodu": 287,
+    "MeslekAdi": "EMLAKÇI"
+  },
+  {
+    "MeslekKodu": 288,
+    "MeslekAdi": "EMNİYET MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 289,
+    "MeslekAdi": "ENDOKRİNOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 290,
+    "MeslekAdi": "ENDÜSTRİ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 291,
+    "MeslekAdi": "ENSTRÜMAN BAKIM MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 292,
+    "MeslekAdi": "ESNAF"
+  },
+  {
+    "MeslekKodu": 293,
+    "MeslekAdi": "ETÜD PROJE MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 294,
+    "MeslekAdi": "EV HANIMI"
+  },
+  {
+    "MeslekKodu": 295,
+    "MeslekAdi": "EVRAK ELEMANI"
+  },
+  {
+    "MeslekKodu": 296,
+    "MeslekAdi": "FABRİKATÖR"
+  },
+  {
+    "MeslekKodu": 297,
+    "MeslekAdi": "FARMAKOLOG"
+  },
+  {
+    "MeslekKodu": 298,
+    "MeslekAdi": "FERDİ KAA DEPT.YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 299,
+    "MeslekAdi": "FERDİ KAZA DEPT.MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 300,
+    "MeslekAdi": "FIRINCI"
+  },
+  {
+    "MeslekKodu": 301,
+    "MeslekAdi": "FITNESS CENTER YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 302,
+    "MeslekAdi": "FITNESS EĞİTMENİ"
+  },
+  {
+    "MeslekKodu": 303,
+    "MeslekAdi": "FİLM YAPIMCISI"
+  },
+  {
+    "MeslekKodu": 304,
+    "MeslekAdi": "FİLO SATIŞ DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 305,
+    "MeslekAdi": "FİLO VE ÖZEL SATIŞLAR"
+  },
+  {
+    "MeslekKodu": 306,
+    "MeslekAdi": "FİNANMAN YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 307,
+    "MeslekAdi": "FİNANS SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 308,
+    "MeslekAdi": "FİNANS VE İŞ GELİŞTİRME KOORD."
+  },
+  {
+    "MeslekKodu": 309,
+    "MeslekAdi": "FİNANSAL DANIŞMAN"
+  },
+  {
+    "MeslekKodu": 310,
+    "MeslekAdi": "FİNANSAL HİMETLER YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 311,
+    "MeslekAdi": "FİNANSAL SİGORTALAR MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 312,
+    "MeslekAdi": "FİNANSMAN UZMANI"
+  },
+  {
+    "MeslekKodu": 313,
+    "MeslekAdi": "FİNANSMAN YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 314,
+    "MeslekAdi": "FİNANSMANCI"
+  },
+  {
+    "MeslekKodu": 315,
+    "MeslekAdi": "FİTİL ŞEİ"
+  },
+  {
+    "MeslekKodu": 316,
+    "MeslekAdi": "FİTNESS MERKEZİ SAHİBİ"
+  },
+  {
+    "MeslekKodu": 317,
+    "MeslekAdi": "FİZİK TEDAVİ VE REHABİLİTASYON UZMANI DOKTORU"
+  },
+  {
+    "MeslekKodu": 318,
+    "MeslekAdi": "FİZİKÇİ"
+  },
+  {
+    "MeslekKodu": 319,
+    "MeslekAdi": "FİZYOLOG"
+  },
+  {
+    "MeslekKodu": 320,
+    "MeslekAdi": "FON YÖNETİMİ GENEL MD. YRD."
+  },
+  {
+    "MeslekKodu": 321,
+    "MeslekAdi": "FOTOĞRAF EDİTÖRÜ"
+  },
+  {
+    "MeslekKodu": 322,
+    "MeslekAdi": "FOTOĞRAFÇI"
+  },
+  {
+    "MeslekKodu": 323,
+    "MeslekAdi": "FOTOKOPİÇİ"
+  },
+  {
+    "MeslekKodu": 324,
+    "MeslekAdi": "FOTOMODEL"
+  },
+  {
+    "MeslekKodu": 325,
+    "MeslekAdi": "FUARLAR GRUP MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 326,
+    "MeslekAdi": "GALERİCİ"
+  },
+  {
+    "MeslekKodu": 327,
+    "MeslekAdi": "GARSON"
+  },
+  {
+    "MeslekKodu": 328,
+    "MeslekAdi": "GASTROENTEROLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 329,
+    "MeslekAdi": "GAYRİMENKUL DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 330,
+    "MeslekAdi": "GAZETECİ"
+  },
+  {
+    "MeslekKodu": 331,
+    "MeslekAdi": "GAZİNOCU"
+  },
+  {
+    "MeslekKodu": 332,
+    "MeslekAdi": "GEÇİCİ PERSONEL"
+  },
+  {
+    "MeslekKodu": 333,
+    "MeslekAdi": "GEMİ İNŞAAT MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 334,
+    "MeslekAdi": "GEMİ MAKİNA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 335,
+    "MeslekAdi": "GENEL BAŞKAN"
+  },
+  {
+    "MeslekKodu": 336,
+    "MeslekAdi": "GENEL CERRAH"
+  },
+  {
+    "MeslekKodu": 337,
+    "MeslekAdi": "GENEL CERRAHİ UZMANI"
+  },
+  {
+    "MeslekKodu": 338,
+    "MeslekAdi": "GENEL LABORATUVAR SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 339,
+    "MeslekAdi": "GENEL MÜDÜR"
+  },
+  {
+    "MeslekKodu": 340,
+    "MeslekAdi": "GENEL MÜDÜR TEKNİK ASİSTANI"
+  },
+  {
+    "MeslekKodu": 341,
+    "MeslekAdi": "GENEL MÜDÜR VEKİLİ"
+  },
+  {
+    "MeslekKodu": 342,
+    "MeslekAdi": "GENEL MÜDÜR VEKİLİ SEKRETERİ"
+  },
+  {
+    "MeslekKodu": 343,
+    "MeslekAdi": "GENEL MÜDÜR YARD. SEKRETERİ"
+  },
+  {
+    "MeslekKodu": 344,
+    "MeslekAdi": "GENEL MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 345,
+    "MeslekAdi": "GENEL SEKRETER YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 346,
+    "MeslekAdi": "GENEL SERVİSLER ŞEFİ"
+  },
+  {
+    "MeslekKodu": 347,
+    "MeslekAdi": "GENEL SERVİSLER YÖNETİCİ YARD."
+  },
+  {
+    "MeslekKodu": 348,
+    "MeslekAdi": "GENEL YÖNETMEN"
+  },
+  {
+    "MeslekKodu": 349,
+    "MeslekAdi": "GIDA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 350,
+    "MeslekAdi": "GİŞE GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 351,
+    "MeslekAdi": "GİŞE SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 352,
+    "MeslekAdi": "GİŞE UZMAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 353,
+    "MeslekAdi": "GİŞE YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 354,
+    "MeslekAdi": "GÖĞÜS CERRAHI"
+  },
+  {
+    "MeslekKodu": 355,
+    "MeslekAdi": "GÖĞÜS HASTALIKLARI VE TÜBERKÜLOZ UZMANI"
+  },
+  {
+    "MeslekKodu": 356,
+    "MeslekAdi": "GÖZ DOKTORU"
+  },
+  {
+    "MeslekKodu": 357,
+    "MeslekAdi": "GÖZ HASTALIKLARI UZMANI"
+  },
+  {
+    "MeslekKodu": 358,
+    "MeslekAdi": "GÖZETMEN/SÜRVEYAN"
+  },
+  {
+    "MeslekKodu": 359,
+    "MeslekAdi": "GÖZLÜKÇÜ"
+  },
+  {
+    "MeslekKodu": 360,
+    "MeslekAdi": "GRAFİKER"
+  },
+  {
+    "MeslekKodu": 361,
+    "MeslekAdi": "GRUP BAŞKAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 362,
+    "MeslekAdi": "GRUP BAŞKANI"
+  },
+  {
+    "MeslekKodu": 363,
+    "MeslekAdi": "GRUP KOORDİNATÖR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 364,
+    "MeslekAdi": "GRUP LİDERİ"
+  },
+  {
+    "MeslekKodu": 365,
+    "MeslekAdi": "GRUP MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 366,
+    "MeslekAdi": "GRUP NAKILLERI"
+  },
+  {
+    "MeslekKodu": 367,
+    "MeslekAdi": "GRUP VEZNEDARI"
+  },
+  {
+    "MeslekKodu": 368,
+    "MeslekAdi": "GRUP YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 369,
+    "MeslekAdi": "GÜMRÜK KOMİSYONCUSU"
+  },
+  {
+    "MeslekKodu": 370,
+    "MeslekAdi": "GÜMRÜKÇÜ"
+  },
+  {
+    "MeslekKodu": 371,
+    "MeslekAdi": "GÜVENLİK DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 372,
+    "MeslekAdi": "GÜVENLİK GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 373,
+    "MeslekAdi": "GÜVENLİK YÖNETİCİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 374,
+    "MeslekAdi": "GÜZELLİK UZMANI"
+  },
+  {
+    "MeslekKodu": 375,
+    "MeslekAdi": "HADEME-MÜSTAHDEM"
+  },
+  {
+    "MeslekKodu": 376,
+    "MeslekAdi": "HAFRİYAT GRUP ŞEFİ"
+  },
+  {
+    "MeslekKodu": 377,
+    "MeslekAdi": "HAFRİYATÇI"
+  },
+  {
+    "MeslekKodu": 378,
+    "MeslekAdi": "HAKİM"
+  },
+  {
+    "MeslekKodu": 379,
+    "MeslekAdi": "HALICI"
+  },
+  {
+    "MeslekKodu": 380,
+    "MeslekAdi": "HALK SAĞLIĞI UZMANI"
+  },
+  {
+    "MeslekKodu": 381,
+    "MeslekAdi": "HALKLA İLİŞK.-TANITIM SORUMLUS"
+  },
+  {
+    "MeslekKodu": 382,
+    "MeslekAdi": "HALKLA İLİŞKİLER"
+  },
+  {
+    "MeslekKodu": 383,
+    "MeslekAdi": "HALKLA İLİŞKİLER KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 384,
+    "MeslekAdi": "HALKLA İLİŞKİLER MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 385,
+    "MeslekAdi": "HALKLA İLİŞKİLER UZMANI"
+  },
+  {
+    "MeslekKodu": 386,
+    "MeslekAdi": "HAMALLAR"
+  },
+  {
+    "MeslekKodu": 387,
+    "MeslekAdi": "HARİTA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 388,
+    "MeslekAdi": "HASAR ELEMANI"
+  },
+  {
+    "MeslekKodu": 389,
+    "MeslekAdi": "HASAR KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 390,
+    "MeslekAdi": "HASAR MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 391,
+    "MeslekAdi": "HASAR OPERASYON MÜDÜR YRD."
+  },
+  {
+    "MeslekKodu": 392,
+    "MeslekAdi": "HASAR ŞEF YRD."
+  },
+  {
+    "MeslekKodu": 393,
+    "MeslekAdi": "HASAR ŞEFİ"
+  },
+  {
+    "MeslekKodu": 394,
+    "MeslekAdi": "HASAR TEKN.OPR.İÇ DENETİM ŞEFİ"
+  },
+  {
+    "MeslekKodu": 395,
+    "MeslekAdi": "HASAR UZMAN YRD."
+  },
+  {
+    "MeslekKodu": 396,
+    "MeslekAdi": "HASAR YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 397,
+    "MeslekAdi": "HASTABAKICI"
+  },
+  {
+    "MeslekKodu": 398,
+    "MeslekAdi": "HASTANE MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 399,
+    "MeslekAdi": "HATTAT"
+  },
+  {
+    "MeslekKodu": 400,
+    "MeslekAdi": "HAVA VE UZAY HEKİMLİĞİ"
+  },
+  {
+    "MeslekKodu": 401,
+    "MeslekAdi": "HAVACILIK MÜHENDİSLİĞİ"
+  },
+  {
+    "MeslekKodu": 402,
+    "MeslekAdi": "HAYVANCILIKLA UĞRAŞANLAR"
+  },
+  {
+    "MeslekKodu": 403,
+    "MeslekAdi": "HAZİNE YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 404,
+    "MeslekAdi": "HEMATOLOJİ UZMANI DOKTORLAR"
+  },
+  {
+    "MeslekKodu": 405,
+    "MeslekAdi": "HEMŞİRELER"
+  },
+  {
+    "MeslekKodu": 406,
+    "MeslekAdi": "HEYKELTRAŞLAR"
+  },
+  {
+    "MeslekKodu": 407,
+    "MeslekAdi": "HIRDAVATÇILAR"
+  },
+  {
+    "MeslekKodu": 408,
+    "MeslekAdi": "HİDROLİK USTASI"
+  },
+  {
+    "MeslekKodu": 409,
+    "MeslekAdi": "HİZMETLİ"
+  },
+  {
+    "MeslekKodu": 410,
+    "MeslekAdi": "HOSTES"
+  },
+  {
+    "MeslekKodu": 411,
+    "MeslekAdi": "HOTEL"
+  },
+  {
+    "MeslekKodu": 412,
+    "MeslekAdi": "HUBUBATÇI"
+  },
+  {
+    "MeslekKodu": 413,
+    "MeslekAdi": "HUKUK MÜŞAVİR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 414,
+    "MeslekAdi": "HUKUKÇU"
+  },
+  {
+    "MeslekKodu": 415,
+    "MeslekAdi": "HURDACI"
+  },
+  {
+    "MeslekKodu": 416,
+    "MeslekAdi": "INSAN KAYNAKLARİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 417,
+    "MeslekAdi": "İCRA BAŞKANI"
+  },
+  {
+    "MeslekKodu": 418,
+    "MeslekAdi": "İCRA KURULU ÜYESİ"
+  },
+  {
+    "MeslekKodu": 419,
+    "MeslekAdi": "İÇ DENETİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 420,
+    "MeslekAdi": "İÇ DENETİM UZMANI"
+  },
+  {
+    "MeslekKodu": 421,
+    "MeslekAdi": "İÇ DNT.VE İÇ KNT.GRP.BŞK.YARD."
+  },
+  {
+    "MeslekKodu": 422,
+    "MeslekAdi": "İÇ HASTALIKLARI UZMANI"
+  },
+  {
+    "MeslekKodu": 423,
+    "MeslekAdi": "İÇ HİZMETLER MÜDÜR"
+  },
+  {
+    "MeslekKodu": 424,
+    "MeslekAdi": "İÇ MİMAR"
+  },
+  {
+    "MeslekKodu": 425,
+    "MeslekAdi": "İÇ MİMAR"
+  },
+  {
+    "MeslekKodu": 426,
+    "MeslekAdi": "İDARECİ"
+  },
+  {
+    "MeslekKodu": 427,
+    "MeslekAdi": "İDARİ ASİSTAN"
+  },
+  {
+    "MeslekKodu": 428,
+    "MeslekAdi": "İDARİ GRUP BAKANI"
+  },
+  {
+    "MeslekKodu": 429,
+    "MeslekAdi": "İDARİ İŞL.- MUHASEBE SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 430,
+    "MeslekAdi": "İDARİ İŞLER MEMURU"
+  },
+  {
+    "MeslekKodu": 431,
+    "MeslekAdi": "İDARİ İŞLER MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 432,
+    "MeslekAdi": "İDARİ İŞLER MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 433,
+    "MeslekAdi": "İDARİ İŞLER YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 434,
+    "MeslekAdi": "İHBAR ALM ELEMANI"
+  },
+  {
+    "MeslekKodu": 435,
+    "MeslekAdi": "İHRACAT MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 436,
+    "MeslekAdi": "İHRACATÇI"
+  },
+  {
+    "MeslekKodu": 437,
+    "MeslekAdi": "İKTİSATÇI"
+  },
+  {
+    "MeslekKodu": 438,
+    "MeslekAdi": "İLETİŞİM DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 439,
+    "MeslekAdi": "İLETİŞİM KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 440,
+    "MeslekAdi": "İLETİŞİM SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 441,
+    "MeslekAdi": "İLETİŞİM-PAZARLAMA DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 442,
+    "MeslekAdi": "İLKOKUL ÖĞRETMENİ"
+  },
+  {
+    "MeslekKodu": 443,
+    "MeslekAdi": "İMALAT MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 444,
+    "MeslekAdi": "İMALAT MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 445,
+    "MeslekAdi": "İMALAT ŞEF YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 446,
+    "MeslekAdi": "İMALATÇI"
+  },
+  {
+    "MeslekKodu": 447,
+    "MeslekAdi": "İMAM"
+  },
+  {
+    "MeslekKodu": 448,
+    "MeslekAdi": "İMMUNOLOJİ VE ALLERJİK HASTALIKLAR UZMANI"
+  },
+  {
+    "MeslekKodu": 449,
+    "MeslekAdi": "İNSAN KAYN. BÖLÜM BAŞKANI"
+  },
+  {
+    "MeslekKodu": 450,
+    "MeslekAdi": "İNSAN KAYN.EĞT.GELİŞTİRME MD."
+  },
+  {
+    "MeslekKodu": 451,
+    "MeslekAdi": "İNSAN KAYN.VE EĞITIM YÖNETİCİS"
+  },
+  {
+    "MeslekKodu": 452,
+    "MeslekAdi": "İNSAN KAYNAKLARI ASİSTANI"
+  },
+  {
+    "MeslekKodu": 453,
+    "MeslekAdi": "İNSAN KAYNAKLARI ELEMANI"
+  },
+  {
+    "MeslekKodu": 454,
+    "MeslekAdi": "İNSAN KAYNAKLARI MÜDÜR YRD."
+  },
+  {
+    "MeslekKodu": 455,
+    "MeslekAdi": "İNSAN KAYNAKLARI MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 456,
+    "MeslekAdi": "İNSAN KAYNAKLARI UZMAN YRD."
+  },
+  {
+    "MeslekKodu": 457,
+    "MeslekAdi": "İNSAN KAYNAKLARI UZMANI"
+  },
+  {
+    "MeslekKodu": 458,
+    "MeslekAdi": "İNSPEKTÖR"
+  },
+  {
+    "MeslekKodu": 459,
+    "MeslekAdi": "İNŞAAT İŞLERİ İLE UĞRAŞANLAR"
+  },
+  {
+    "MeslekKodu": 460,
+    "MeslekAdi": "İNŞAAT MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 461,
+    "MeslekAdi": "İPLİK ŞEFİ"
+  },
+  {
+    "MeslekKodu": 462,
+    "MeslekAdi": "İPLİK YÜKLEME BAŞ ELEMANI"
+  },
+  {
+    "MeslekKodu": 463,
+    "MeslekAdi": "İPLİKÇİ"
+  },
+  {
+    "MeslekKodu": 464,
+    "MeslekAdi": "İSKELE MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 465,
+    "MeslekAdi": "İSTANBUL BAROSU BAŞKANI"
+  },
+  {
+    "MeslekKodu": 466,
+    "MeslekAdi": "İSTANBUL BAROSU MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 467,
+    "MeslekAdi": "İSTANBUL BÖLGE SATIŞ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 468,
+    "MeslekAdi": "İSTATİSTİKÇİ"
+  },
+  {
+    "MeslekKodu": 469,
+    "MeslekAdi": "İSTİHBARAT UZMAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 470,
+    "MeslekAdi": "İSTİHBARAT YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 471,
+    "MeslekAdi": "İŞ ANALİSTİ"
+  },
+  {
+    "MeslekKodu": 472,
+    "MeslekAdi": "İŞ GELİŞTİRME MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 473,
+    "MeslekAdi": "İŞ GELİŞTİRME VE PLAN.YÖNETİCİ"
+  },
+  {
+    "MeslekKodu": 474,
+    "MeslekAdi": "İŞ GELİŞTİRME&amp;SATIŞ BÖLÜM BAŞK"
+  },
+  {
+    "MeslekKodu": 475,
+    "MeslekAdi": "İŞ GÜVENLİĞİ SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 476,
+    "MeslekAdi": "İŞ HAZIRLAMA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 477,
+    "MeslekAdi": "İŞ SİSTEMLERİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 478,
+    "MeslekAdi": "İŞ UZMANI"
+  },
+  {
+    "MeslekKodu": 479,
+    "MeslekAdi": "İŞADAMI"
+  },
+  {
+    "MeslekKodu": 480,
+    "MeslekAdi": "İŞÇİ"
+  },
+  {
+    "MeslekKodu": 481,
+    "MeslekAdi": "İŞKADINI"
+  },
+  {
+    "MeslekKodu": 482,
+    "MeslekAdi": "İŞLETME DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 483,
+    "MeslekAdi": "İŞLETME KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 484,
+    "MeslekAdi": "İŞLETME ŞEFİ"
+  },
+  {
+    "MeslekKodu": 485,
+    "MeslekAdi": "İŞLETMECİ"
+  },
+  {
+    "MeslekKodu": 486,
+    "MeslekAdi": "İŞLETMECİ"
+  },
+  {
+    "MeslekKodu": 487,
+    "MeslekAdi": "İŞLETMEN"
+  },
+  {
+    "MeslekKodu": 488,
+    "MeslekAdi": "İTFAİYE DAİRE BAŞKANI"
+  },
+  {
+    "MeslekKodu": 489,
+    "MeslekAdi": "İTFAİYECİ"
+  },
+  {
+    "MeslekKodu": 490,
+    "MeslekAdi": "İTHALAT MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 491,
+    "MeslekAdi": "İTHALAT SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 492,
+    "MeslekAdi": "İTHALAT ŞEFİ"
+  },
+  {
+    "MeslekKodu": 493,
+    "MeslekAdi": "İTHALATÇI"
+  },
+  {
+    "MeslekKodu": 494,
+    "MeslekAdi": "JEODEZİ VE FOTOGRAMETRİ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 495,
+    "MeslekAdi": "JEOFİZİK MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 496,
+    "MeslekAdi": "JEOLOG"
+  },
+  {
+    "MeslekKodu": 497,
+    "MeslekAdi": "JEOLOJİ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 498,
+    "MeslekAdi": "JEOLOJİ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 499,
+    "MeslekAdi": "JİNEKOLOG"
+  },
+  {
+    "MeslekKodu": 500,
+    "MeslekAdi": "KABİN OPERATÖRÜ"
+  },
+  {
+    "MeslekKodu": 501,
+    "MeslekAdi": "KABZIMAL"
+  },
+  {
+    "MeslekKodu": 502,
+    "MeslekAdi": "KADIN HASTALIKLARI VE DOĞUM UZMANI"
+  },
+  {
+    "MeslekKodu": 503,
+    "MeslekAdi": "KAĞITÇI"
+  },
+  {
+    "MeslekKodu": 504,
+    "MeslekAdi": "KAHVECİ"
+  },
+  {
+    "MeslekKodu": 505,
+    "MeslekAdi": "KALAYCI"
+  },
+  {
+    "MeslekKodu": 506,
+    "MeslekAdi": "KALIPÇI"
+  },
+  {
+    "MeslekKodu": 507,
+    "MeslekAdi": "KALİTE HİJYEN SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 508,
+    "MeslekAdi": "KALİTE KONTROL MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 509,
+    "MeslekAdi": "KALİTE KONTROL MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 510,
+    "MeslekAdi": "KALİTE KONTROL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 511,
+    "MeslekAdi": "KALİTE SAĞLAMA BAŞ TEKNİSYENİ"
+  },
+  {
+    "MeslekKodu": 512,
+    "MeslekAdi": "KALİTE VE HİJYEN SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 513,
+    "MeslekAdi": "KALİTE YÖN.SİST.UYG. DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 514,
+    "MeslekAdi": "KALİTE YÖNETİM SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 515,
+    "MeslekAdi": "KALP VE DAMAR CERRAHI"
+  },
+  {
+    "MeslekKodu": 516,
+    "MeslekAdi": "KAMBİYO KREDİ"
+  },
+  {
+    "MeslekKodu": 517,
+    "MeslekAdi": "KAMERAMAN"
+  },
+  {
+    "MeslekKodu": 518,
+    "MeslekAdi": "KAMP AMİRİ"
+  },
+  {
+    "MeslekKodu": 519,
+    "MeslekAdi": "KAMYONCU"
+  },
+  {
+    "MeslekKodu": 520,
+    "MeslekAdi": "KAPICI"
+  },
+  {
+    "MeslekKodu": 521,
+    "MeslekAdi": "KAPLAMA İŞLERİ İLE UĞRAŞANLAR"
+  },
+  {
+    "MeslekKodu": 522,
+    "MeslekAdi": "KAPORTACI"
+  },
+  {
+    "MeslekKodu": 523,
+    "MeslekAdi": "KAPTAN"
+  },
+  {
+    "MeslekKodu": 524,
+    "MeslekAdi": "KAPTAN"
+  },
+  {
+    "MeslekKodu": 525,
+    "MeslekAdi": "KAR MERKEZİ YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 526,
+    "MeslekAdi": "KARDİYOLOG"
+  },
+  {
+    "MeslekKodu": 527,
+    "MeslekAdi": "KASAP"
+  },
+  {
+    "MeslekKodu": 528,
+    "MeslekAdi": "KASETÇİ"
+  },
+  {
+    "MeslekKodu": 529,
+    "MeslekAdi": "KASİYER"
+  },
+  {
+    "MeslekKodu": 530,
+    "MeslekAdi": "KAYMAKAM"
+  },
+  {
+    "MeslekKodu": 531,
+    "MeslekAdi": "KAYNAKÇI"
+  },
+  {
+    "MeslekKodu": 532,
+    "MeslekAdi": "KAYNAKÇI"
+  },
+  {
+    "MeslekKodu": 533,
+    "MeslekAdi": "KBB UZMANI"
+  },
+  {
+    "MeslekKodu": 534,
+    "MeslekAdi": "KERESTECİ"
+  },
+  {
+    "MeslekKodu": 535,
+    "MeslekAdi": "KESİN HESAP MEMURU"
+  },
+  {
+    "MeslekKodu": 536,
+    "MeslekAdi": "KESİN HESAP MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 537,
+    "MeslekAdi": "KESMECİ"
+  },
+  {
+    "MeslekKodu": 538,
+    "MeslekAdi": "KIDEMLİ DENETÇİ"
+  },
+  {
+    "MeslekKodu": 539,
+    "MeslekAdi": "KIDEMLİ MÜŞTERİ YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 540,
+    "MeslekAdi": "KIDEMLİ SATIŞ TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 541,
+    "MeslekAdi": "KIDEMLİ SİSTEM UZMANI"
+  },
+  {
+    "MeslekKodu": 542,
+    "MeslekAdi": "KILAK-BURUN-BOĞAZ HASTALIKLARI UZMANI"
+  },
+  {
+    "MeslekKodu": 543,
+    "MeslekAdi": "KIRTASİYECİ"
+  },
+  {
+    "MeslekKodu": 544,
+    "MeslekAdi": "KİMYA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 545,
+    "MeslekAdi": "KİMYAGER"
+  },
+  {
+    "MeslekKodu": 546,
+    "MeslekAdi": "KİRALAMA MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 547,
+    "MeslekAdi": "KİRALAMA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 548,
+    "MeslekAdi": "KİTAPÇI"
+  },
+  {
+    "MeslekKodu": 549,
+    "MeslekAdi": "KLİNİK BİOKİMYA"
+  },
+  {
+    "MeslekKodu": 550,
+    "MeslekAdi": "KOĞUŞÇU"
+  },
+  {
+    "MeslekKodu": 551,
+    "MeslekAdi": "KOMİSYONCU"
+  },
+  {
+    "MeslekKodu": 552,
+    "MeslekAdi": "KONDOKTÖR"
+  },
+  {
+    "MeslekKodu": 553,
+    "MeslekAdi": "KONFEKSİYONCU"
+  },
+  {
+    "MeslekKodu": 554,
+    "MeslekAdi": "KONSOLOS"
+  },
+  {
+    "MeslekKodu": 555,
+    "MeslekAdi": "KONSTRÖKTÖR RESSAM"
+  },
+  {
+    "MeslekKodu": 556,
+    "MeslekAdi": "KONTROL MEMURU"
+  },
+  {
+    "MeslekKodu": 557,
+    "MeslekAdi": "KONTROL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 558,
+    "MeslekAdi": "KONTROL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 559,
+    "MeslekAdi": "KÖMÜRCÜ"
+  },
+  {
+    "MeslekKodu": 560,
+    "MeslekAdi": "KREDİ DENETİM UZMANI"
+  },
+  {
+    "MeslekKodu": 561,
+    "MeslekAdi": "KREDİLER YÖNETMEN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 562,
+    "MeslekAdi": "KUAFÖR"
+  },
+  {
+    "MeslekKodu": 563,
+    "MeslekAdi": "KULLANICI DESTEK"
+  },
+  {
+    "MeslekKodu": 564,
+    "MeslekAdi": "KULLANICI DESTEK UZMANI"
+  },
+  {
+    "MeslekKodu": 565,
+    "MeslekAdi": "KULLANICI DESTEK YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 566,
+    "MeslekAdi": "KUMANYACI"
+  },
+  {
+    "MeslekKodu": 567,
+    "MeslekAdi": "KUMAŞÇI"
+  },
+  {
+    "MeslekKodu": 568,
+    "MeslekAdi": "KUMLAMA OMSG"
+  },
+  {
+    "MeslekKodu": 569,
+    "MeslekAdi": "KURUCU ORTAK"
+  },
+  {
+    "MeslekKodu": 570,
+    "MeslekAdi": "KURUMSAL ÇÖZÜM DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 571,
+    "MeslekAdi": "KURUMSAL ÇÖZÜMLER SATIŞ YÖNETİ"
+  },
+  {
+    "MeslekKodu": 572,
+    "MeslekAdi": "KURUMSAL DESTEK"
+  },
+  {
+    "MeslekKodu": 573,
+    "MeslekAdi": "KURUMSAL EMEKLİLİK MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 574,
+    "MeslekAdi": "KURUMSAL İLETİŞ.-HALK.İLİŞK.MD"
+  },
+  {
+    "MeslekKodu": 575,
+    "MeslekAdi": "KURUMSAL İLETİŞİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 576,
+    "MeslekAdi": "KURUMSAL İLETİŞİM TAKIM LİDERİ"
+  },
+  {
+    "MeslekKodu": 577,
+    "MeslekAdi": "KURUMSAL İLETİŞİM UZMANI"
+  },
+  {
+    "MeslekKodu": 578,
+    "MeslekAdi": "KURUMSAL İLİŞKİLER KOORDİNATÖR"
+  },
+  {
+    "MeslekKodu": 579,
+    "MeslekAdi": "KURUMSAL İLİŞKİLER YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 580,
+    "MeslekAdi": "KURUMSAL İŞ ÇÖZÜMLERİ DİREKTÖR"
+  },
+  {
+    "MeslekKodu": 581,
+    "MeslekAdi": "KURUMSAL KREDİ TAHSİS ELEMANI"
+  },
+  {
+    "MeslekKodu": 582,
+    "MeslekAdi": "KURUMSAL MÜŞTERİLER MÜDÜR"
+  },
+  {
+    "MeslekKodu": 583,
+    "MeslekAdi": "KURUMSAL PAZ.ŞUBE DESTEK ELEMA"
+  },
+  {
+    "MeslekKodu": 584,
+    "MeslekAdi": "KURUMSAL PAZ.YÖNETMEN YARDIMCI"
+  },
+  {
+    "MeslekKodu": 585,
+    "MeslekAdi": "KURUMSAL PAZ.YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 586,
+    "MeslekAdi": "KURUMSAL PAZARLAMA ASİSTANI"
+  },
+  {
+    "MeslekKodu": 587,
+    "MeslekAdi": "KURUMSAL PAZARLAMA MD.YRD."
+  },
+  {
+    "MeslekKodu": 588,
+    "MeslekAdi": "KURUMSAL PAZARLAMA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 589,
+    "MeslekAdi": "KURUMSAL PAZARLAMA MÜŞT.TEM."
+  },
+  {
+    "MeslekKodu": 590,
+    "MeslekAdi": "KURUMSAL PAZARLAMA UZMAN YRD."
+  },
+  {
+    "MeslekKodu": 591,
+    "MeslekAdi": "KURUMSAL PAZARLAMA YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 592,
+    "MeslekAdi": "KURUMSAL PAZARLAMA YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 593,
+    "MeslekAdi": "KURUMSAL PORTFÖY YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 594,
+    "MeslekAdi": "KURUMSAL PROJELER YÖNETİCİ"
+  },
+  {
+    "MeslekKodu": 595,
+    "MeslekAdi": "KURUMSAL SATIŞ EKİP YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 596,
+    "MeslekAdi": "KURUMSAL SATIŞ FİNANSAL DANIŞM"
+  },
+  {
+    "MeslekKodu": 597,
+    "MeslekAdi": "KURUMSAL SATIŞ GRUP MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 598,
+    "MeslekAdi": "KURUMSAL SATIŞ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 599,
+    "MeslekAdi": "KURUMSAL SATIŞ TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 600,
+    "MeslekAdi": "KURUMSAL TEKNİK MÜDÜR YARDIMCI"
+  },
+  {
+    "MeslekKodu": 601,
+    "MeslekAdi": "KURUTEMİZLEMECİ"
+  },
+  {
+    "MeslekKodu": 602,
+    "MeslekAdi": "KURUYEMİŞÇİ"
+  },
+  {
+    "MeslekKodu": 603,
+    "MeslekAdi": "KURYE"
+  },
+  {
+    "MeslekKodu": 604,
+    "MeslekAdi": "KUŞÇU"
+  },
+  {
+    "MeslekKodu": 605,
+    "MeslekAdi": "KUYUMCU"
+  },
+  {
+    "MeslekKodu": 606,
+    "MeslekAdi": "KÜRKÇÜ"
+  },
+  {
+    "MeslekKodu": 607,
+    "MeslekAdi": "KÜTÜPHANECİ"
+  },
+  {
+    "MeslekKodu": 608,
+    "MeslekAdi": "LABORANT"
+  },
+  {
+    "MeslekKodu": 609,
+    "MeslekAdi": "LASTİK BAYİİ"
+  },
+  {
+    "MeslekKodu": 610,
+    "MeslekAdi": "LASTİKÇİ"
+  },
+  {
+    "MeslekKodu": 611,
+    "MeslekAdi": "LEHİMCİ"
+  },
+  {
+    "MeslekKodu": 612,
+    "MeslekAdi": "LİDER"
+  },
+  {
+    "MeslekKodu": 613,
+    "MeslekAdi": "LİSE ÖĞRETMENİ"
+  },
+  {
+    "MeslekKodu": 614,
+    "MeslekAdi": "LOJİSTİK ELEMANI"
+  },
+  {
+    "MeslekKodu": 615,
+    "MeslekAdi": "LOJİSTİK MEMURU"
+  },
+  {
+    "MeslekKodu": 616,
+    "MeslekAdi": "LOJİSTİK SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 617,
+    "MeslekAdi": "LOJİSTİK UZMANI"
+  },
+  {
+    "MeslekKodu": 618,
+    "MeslekAdi": "LOJİSTİK VE MALZ. KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 619,
+    "MeslekAdi": "LOJİSTİK-TEDARİK BÖLÜM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 620,
+    "MeslekAdi": "LOKANTACI"
+  },
+  {
+    "MeslekKodu": 621,
+    "MeslekAdi": "MADEN MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 622,
+    "MeslekAdi": "MADENCİ"
+  },
+  {
+    "MeslekKodu": 623,
+    "MeslekAdi": "MAĞAZALAR MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 624,
+    "MeslekAdi": "MAKAM ŞOFÖRÜ"
+  },
+  {
+    "MeslekKodu": 625,
+    "MeslekAdi": "MAKİNA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 626,
+    "MeslekAdi": "MAKİNE BAKIM USTASI"
+  },
+  {
+    "MeslekKodu": 627,
+    "MeslekAdi": "MAKİNE EKİPMAN SAYMANI"
+  },
+  {
+    "MeslekKodu": 628,
+    "MeslekAdi": "MAKİNE ENERJİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 629,
+    "MeslekAdi": "MAKİNE FORMENİ"
+  },
+  {
+    "MeslekKodu": 630,
+    "MeslekAdi": "MAKİNE OPERATÖR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 631,
+    "MeslekAdi": "MAKİNE TEKN.ÇEVRE MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 632,
+    "MeslekAdi": "MAKİNECİ"
+  },
+  {
+    "MeslekKodu": 633,
+    "MeslekAdi": "MAL KABUL"
+  },
+  {
+    "MeslekKodu": 634,
+    "MeslekAdi": "MALİ ANALİST"
+  },
+  {
+    "MeslekKodu": 635,
+    "MeslekAdi": "MALİ BÜTÇE SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 636,
+    "MeslekAdi": "MALİ İŞLER BAŞKANI"
+  },
+  {
+    "MeslekKodu": 637,
+    "MeslekAdi": "MALİ İŞLER DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 638,
+    "MeslekAdi": "MALİ İŞLER KOORDİNATÖR YRD."
+  },
+  {
+    "MeslekKodu": 639,
+    "MeslekAdi": "MALİ İŞLER KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 640,
+    "MeslekAdi": "MALİ İŞLER SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 641,
+    "MeslekAdi": "MALİ İŞLER YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 642,
+    "MeslekAdi": "MALİ KONTROL UZMAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 643,
+    "MeslekAdi": "MALİ KONTROLÖR"
+  },
+  {
+    "MeslekKodu": 644,
+    "MeslekAdi": "MALİ KONTROLÖR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 645,
+    "MeslekAdi": "MALİ MÜŞAVİR"
+  },
+  {
+    "MeslekKodu": 646,
+    "MeslekAdi": "MALİ MÜŞAVİR"
+  },
+  {
+    "MeslekKodu": 647,
+    "MeslekAdi": "MALİ RAPORLAMA ŞEFİ"
+  },
+  {
+    "MeslekKodu": 648,
+    "MeslekAdi": "MALİ VE İDARİ İŞL.SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 649,
+    "MeslekAdi": "MALİ VE İDARİ İŞLER DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 650,
+    "MeslekAdi": "MALİ VE İDARİ İŞLER GN.MD.YRD."
+  },
+  {
+    "MeslekKodu": 651,
+    "MeslekAdi": "MALİ VE İDARİ İŞLER KOORD."
+  },
+  {
+    "MeslekKodu": 652,
+    "MeslekAdi": "MALİYECİ"
+  },
+  {
+    "MeslekKodu": 653,
+    "MeslekAdi": "MALİYET KONTROL"
+  },
+  {
+    "MeslekKodu": 654,
+    "MeslekAdi": "MALİYET KONTROL MEMURU"
+  },
+  {
+    "MeslekKodu": 655,
+    "MeslekAdi": "MALİYET KONTROL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 656,
+    "MeslekAdi": "MALZEME VE DÖKÜMAN MEMURU"
+  },
+  {
+    "MeslekKodu": 657,
+    "MeslekAdi": "MANAV"
+  },
+  {
+    "MeslekKodu": 658,
+    "MeslekAdi": "MANDIRACI"
+  },
+  {
+    "MeslekKodu": 659,
+    "MeslekAdi": "MANİFATURACI"
+  },
+  {
+    "MeslekKodu": 660,
+    "MeslekAdi": "MANİKÜRCÜ"
+  },
+  {
+    "MeslekKodu": 661,
+    "MeslekAdi": "MANKEN"
+  },
+  {
+    "MeslekKodu": 662,
+    "MeslekAdi": "MARANGOZ"
+  },
+  {
+    "MeslekKodu": 663,
+    "MeslekAdi": "MARKA DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 664,
+    "MeslekAdi": "MARKA VE PATENT VEKİLİ"
+  },
+  {
+    "MeslekKodu": 665,
+    "MeslekAdi": "MARMARA BÖLGE ŞEFİ"
+  },
+  {
+    "MeslekKodu": 666,
+    "MeslekAdi": "MASÖR"
+  },
+  {
+    "MeslekKodu": 667,
+    "MeslekAdi": "MATBAACI"
+  },
+  {
+    "MeslekKodu": 668,
+    "MeslekAdi": "MATEMATİKÇİ"
+  },
+  {
+    "MeslekKodu": 669,
+    "MeslekAdi": "MAZOT DAĞITIM GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 670,
+    "MeslekAdi": "MEDİKAL DİREKTÖR"
+  },
+  {
+    "MeslekKodu": 671,
+    "MeslekAdi": "MEDYA İLİŞKİLERİ DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 672,
+    "MeslekAdi": "MEFRUŞATÇI"
+  },
+  {
+    "MeslekKodu": 673,
+    "MeslekAdi": "MEKANİK TEKNİKERİ"
+  },
+  {
+    "MeslekKodu": 674,
+    "MeslekAdi": "MEMUR"
+  },
+  {
+    "MeslekKodu": 675,
+    "MeslekAdi": "MEMUR"
+  },
+  {
+    "MeslekKodu": 676,
+    "MeslekAdi": "MERMERCİ"
+  },
+  {
+    "MeslekKodu": 677,
+    "MeslekAdi": "MESUL MÜDÜR"
+  },
+  {
+    "MeslekKodu": 678,
+    "MeslekAdi": "METALURJİ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 679,
+    "MeslekAdi": "METEOROLOJİ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 680,
+    "MeslekAdi": "MEVZUAT TAKİP MEMURU"
+  },
+  {
+    "MeslekKodu": 681,
+    "MeslekAdi": "MEZARCI"
+  },
+  {
+    "MeslekKodu": 682,
+    "MeslekAdi": "MİKROBİYOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 683,
+    "MeslekAdi": "MİKROBİYOLOJİ VE KLİNİK MİKROBİYOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 684,
+    "MeslekAdi": "MİLLETVEKİLİ"
+  },
+  {
+    "MeslekKodu": 685,
+    "MeslekAdi": "MİMAR"
+  },
+  {
+    "MeslekKodu": 686,
+    "MeslekAdi": "MOBİLYACI"
+  },
+  {
+    "MeslekKodu": 687,
+    "MeslekAdi": "MODELİST"
+  },
+  {
+    "MeslekKodu": 688,
+    "MeslekAdi": "MOTO KURYE"
+  },
+  {
+    "MeslekKodu": 689,
+    "MeslekAdi": "MOTORCU"
+  },
+  {
+    "MeslekKodu": 690,
+    "MeslekAdi": "MUHABİR"
+  },
+  {
+    "MeslekKodu": 691,
+    "MeslekAdi": "MUHABİR"
+  },
+  {
+    "MeslekKodu": 692,
+    "MeslekAdi": "MUHASEBE GRUP LİDERİ"
+  },
+  {
+    "MeslekKodu": 693,
+    "MeslekAdi": "MUHASEBE SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 694,
+    "MeslekAdi": "MUHASEBE VE İNSAN KAYN. MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 695,
+    "MeslekAdi": "MUHASEBECİ"
+  },
+  {
+    "MeslekKodu": 696,
+    "MeslekAdi": "MUHASEBE-FİNANSMAN MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 697,
+    "MeslekAdi": "MUKAVELE MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 698,
+    "MeslekAdi": "MUKAVELE YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 699,
+    "MeslekAdi": "MUKAVELELER MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 700,
+    "MeslekAdi": "MURAHHAS ÜYE"
+  },
+  {
+    "MeslekKodu": 701,
+    "MeslekAdi": "MURAHHAS ÜYE SEKRETERİ"
+  },
+  {
+    "MeslekKodu": 702,
+    "MeslekAdi": "MUSLUKÇU"
+  },
+  {
+    "MeslekKodu": 703,
+    "MeslekAdi": "MUŞAMBACI"
+  },
+  {
+    "MeslekKodu": 704,
+    "MeslekAdi": "MÜBAAYA MEMURU"
+  },
+  {
+    "MeslekKodu": 705,
+    "MeslekAdi": "MÜBAŞİR"
+  },
+  {
+    "MeslekKodu": 706,
+    "MeslekAdi": "MÜDÜR"
+  },
+  {
+    "MeslekKodu": 707,
+    "MeslekAdi": "MÜDÜR"
+  },
+  {
+    "MeslekKodu": 708,
+    "MeslekAdi": "MÜFETTİŞ"
+  },
+  {
+    "MeslekKodu": 709,
+    "MeslekAdi": "MÜFETTİŞ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 710,
+    "MeslekAdi": "MÜFTÜ"
+  },
+  {
+    "MeslekKodu": 711,
+    "MeslekAdi": "MÜHENDİS"
+  },
+  {
+    "MeslekKodu": 712,
+    "MeslekAdi": "MÜHENDİS"
+  },
+  {
+    "MeslekKodu": 713,
+    "MeslekAdi": "MÜREBBİYE"
+  },
+  {
+    "MeslekKodu": 714,
+    "MeslekAdi": "MÜSTAHDEM"
+  },
+  {
+    "MeslekKodu": 715,
+    "MeslekAdi": "MÜŞTERİ HİZMETLERİ ASİSTANI"
+  },
+  {
+    "MeslekKodu": 716,
+    "MeslekAdi": "MÜŞTERİ HİZMETLERİ YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 717,
+    "MeslekAdi": "MÜŞTERİ İLİŞK.-CRM YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 718,
+    "MeslekAdi": "MÜŞTERİ İLİŞK.VE SATIŞ KOORDİN"
+  },
+  {
+    "MeslekKodu": 719,
+    "MeslekAdi": "MÜŞTERİ İLİŞKİLERİ DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 720,
+    "MeslekAdi": "MÜŞTERİ İLİŞKİLERİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 721,
+    "MeslekAdi": "MÜŞTERİ İLİŞKİLERİ UZMAN YARD."
+  },
+  {
+    "MeslekKodu": 722,
+    "MeslekAdi": "MÜŞTERİ İLİŞKİLERİ YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 723,
+    "MeslekAdi": "MÜŞTERİ TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 724,
+    "MeslekAdi": "MÜTEAHHİT"
+  },
+  {
+    "MeslekKodu": 725,
+    "MeslekAdi": "MÜTEFFERRİK İŞLER ŞEFİ"
+  },
+  {
+    "MeslekKodu": 726,
+    "MeslekAdi": "MÜZAYEDECİ"
+  },
+  {
+    "MeslekKodu": 727,
+    "MeslekAdi": "MÜZECİ"
+  },
+  {
+    "MeslekKodu": 728,
+    "MeslekAdi": "MÜZİSYEN"
+  },
+  {
+    "MeslekKodu": 729,
+    "MeslekAdi": "NAKKAŞ"
+  },
+  {
+    "MeslekKodu": 730,
+    "MeslekAdi": "NAKLİYAT MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 731,
+    "MeslekAdi": "NAKLİYECİ"
+  },
+  {
+    "MeslekKodu": 732,
+    "MeslekAdi": "NALBANT"
+  },
+  {
+    "MeslekKodu": 733,
+    "MeslekAdi": "NALBUR"
+  },
+  {
+    "MeslekKodu": 734,
+    "MeslekAdi": "NEFROLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 735,
+    "MeslekAdi": "NETWORK-GÜVENLİK YÖNETİMİ"
+  },
+  {
+    "MeslekKodu": 736,
+    "MeslekAdi": "NOTER"
+  },
+  {
+    "MeslekKodu": 737,
+    "MeslekAdi": "NOTER"
+  },
+  {
+    "MeslekKodu": 738,
+    "MeslekAdi": "NÖROLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 739,
+    "MeslekAdi": "NPK MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 740,
+    "MeslekAdi": "NÜRLEER TIP UZMANI"
+  },
+  {
+    "MeslekKodu": 741,
+    "MeslekAdi": "ODUNCU"
+  },
+  {
+    "MeslekKodu": 742,
+    "MeslekAdi": "OFİS ASİSTANI"
+  },
+  {
+    "MeslekKodu": 743,
+    "MeslekAdi": "OFSET KALIPÇISI"
+  },
+  {
+    "MeslekKodu": 744,
+    "MeslekAdi": "ONKOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 745,
+    "MeslekAdi": "OP.DR.KBB/BAŞ-BOYUN CERR.UZM."
+  },
+  {
+    "MeslekKodu": 746,
+    "MeslekAdi": "OPERASYON"
+  },
+  {
+    "MeslekKodu": 747,
+    "MeslekAdi": "OPERASYON ASİSTANI"
+  },
+  {
+    "MeslekKodu": 748,
+    "MeslekAdi": "OPERASYON BAŞKANI"
+  },
+  {
+    "MeslekKodu": 749,
+    "MeslekAdi": "OPERASYON BİRİM YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 750,
+    "MeslekAdi": "OPERASYON BÖLÜM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 751,
+    "MeslekAdi": "OPERASYON DESTEK YÖNETMENİ</OPN"
+  },
+  {
+    "MeslekKodu": 752,
+    "MeslekAdi": "OPERASYON ELEMANI"
+  },
+  {
+    "MeslekKodu": 753,
+    "MeslekAdi": "OPERASYON MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 754,
+    "MeslekAdi": "OPERASYON MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 755,
+    "MeslekAdi": "OPERASYON UZMAN"
+  },
+  {
+    "MeslekKodu": 756,
+    "MeslekAdi": "OPERASYON UZMAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 757,
+    "MeslekAdi": "OPERASYON YETKİLİ UZMAN"
+  },
+  {
+    "MeslekKodu": 758,
+    "MeslekAdi": "OPERASYON YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 759,
+    "MeslekAdi": "OPERASYON YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 760,
+    "MeslekAdi": "OPERASYON/GİŞE"
+  },
+  {
+    "MeslekKodu": 761,
+    "MeslekAdi": "OPERATÖR"
+  },
+  {
+    "MeslekKodu": 762,
+    "MeslekAdi": "OPERATÖR"
+  },
+  {
+    "MeslekKodu": 763,
+    "MeslekAdi": "OPERATÖR DOKTOR"
+  },
+  {
+    "MeslekKodu": 764,
+    "MeslekAdi": "ORACLE ERP DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 765,
+    "MeslekAdi": "ORACLE SİSTEM ŞEFİ"
+  },
+  {
+    "MeslekKodu": 766,
+    "MeslekAdi": "ORACLE UZMANI"
+  },
+  {
+    "MeslekKodu": 767,
+    "MeslekAdi": "ORG.MET.VE EĞİTİM ELEMANI"
+  },
+  {
+    "MeslekKodu": 768,
+    "MeslekAdi": "ORGANİZATÖR"
+  },
+  {
+    "MeslekKodu": 769,
+    "MeslekAdi": "ORTAOKUL ÖĞRETMENİ"
+  },
+  {
+    "MeslekKodu": 770,
+    "MeslekAdi": "ORTEPEDİ VE TRAVMATOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 771,
+    "MeslekAdi": "ORTODONTİ UZMANI"
+  },
+  {
+    "MeslekKodu": 772,
+    "MeslekAdi": "ORTOPEDİ-TRAVMOTOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 773,
+    "MeslekAdi": "OTEL DESTEK HİZMETLERİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 774,
+    "MeslekAdi": "OTELCİ"
+  },
+  {
+    "MeslekKodu": 775,
+    "MeslekAdi": "OTO DIŞI HASAR MÜDÜR YARDIMCIS"
+  },
+  {
+    "MeslekKodu": 776,
+    "MeslekAdi": "OTO DIŞI HASAR MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 777,
+    "MeslekAdi": "OTO DIŞI HASAR UZMAN YRD."
+  },
+  {
+    "MeslekKodu": 778,
+    "MeslekAdi": "OTO GALERİSİ SAHİBİ"
+  },
+  {
+    "MeslekKodu": 779,
+    "MeslekAdi": "OTO HASAR MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 780,
+    "MeslekAdi": "OTO HASAR MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 781,
+    "MeslekAdi": "OTO HURDACISI"
+  },
+  {
+    "MeslekKodu": 782,
+    "MeslekAdi": "OTO KURTARICISI"
+  },
+  {
+    "MeslekKodu": 783,
+    "MeslekAdi": "OTO TAMİRCİSİ"
+  },
+  {
+    "MeslekKodu": 784,
+    "MeslekAdi": "OTO YEDEK PARÇACI"
+  },
+  {
+    "MeslekKodu": 785,
+    "MeslekAdi": "OTO YIKAMA"
+  },
+  {
+    "MeslekKodu": 786,
+    "MeslekAdi": "OTOMASYON"
+  },
+  {
+    "MeslekKodu": 787,
+    "MeslekAdi": "OTOPARK GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 788,
+    "MeslekAdi": "OYUNCAKÇI"
+  },
+  {
+    "MeslekKodu": 789,
+    "MeslekAdi": "OZALİT VE ARŞİV MEMURU"
+  },
+  {
+    "MeslekKodu": 790,
+    "MeslekAdi": "ÖĞRENCİ"
+  },
+  {
+    "MeslekKodu": 791,
+    "MeslekAdi": "ÖĞRETİM GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 792,
+    "MeslekAdi": "ÖĞRETMEN"
+  },
+  {
+    "MeslekKodu": 793,
+    "MeslekAdi": "ÖRÜCÜ"
+  },
+  {
+    "MeslekKodu": 794,
+    "MeslekAdi": "ÖZEL BANK.PAZ.MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 795,
+    "MeslekAdi": "ÖZEL BANK.PAZ.YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 796,
+    "MeslekAdi": "ÖZEL BANK.PAZ.YÖNETMEN YARDIMC"
+  },
+  {
+    "MeslekKodu": 797,
+    "MeslekAdi": "PANJURCU"
+  },
+  {
+    "MeslekKodu": 798,
+    "MeslekAdi": "PARFÜMERİCİ"
+  },
+  {
+    "MeslekKodu": 799,
+    "MeslekAdi": "PASTA KABUL ELEMANI"
+  },
+  {
+    "MeslekKodu": 800,
+    "MeslekAdi": "PATOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 801,
+    "MeslekAdi": "PATRON"
+  },
+  {
+    "MeslekKodu": 802,
+    "MeslekAdi": "PAZ.VE FİN.KURUMLAR SATIŞ MÜD."
+  },
+  {
+    "MeslekKodu": 803,
+    "MeslekAdi": "PAZAR ORTAKLIKLARI YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 804,
+    "MeslekAdi": "PAZARLAMA ASİSTANI"
+  },
+  {
+    "MeslekKodu": 805,
+    "MeslekAdi": "PAZARLAMA BİRİM BAŞKANI"
+  },
+  {
+    "MeslekKodu": 806,
+    "MeslekAdi": "PAZARLAMA BİRİM YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 807,
+    "MeslekAdi": "PAZARLAMA DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 808,
+    "MeslekAdi": "PAZARLAMA GENEL MÜDÜR YRD."
+  },
+  {
+    "MeslekKodu": 809,
+    "MeslekAdi": "PAZARLAMA MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 810,
+    "MeslekAdi": "PAZARLAMA PROJE YÖNETICISI"
+  },
+  {
+    "MeslekKodu": 811,
+    "MeslekAdi": "PAZARLAMA UZMANI"
+  },
+  {
+    "MeslekKodu": 812,
+    "MeslekAdi": "PAZARLAMA VE ILETIŞIM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 813,
+    "MeslekAdi": "PAZARLAMA VE İŞ GELİŞTİRME"
+  },
+  {
+    "MeslekKodu": 814,
+    "MeslekAdi": "PAZARLAMA VE SATIŞ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 815,
+    "MeslekAdi": "PAZARLAMA VE SATIŞ TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 816,
+    "MeslekAdi": "PAZARLAMA VE SATIŞ UZMANI"
+  },
+  {
+    "MeslekKodu": 817,
+    "MeslekAdi": "PAZARLAMA VE TANITIM YÖNETİCİS"
+  },
+  {
+    "MeslekKodu": 818,
+    "MeslekAdi": "PAZARLAMA YETKİLİ UZMAN"
+  },
+  {
+    "MeslekKodu": 819,
+    "MeslekAdi": "PAZARLAMA YETKİLİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 820,
+    "MeslekAdi": "PAZARLAMA YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 821,
+    "MeslekAdi": "PAZARLAMA YÖNETMENI"
+  },
+  {
+    "MeslekKodu": 822,
+    "MeslekAdi": "PAZARLAMA/AR-GE MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 823,
+    "MeslekAdi": "PAZARLAMACI"
+  },
+  {
+    "MeslekKodu": 824,
+    "MeslekAdi": "PAZARLAMA-İLETİŞİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 825,
+    "MeslekAdi": "PAZARLAMA-İLETİŞİM SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 826,
+    "MeslekAdi": "PEDAGOG"
+  },
+  {
+    "MeslekKodu": 827,
+    "MeslekAdi": "PERSONEL SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 828,
+    "MeslekAdi": "PERSONEL UZMANI"
+  },
+  {
+    "MeslekKodu": 829,
+    "MeslekAdi": "PETROL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 830,
+    "MeslekAdi": "PİLOT"
+  },
+  {
+    "MeslekKodu": 831,
+    "MeslekAdi": "PLAKÇI"
+  },
+  {
+    "MeslekKodu": 832,
+    "MeslekAdi": "PLANLAMA"
+  },
+  {
+    "MeslekKodu": 833,
+    "MeslekAdi": "PLANLAMA VE İZLEME DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 834,
+    "MeslekAdi": "PLANLAMACI"
+  },
+  {
+    "MeslekKodu": 835,
+    "MeslekAdi": "PLASTİK VE REKONSTRÜKTİF CERRAHİ UZMANI"
+  },
+  {
+    "MeslekKodu": 836,
+    "MeslekAdi": "PLİSECİ"
+  },
+  {
+    "MeslekKodu": 837,
+    "MeslekAdi": "POLİS"
+  },
+  {
+    "MeslekKodu": 838,
+    "MeslekAdi": "PORTFÖY YETKİLİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 839,
+    "MeslekAdi": "PORTFÖY YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 840,
+    "MeslekAdi": "PORTFÖY YÖN.İLİŞKİLERİ MD.YARD"
+  },
+  {
+    "MeslekKodu": 841,
+    "MeslekAdi": "PORTFÖY YÖNETMEN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 842,
+    "MeslekAdi": "PORTFÖY YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 843,
+    "MeslekAdi": "POSTA GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 844,
+    "MeslekAdi": "POSTACI"
+  },
+  {
+    "MeslekKodu": 845,
+    "MeslekAdi": "PRODÜKTÖR"
+  },
+  {
+    "MeslekKodu": 846,
+    "MeslekAdi": "PRODÜKTÖR"
+  },
+  {
+    "MeslekKodu": 847,
+    "MeslekAdi": "PRODÜKTÖR&amp;SUNUCU"
+  },
+  {
+    "MeslekKodu": 848,
+    "MeslekAdi": "PROFESÖR"
+  },
+  {
+    "MeslekKodu": 849,
+    "MeslekAdi": "PROFESYONEL HİZMETLER MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 850,
+    "MeslekAdi": "PROGRAMCI"
+  },
+  {
+    "MeslekKodu": 851,
+    "MeslekAdi": "PROGRAMCI"
+  },
+  {
+    "MeslekKodu": 852,
+    "MeslekAdi": "PROJE DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 853,
+    "MeslekAdi": "PROJE DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 854,
+    "MeslekAdi": "PROJE GELİŞTİRME UZMANI"
+  },
+  {
+    "MeslekKodu": 855,
+    "MeslekAdi": "PROJE LİDERİ"
+  },
+  {
+    "MeslekKodu": 856,
+    "MeslekAdi": "PROJE SORUMLU MÜDÜR"
+  },
+  {
+    "MeslekKodu": 857,
+    "MeslekAdi": "PROJE SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 858,
+    "MeslekAdi": "PROJE TAKİBATI, RAPORLAMA"
+  },
+  {
+    "MeslekKodu": 859,
+    "MeslekAdi": "PROJE TEKNİSYENİ"
+  },
+  {
+    "MeslekKodu": 860,
+    "MeslekAdi": "PROJE VE TEKNİK HİZMETLER ŞEFİ"
+  },
+  {
+    "MeslekKodu": 861,
+    "MeslekAdi": "PROSES PLANLAMA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 862,
+    "MeslekAdi": "PROVİZYON YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 863,
+    "MeslekAdi": "PSİKİYATRİ UZMANI"
+  },
+  {
+    "MeslekKodu": 864,
+    "MeslekAdi": "PSİKOLOG"
+  },
+  {
+    "MeslekKodu": 865,
+    "MeslekAdi": "PUANTAJ UZMANI"
+  },
+  {
+    "MeslekKodu": 866,
+    "MeslekAdi": "RADYASYON ONKOLOJİSİ UZMANI"
+  },
+  {
+    "MeslekKodu": 867,
+    "MeslekAdi": "RADYO MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 868,
+    "MeslekAdi": "RADYO SATIŞ KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 869,
+    "MeslekAdi": "RADYODİAGNOSTİK UZMANI"
+  },
+  {
+    "MeslekKodu": 870,
+    "MeslekAdi": "RAPORLAMA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 871,
+    "MeslekAdi": "RAPORLAMA VE İSTATİSTİK UZMANI"
+  },
+  {
+    "MeslekKodu": 872,
+    "MeslekAdi": "RAPORLAMA YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 873,
+    "MeslekAdi": "REJİSÖR"
+  },
+  {
+    "MeslekKodu": 874,
+    "MeslekAdi": "REKLAM DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 875,
+    "MeslekAdi": "REKLAM KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 876,
+    "MeslekAdi": "REKLAM VE HALKLA İLİŞK. MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 877,
+    "MeslekAdi": "REKLAMCI"
+  },
+  {
+    "MeslekKodu": 878,
+    "MeslekAdi": "RESSAM"
+  },
+  {
+    "MeslekKodu": 879,
+    "MeslekAdi": "REVİR ELEMANI"
+  },
+  {
+    "MeslekKodu": 880,
+    "MeslekAdi": "REYON SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 881,
+    "MeslekAdi": "RISK YÖNETIM UZMANİ"
+  },
+  {
+    "MeslekKodu": 882,
+    "MeslekAdi": "RİSK ANALİZ YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 883,
+    "MeslekAdi": "RİSK İZLEME MEMURU"
+  },
+  {
+    "MeslekKodu": 884,
+    "MeslekAdi": "RİSK MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 885,
+    "MeslekAdi": "RİSK YÖNETİM UZMANI"
+  },
+  {
+    "MeslekKodu": 886,
+    "MeslekAdi": "ROMATOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 887,
+    "MeslekAdi": "RUH SAĞLIĞI VE HASTALIKLARI UZMANI"
+  },
+  {
+    "MeslekKodu": 888,
+    "MeslekAdi": "RÜCU UZMAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 889,
+    "MeslekAdi": "SAATÇİ"
+  },
+  {
+    "MeslekKodu": 890,
+    "MeslekAdi": "SAĞLIK MEMURU"
+  },
+  {
+    "MeslekKodu": 891,
+    "MeslekAdi": "SAĞLIK MEMURU"
+  },
+  {
+    "MeslekKodu": 892,
+    "MeslekAdi": "SAĞLIK MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 893,
+    "MeslekAdi": "SAĞLIK TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 894,
+    "MeslekAdi": "SAĞLIK VE HAYAT YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 895,
+    "MeslekAdi": "SAĞLIK YATIRIMLARI BAŞKANI"
+  },
+  {
+    "MeslekKodu": 896,
+    "MeslekAdi": "SAHA DENETÇİSİ"
+  },
+  {
+    "MeslekKodu": 897,
+    "MeslekAdi": "SAHA SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 898,
+    "MeslekAdi": "SAHAF"
+  },
+  {
+    "MeslekKodu": 899,
+    "MeslekAdi": "SAHİBİ"
+  },
+  {
+    "MeslekKodu": 900,
+    "MeslekAdi": "SAKATATÇI"
+  },
+  {
+    "MeslekKodu": 901,
+    "MeslekAdi": "SALON ŞEFİ"
+  },
+  {
+    "MeslekKodu": 902,
+    "MeslekAdi": "SANAT TARİHÇİSİ"
+  },
+  {
+    "MeslekKodu": 903,
+    "MeslekAdi": "SANAT YAPILARI ŞEFİ"
+  },
+  {
+    "MeslekKodu": 904,
+    "MeslekAdi": "SANATÇI"
+  },
+  {
+    "MeslekKodu": 905,
+    "MeslekAdi": "SANAYİCİ"
+  },
+  {
+    "MeslekKodu": 906,
+    "MeslekAdi": "SATIN ALMA ELEMANI"
+  },
+  {
+    "MeslekKodu": 907,
+    "MeslekAdi": "SATIN ALMA GRUP ŞEFİ"
+  },
+  {
+    "MeslekKodu": 908,
+    "MeslekAdi": "SATINALMA ELEMANI"
+  },
+  {
+    "MeslekKodu": 909,
+    "MeslekAdi": "SATINALMA KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 910,
+    "MeslekAdi": "SATINALMA SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 911,
+    "MeslekAdi": "SATINALMA UZMANI"
+  },
+  {
+    "MeslekKodu": 912,
+    "MeslekAdi": "SATIŞ DANIŞMANI-PROJE SORUMLUS"
+  },
+  {
+    "MeslekKodu": 913,
+    "MeslekAdi": "SATIŞ DENETİM UZMANI"
+  },
+  {
+    "MeslekKodu": 914,
+    "MeslekAdi": "SATIŞ DESTEK ELEMANI"
+  },
+  {
+    "MeslekKodu": 915,
+    "MeslekAdi": "SATIŞ DESTEK GRUP MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 916,
+    "MeslekAdi": "SATIŞ DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 917,
+    "MeslekAdi": "SATIŞ ELAMANI"
+  },
+  {
+    "MeslekKodu": 918,
+    "MeslekAdi": "SATIŞ KANALLARI YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 919,
+    "MeslekAdi": "SATIŞ KOMİSYONCUSU"
+  },
+  {
+    "MeslekKodu": 920,
+    "MeslekAdi": "SATIŞ KOORD. BİRİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 921,
+    "MeslekAdi": "SATIŞ KOORD.ACENTELER YÖNETMEN"
+  },
+  {
+    "MeslekKodu": 922,
+    "MeslekAdi": "SATIŞ KOORD.PORTFÖY YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 923,
+    "MeslekAdi": "SATIŞ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 924,
+    "MeslekAdi": "SATIŞ SONRASI MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 925,
+    "MeslekAdi": "SATIŞ SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 926,
+    "MeslekAdi": "SATIŞ SORUMLUSU-MUHASEBE"
+  },
+  {
+    "MeslekKodu": 927,
+    "MeslekAdi": "SATIŞ TEMSİLCİSİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 928,
+    "MeslekAdi": "SATIŞ VE PAZ. ÇALIŞANI"
+  },
+  {
+    "MeslekKodu": 929,
+    "MeslekAdi": "SATIŞ VE PAZARLAMA DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 930,
+    "MeslekAdi": "SATIŞ VE PAZARLAMA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 931,
+    "MeslekAdi": "SATIŞ VE PAZARLAMA SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 932,
+    "MeslekAdi": "SATIŞ VE PAZARLAMA YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 933,
+    "MeslekAdi": "SATIŞ YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 934,
+    "MeslekAdi": "SATIŞ YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 935,
+    "MeslekAdi": "SATIŞ YÖNETİMİ YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 936,
+    "MeslekAdi": "SATIŞ YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 937,
+    "MeslekAdi": "SATIŞ-MÜŞTERİ İLİŞKİLERİ UZMAN"
+  },
+  {
+    "MeslekKodu": 938,
+    "MeslekAdi": "SAVCI"
+  },
+  {
+    "MeslekKodu": 939,
+    "MeslekAdi": "SAYMAN"
+  },
+  {
+    "MeslekKodu": 940,
+    "MeslekAdi": "SEÇ ELEMANI"
+  },
+  {
+    "MeslekKodu": 941,
+    "MeslekAdi": "SEÇ MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 942,
+    "MeslekAdi": "SEÇİNİZ"
+  },
+  {
+    "MeslekKodu": 943,
+    "MeslekAdi": "SEKRETER"
+  },
+  {
+    "MeslekKodu": 944,
+    "MeslekAdi": "SENDİKACI"
+  },
+  {
+    "MeslekKodu": 945,
+    "MeslekAdi": "SERA DENEME GÖREVLİSİ"
+  },
+  {
+    "MeslekKodu": 946,
+    "MeslekAdi": "SERA DENEME MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 947,
+    "MeslekAdi": "SERAMİKÇİ"
+  },
+  {
+    "MeslekKodu": 948,
+    "MeslekAdi": "SERBEST MESLEK"
+  },
+  {
+    "MeslekKodu": 949,
+    "MeslekAdi": "SERVİS DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 950,
+    "MeslekAdi": "SERVİS MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 951,
+    "MeslekAdi": "SERVİS YETKİLİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 952,
+    "MeslekAdi": "SERVİS YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 953,
+    "MeslekAdi": "SEVKİYAT SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 954,
+    "MeslekAdi": "SEVKİYAT UZMANI"
+  },
+  {
+    "MeslekKodu": 955,
+    "MeslekAdi": "SEYAHAT ACENTESİ"
+  },
+  {
+    "MeslekKodu": 956,
+    "MeslekAdi": "SEYİS"
+  },
+  {
+    "MeslekKodu": 957,
+    "MeslekAdi": "SEYYAR SATICI"
+  },
+  {
+    "MeslekKodu": 958,
+    "MeslekAdi": "SHOWROOM YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 959,
+    "MeslekAdi": "SIHHIYECİ"
+  },
+  {
+    "MeslekKodu": 960,
+    "MeslekAdi": "SINIF ÖĞRETMENİ"
+  },
+  {
+    "MeslekKodu": 961,
+    "MeslekAdi": "SIVACI"
+  },
+  {
+    "MeslekKodu": 962,
+    "MeslekAdi": "SİGORTA ACENTESİ"
+  },
+  {
+    "MeslekKodu": 963,
+    "MeslekAdi": "SİGORTA EKSPERİ"
+  },
+  {
+    "MeslekKodu": 964,
+    "MeslekAdi": "SİGORTA EKSPERİ"
+  },
+  {
+    "MeslekKodu": 965,
+    "MeslekAdi": "SİGORTA GRUP BAŞKANI"
+  },
+  {
+    "MeslekKodu": 966,
+    "MeslekAdi": "SİGORTA İŞLEMLERİ SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 967,
+    "MeslekAdi": "SİGORTA KOORDİNATÖRÜ"
+  },
+  {
+    "MeslekKodu": 968,
+    "MeslekAdi": "SİGORTA MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 969,
+    "MeslekAdi": "SİGORTACI"
+  },
+  {
+    "MeslekKodu": 970,
+    "MeslekAdi": "SİGORTACI"
+  },
+  {
+    "MeslekKodu": 971,
+    "MeslekAdi": "SİNEMACI"
+  },
+  {
+    "MeslekKodu": 972,
+    "MeslekAdi": "SİSTEM ANALİST"
+  },
+  {
+    "MeslekKodu": 973,
+    "MeslekAdi": "SİSTEM ANALİSTİ"
+  },
+  {
+    "MeslekKodu": 974,
+    "MeslekAdi": "SİSTEM ANALİZ BİRİM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 975,
+    "MeslekAdi": "SİSTEM ARAŞTIRMA GELŞ.UZMANI"
+  },
+  {
+    "MeslekKodu": 976,
+    "MeslekAdi": "SİSTEM DESTEK ELEMANI"
+  },
+  {
+    "MeslekKodu": 977,
+    "MeslekAdi": "SİSTEM DESTEK MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 978,
+    "MeslekAdi": "SİSTEM DESTEK UZMANI"
+  },
+  {
+    "MeslekKodu": 979,
+    "MeslekAdi": "SİSTEM GELİŞTİRME MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 980,
+    "MeslekAdi": "SİSTEM MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 981,
+    "MeslekAdi": "SİSTEM UZMANI"
+  },
+  {
+    "MeslekKodu": 982,
+    "MeslekAdi": "SİSTEM YÖN.-UYG.GLŞ.BLM BAŞKAN"
+  },
+  {
+    "MeslekKodu": 983,
+    "MeslekAdi": "SİSTEM YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 984,
+    "MeslekAdi": "SİSTEM YÖNETİMİ VE İŞLETİMİ"
+  },
+  {
+    "MeslekKodu": 985,
+    "MeslekAdi": "SİYASETÇİ"
+  },
+  {
+    "MeslekKodu": 986,
+    "MeslekAdi": "SOĞUK KESME"
+  },
+  {
+    "MeslekKodu": 987,
+    "MeslekAdi": "SORUMLU"
+  },
+  {
+    "MeslekKodu": 988,
+    "MeslekAdi": "SORUMLU GÖREVLİ"
+  },
+  {
+    "MeslekKodu": 989,
+    "MeslekAdi": "SORUMLULUK SİG. DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 990,
+    "MeslekAdi": "SORUMLULUK SİGORTALARI MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 991,
+    "MeslekAdi": "SOSYOLOG"
+  },
+  {
+    "MeslekKodu": 992,
+    "MeslekAdi": "SPİKER"
+  },
+  {
+    "MeslekKodu": 993,
+    "MeslekAdi": "SPOR DOKTORU"
+  },
+  {
+    "MeslekKodu": 994,
+    "MeslekAdi": "SPOR EĞİTMENİ"
+  },
+  {
+    "MeslekKodu": 995,
+    "MeslekAdi": "SPOR TOTO,LOTO BAYİLİĞİ"
+  },
+  {
+    "MeslekKodu": 996,
+    "MeslekAdi": "SPORCU"
+  },
+  {
+    "MeslekKodu": 997,
+    "MeslekAdi": "STENOGRAF"
+  },
+  {
+    "MeslekKodu": 998,
+    "MeslekAdi": "STİLİST"
+  },
+  {
+    "MeslekKodu": 999,
+    "MeslekAdi": "STRATEJIST"
+  },
+  {
+    "MeslekKodu": 1000,
+    "MeslekAdi": "SUBAY"
+  },
+  {
+    "MeslekKodu": 1001,
+    "MeslekAdi": "SÜTÇÜ"
+  },
+  {
+    "MeslekKodu": 1002,
+    "MeslekAdi": "SÜVARİ"
+  },
+  {
+    "MeslekKodu": 1003,
+    "MeslekAdi": "ŞAİR"
+  },
+  {
+    "MeslekKodu": 1004,
+    "MeslekAdi": "ŞANTİYE MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1005,
+    "MeslekAdi": "ŞARKÜTERİ SAHİBİ"
+  },
+  {
+    "MeslekKodu": 1006,
+    "MeslekAdi": "ŞEF"
+  },
+  {
+    "MeslekKodu": 1007,
+    "MeslekAdi": "ŞEF YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1008,
+    "MeslekAdi": "ŞEHİR PLANLAMACI"
+  },
+  {
+    "MeslekKodu": 1009,
+    "MeslekAdi": "ŞENÖR"
+  },
+  {
+    "MeslekKodu": 1010,
+    "MeslekAdi": "ŞİRKET MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1011,
+    "MeslekAdi": "ŞİRKET MÜŞT.İLİŞKİLERİ YETKİLİ"
+  },
+  {
+    "MeslekKodu": 1012,
+    "MeslekAdi": "ŞİRKET ORTAĞI"
+  },
+  {
+    "MeslekKodu": 1013,
+    "MeslekAdi": "ŞİRKET SAHİBİ"
+  },
+  {
+    "MeslekKodu": 1014,
+    "MeslekAdi": "ŞİŞLİ BÖLGE MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1015,
+    "MeslekAdi": "ŞOFÖR"
+  },
+  {
+    "MeslekKodu": 1016,
+    "MeslekAdi": "ŞUBE KONTROL"
+  },
+  {
+    "MeslekKodu": 1017,
+    "MeslekAdi": "ŞUBE SEKRETERİ"
+  },
+  {
+    "MeslekKodu": 1018,
+    "MeslekAdi": "ŞUBE YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1019,
+    "MeslekAdi": "ŞUBE YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 1020,
+    "MeslekAdi": "ŞUBELER DESTEK MEVZUAT"
+  },
+  {
+    "MeslekKodu": 1021,
+    "MeslekAdi": "TABAKÇILAR"
+  },
+  {
+    "MeslekKodu": 1022,
+    "MeslekAdi": "TAHAKKUK ELEMANI"
+  },
+  {
+    "MeslekKodu": 1023,
+    "MeslekAdi": "TAHAKKUK ŞEFİ"
+  },
+  {
+    "MeslekKodu": 1024,
+    "MeslekAdi": "TAHMİL TAHLİYE"
+  },
+  {
+    "MeslekKodu": 1025,
+    "MeslekAdi": "TAHSİLAT MEMURU"
+  },
+  {
+    "MeslekKodu": 1026,
+    "MeslekAdi": "TAHSİLAT SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 1027,
+    "MeslekAdi": "TAHSİLAT ŞEFİ"
+  },
+  {
+    "MeslekKodu": 1028,
+    "MeslekAdi": "TAHSİLAT YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 1029,
+    "MeslekAdi": "TAHSİLAT YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 1030,
+    "MeslekAdi": "TAHTA OYMACISI"
+  },
+  {
+    "MeslekKodu": 1031,
+    "MeslekAdi": "TAKIM SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 1032,
+    "MeslekAdi": "TAKIM YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 1033,
+    "MeslekAdi": "TAMİRCİ"
+  },
+  {
+    "MeslekKodu": 1034,
+    "MeslekAdi": "TAMİRCİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1035,
+    "MeslekAdi": "TASARIM"
+  },
+  {
+    "MeslekKodu": 1036,
+    "MeslekAdi": "TATLICI"
+  },
+  {
+    "MeslekKodu": 1037,
+    "MeslekAdi": "TAZMİNAT ASİSTANI"
+  },
+  {
+    "MeslekKodu": 1038,
+    "MeslekAdi": "TAZMİNAT MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1039,
+    "MeslekAdi": "TAZMİNAT MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1040,
+    "MeslekAdi": "TAZMİNAT YETKİLİSİ"
+  },
+  {
+    "MeslekKodu": 1041,
+    "MeslekAdi": "TEFTİŞ KURULU BAŞKAN YRD."
+  },
+  {
+    "MeslekKodu": 1042,
+    "MeslekAdi": "TEFTİŞ KURULU BAŞKANI"
+  },
+  {
+    "MeslekKodu": 1043,
+    "MeslekAdi": "TEKFEN GRUBU ŞİRKET BAŞKANI"
+  },
+  {
+    "MeslekKodu": 1044,
+    "MeslekAdi": "TEKLİF HAZIRLAMA TEKNİSYENİ"
+  },
+  {
+    "MeslekKodu": 1045,
+    "MeslekAdi": "TEKLİF MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1046,
+    "MeslekAdi": "TEKLİF VE TAAHHÜT İŞL. MÜDÜR"
+  },
+  {
+    "MeslekKodu": 1047,
+    "MeslekAdi": "TEKNIK BİRİM MÜDÜR"
+  },
+  {
+    "MeslekKodu": 1048,
+    "MeslekAdi": "TEKNİK DANIŞMAN"
+  },
+  {
+    "MeslekKodu": 1049,
+    "MeslekAdi": "TEKNİK DESTEK UZMANI"
+  },
+  {
+    "MeslekKodu": 1050,
+    "MeslekAdi": "TEKNİK ELEMAN"
+  },
+  {
+    "MeslekKodu": 1051,
+    "MeslekAdi": "TEKNİK EMNİYET UZMANI"
+  },
+  {
+    "MeslekKodu": 1052,
+    "MeslekAdi": "TEKNİK GÜVENLİK"
+  },
+  {
+    "MeslekKodu": 1053,
+    "MeslekAdi": "TEKNİK İŞLER ŞEFİ"
+  },
+  {
+    "MeslekKodu": 1054,
+    "MeslekAdi": "TEKNİK KOORDİNATÖR"
+  },
+  {
+    "MeslekKodu": 1055,
+    "MeslekAdi": "TEKNİK OPERASYON MD.YRD."
+  },
+  {
+    "MeslekKodu": 1056,
+    "MeslekAdi": "TEKNİK OPERASYON MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1057,
+    "MeslekAdi": "TEKNİK OPERASYON ŞEFİ"
+  },
+  {
+    "MeslekKodu": 1058,
+    "MeslekAdi": "TEKNİK OPERASYON UZMANI"
+  },
+  {
+    "MeslekKodu": 1059,
+    "MeslekAdi": "TEKNİK OPR.UZMAN YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1060,
+    "MeslekAdi": "TEKNİK PAZARLAMA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1061,
+    "MeslekAdi": "TEKNİK RESSAM"
+  },
+  {
+    "MeslekKodu": 1062,
+    "MeslekAdi": "TEKNİK SATIŞ TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 1063,
+    "MeslekAdi": "TEKNİK YETKİLİ"
+  },
+  {
+    "MeslekKodu": 1064,
+    "MeslekAdi": "TEKNİK-OPERASYON"
+  },
+  {
+    "MeslekKodu": 1065,
+    "MeslekAdi": "TEKNİSYEN"
+  },
+  {
+    "MeslekKodu": 1066,
+    "MeslekAdi": "TEKSTİL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1067,
+    "MeslekAdi": "TEKSTİLCİ"
+  },
+  {
+    "MeslekKodu": 1068,
+    "MeslekAdi": "TELEFON VE TELGRAF OPERATÖRLERİ"
+  },
+  {
+    "MeslekKodu": 1069,
+    "MeslekAdi": "TELEVİZYON TAMİRCİSİ"
+  },
+  {
+    "MeslekKodu": 1070,
+    "MeslekAdi": "TEMİZLİK İŞÇİSİ"
+  },
+  {
+    "MeslekKodu": 1071,
+    "MeslekAdi": "TERCÜMAN"
+  },
+  {
+    "MeslekKodu": 1072,
+    "MeslekAdi": "TERMİNAL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1073,
+    "MeslekAdi": "TERZİ"
+  },
+  {
+    "MeslekKodu": 1074,
+    "MeslekAdi": "TESİSATÇI"
+  },
+  {
+    "MeslekKodu": 1075,
+    "MeslekAdi": "TESVİYECİ"
+  },
+  {
+    "MeslekKodu": 1076,
+    "MeslekAdi": "TIBBİ EKOLOJİ VE HİDROKLİMATOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 1077,
+    "MeslekAdi": "TIBBİ FARMAKOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 1078,
+    "MeslekAdi": "TIBBİ GENETİK UZMANI"
+  },
+  {
+    "MeslekKodu": 1079,
+    "MeslekAdi": "TIBBİ HİSTOLOJİ VE EMBRİYOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 1080,
+    "MeslekAdi": "TIBBİ PARAZİTOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 1081,
+    "MeslekAdi": "TICARI GRUP DIREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 1082,
+    "MeslekAdi": "TIP DOKTORU"
+  },
+  {
+    "MeslekKodu": 1083,
+    "MeslekAdi": "TIP TARİHİ VE DEONTOLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 1084,
+    "MeslekAdi": "TIR ŞOFÖRÜ"
+  },
+  {
+    "MeslekKodu": 1085,
+    "MeslekAdi": "TİCARET ELEMANI"
+  },
+  {
+    "MeslekKodu": 1086,
+    "MeslekAdi": "TİCARET GENEL MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1087,
+    "MeslekAdi": "TİCARET İLE UĞRAŞAN"
+  },
+  {
+    "MeslekKodu": 1088,
+    "MeslekAdi": "TİCARİ BANK.LIK YÖNETMEN YARD."
+  },
+  {
+    "MeslekKodu": 1089,
+    "MeslekAdi": "TİCARİ BANK.PAZ.YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1090,
+    "MeslekAdi": "TİCARİ BANK.SATIŞ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1091,
+    "MeslekAdi": "TİCARİ BANK.SATIŞ YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1092,
+    "MeslekAdi": "TİCARİ BANKACILIK MÜDÜR YARD."
+  },
+  {
+    "MeslekKodu": 1093,
+    "MeslekAdi": "TİCARİ BANKACILIK MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1094,
+    "MeslekAdi": "TİCARİ BANKACILIK YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 1095,
+    "MeslekAdi": "TİYATROCU"
+  },
+  {
+    "MeslekKodu": 1096,
+    "MeslekAdi": "TOHUM ÜRETİM SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 1097,
+    "MeslekAdi": "TOPTANCI"
+  },
+  {
+    "MeslekKodu": 1098,
+    "MeslekAdi": "TORBALAMA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1099,
+    "MeslekAdi": "TORBALAMA TEKNİSYENİ"
+  },
+  {
+    "MeslekKodu": 1100,
+    "MeslekAdi": "TORNA TESVİYE USTASI"
+  },
+  {
+    "MeslekKodu": 1101,
+    "MeslekAdi": "TORNACI"
+  },
+  {
+    "MeslekKodu": 1102,
+    "MeslekAdi": "TRANSPORT İŞÇİSİ"
+  },
+  {
+    "MeslekKodu": 1103,
+    "MeslekAdi": "TRİKOTAJ İŞLERİ İLE UĞRAŞANLAR"
+  },
+  {
+    "MeslekKodu": 1104,
+    "MeslekAdi": "TUĞLACI"
+  },
+  {
+    "MeslekKodu": 1105,
+    "MeslekAdi": "TUHAFİYECİ"
+  },
+  {
+    "MeslekKodu": 1106,
+    "MeslekAdi": "TURİZMCİ"
+  },
+  {
+    "MeslekKodu": 1107,
+    "MeslekAdi": "TÜCCAR"
+  },
+  {
+    "MeslekKodu": 1108,
+    "MeslekAdi": "TÜNEL MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1109,
+    "MeslekAdi": "TÜPGAZ BAYİLERİ"
+  },
+  {
+    "MeslekKodu": 1110,
+    "MeslekAdi": "TÜRKOLOG"
+  },
+  {
+    "MeslekKodu": 1111,
+    "MeslekAdi": "UÇAK BAKIM TEKNİSYENİ"
+  },
+  {
+    "MeslekKodu": 1112,
+    "MeslekAdi": "UÇAK MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1113,
+    "MeslekAdi": "ULUSLARARASI İLİŞKİLER BLM.BŞK"
+  },
+  {
+    "MeslekKodu": 1114,
+    "MeslekAdi": "USTA"
+  },
+  {
+    "MeslekKodu": 1115,
+    "MeslekAdi": "UYGULAMA DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 1116,
+    "MeslekAdi": "UYGULAMA GELİŞTİRME UZMANI"
+  },
+  {
+    "MeslekKodu": 1117,
+    "MeslekAdi": "UYGULAMA-GELİŞTİRME ÇALIŞANI"
+  },
+  {
+    "MeslekKodu": 1118,
+    "MeslekAdi": "UYGULAMA-GELİŞTİRME YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 1119,
+    "MeslekAdi": "ÜCRET İDARESİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1120,
+    "MeslekAdi": "ÜLKE DİREKTÖRÜ"
+  },
+  {
+    "MeslekKodu": 1121,
+    "MeslekAdi": "ÜLKE GENEL MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1122,
+    "MeslekAdi": "ÜLKE MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1123,
+    "MeslekAdi": "ÜPK MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1124,
+    "MeslekAdi": "ÜRETIM KOORDINASYON MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1125,
+    "MeslekAdi": "ÜRETIM KOORDINASYON MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1126,
+    "MeslekAdi": "ÜRETİCİ"
+  },
+  {
+    "MeslekKodu": 1127,
+    "MeslekAdi": "ÜRETİM MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1128,
+    "MeslekAdi": "ÜRETİM PLANLAMA YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1129,
+    "MeslekAdi": "ÜRETİM SORUMLUSU"
+  },
+  {
+    "MeslekKodu": 1130,
+    "MeslekAdi": "ÜROLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 1131,
+    "MeslekAdi": "ÜROLOJİ UZMANI"
+  },
+  {
+    "MeslekKodu": 1132,
+    "MeslekAdi": "ÜRÜN DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 1133,
+    "MeslekAdi": "ÜRÜN GELİŞTİRME UZMANI"
+  },
+  {
+    "MeslekKodu": 1134,
+    "MeslekAdi": "ÜRÜN GRUBU YÖNETICISI"
+  },
+  {
+    "MeslekKodu": 1135,
+    "MeslekAdi": "ÜRÜN MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1136,
+    "MeslekAdi": "ÜRÜN UYARLAMA UZMANI"
+  },
+  {
+    "MeslekKodu": 1137,
+    "MeslekAdi": "ÜRÜN UYGULAMA DANIŞMANI"
+  },
+  {
+    "MeslekKodu": 1138,
+    "MeslekAdi": "ÜRÜN VE PROJE YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1139,
+    "MeslekAdi": "ÜRÜN YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1140,
+    "MeslekAdi": "ÜRÜN YÖNETİM MÜDÜR YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1141,
+    "MeslekAdi": "ÜRÜN YÖNETİM YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1142,
+    "MeslekAdi": "ÜRÜN YÖNETİMİ GRUP MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1143,
+    "MeslekAdi": "ÜST DÜZEY YÖNETİCİ"
+  },
+  {
+    "MeslekKodu": 1144,
+    "MeslekAdi": "ÜST KADEME YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1145,
+    "MeslekAdi": "ÜTÜCÜ"
+  },
+  {
+    "MeslekKodu": 1146,
+    "MeslekAdi": "ÜYE İŞYER.SATIŞ GELİŞTİRME YÖN"
+  },
+  {
+    "MeslekKodu": 1147,
+    "MeslekAdi": "ÜYE İŞYERLERİ PAZARLAMA DİREKT"
+  },
+  {
+    "MeslekKodu": 1148,
+    "MeslekAdi": "VARDİYA MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1149,
+    "MeslekAdi": "VERİTABANI YÖNETİCİSİ"
+  },
+  {
+    "MeslekKodu": 1150,
+    "MeslekAdi": "VETERİNER"
+  },
+  {
+    "MeslekKodu": 1151,
+    "MeslekAdi": "VEZNEDAR"
+  },
+  {
+    "MeslekKodu": 1152,
+    "MeslekAdi": "VİDEO KLÜPLERİ"
+  },
+  {
+    "MeslekKodu": 1153,
+    "MeslekAdi": "VİTRAYCI"
+  },
+  {
+    "MeslekKodu": 1154,
+    "MeslekAdi": "YAKACAK SATICILARI"
+  },
+  {
+    "MeslekKodu": 1155,
+    "MeslekAdi": "YANGIN SİGORTALARI MÜDÜR YRD."
+  },
+  {
+    "MeslekKodu": 1156,
+    "MeslekAdi": "YANGIN SİGORTALARI MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1157,
+    "MeslekAdi": "YARDIMCI DOÇENT DOKTOR"
+  },
+  {
+    "MeslekKodu": 1158,
+    "MeslekAdi": "YARDIMCI TESİSLER MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1159,
+    "MeslekAdi": "YATIRIM ÜRÜNLERİ MÜDÜR YARDIMC"
+  },
+  {
+    "MeslekKodu": 1160,
+    "MeslekAdi": "YATIRIM ÜRÜNLERİ YÖNETMENİ"
+  },
+  {
+    "MeslekKodu": 1161,
+    "MeslekAdi": "YATIRIMCI İLİŞKİLERİ ELEMANI"
+  },
+  {
+    "MeslekKodu": 1162,
+    "MeslekAdi": "YAYINEVİ SAHİPLERİ"
+  },
+  {
+    "MeslekKodu": 1163,
+    "MeslekAdi": "YAZAR"
+  },
+  {
+    "MeslekKodu": 1164,
+    "MeslekAdi": "YAZAR - SENARİST"
+  },
+  {
+    "MeslekKodu": 1165,
+    "MeslekAdi": "YAZI İŞLERİ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1166,
+    "MeslekAdi": "YAZILIM MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1167,
+    "MeslekAdi": "YAZILIM UZMANI"
+  },
+  {
+    "MeslekKodu": 1168,
+    "MeslekAdi": "YEDEK PARÇA HİZM. MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1169,
+    "MeslekAdi": "YEDEK PARÇACI"
+  },
+  {
+    "MeslekKodu": 1170,
+    "MeslekAdi": "YEMCİ"
+  },
+  {
+    "MeslekKodu": 1171,
+    "MeslekAdi": "YEMİNLİ MALİ MÜŞAVİR"
+  },
+  {
+    "MeslekKodu": 1172,
+    "MeslekAdi": "YETKILI"
+  },
+  {
+    "MeslekKodu": 1173,
+    "MeslekAdi": "YETKİLİ MÜFETTİŞ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1174,
+    "MeslekAdi": "YETKİLİ SAĞLIK TEMSİLCİSİ"
+  },
+  {
+    "MeslekKodu": 1175,
+    "MeslekAdi": "YETKİLİ UZMAN"
+  },
+  {
+    "MeslekKodu": 1176,
+    "MeslekAdi": "YETKİLİ YARDIMCI"
+  },
+  {
+    "MeslekKodu": 1177,
+    "MeslekAdi": "YORGANCI"
+  },
+  {
+    "MeslekKodu": 1178,
+    "MeslekAdi": "YÖNETİCİ"
+  },
+  {
+    "MeslekKodu": 1179,
+    "MeslekAdi": "YÖNETİCİ"
+  },
+  {
+    "MeslekKodu": 1180,
+    "MeslekAdi": "YÖNETİCİ ASİSTANI"
+  },
+  {
+    "MeslekKodu": 1181,
+    "MeslekAdi": "YÖNETİCİ ORTAK"
+  },
+  {
+    "MeslekKodu": 1182,
+    "MeslekAdi": "YÖNETİCİ YARDIMCISI"
+  },
+  {
+    "MeslekKodu": 1183,
+    "MeslekAdi": "YÖNETİM BİLİŞİM UZMANI"
+  },
+  {
+    "MeslekKodu": 1184,
+    "MeslekAdi": "YÖNETİM KURULU 2.BAŞKANI"
+  },
+  {
+    "MeslekKodu": 1185,
+    "MeslekAdi": "YÖNETİM KURULU BAŞKAN ASİSTANI"
+  },
+  {
+    "MeslekKodu": 1186,
+    "MeslekAdi": "YÖNETİM KURULU BAŞKAN YARD."
+  },
+  {
+    "MeslekKodu": 1187,
+    "MeslekAdi": "YÖNETMEN"
+  },
+  {
+    "MeslekKodu": 1188,
+    "MeslekAdi": "YÖNETMEN YARDİMCİSİ"
+  },
+  {
+    "MeslekKodu": 1189,
+    "MeslekAdi": "YUFKACI"
+  },
+  {
+    "MeslekKodu": 1190,
+    "MeslekAdi": "YUMURTACI"
+  },
+  {
+    "MeslekKodu": 1191,
+    "MeslekAdi": "YURTDIŞI SATIŞ MÜDÜRÜ"
+  },
+  {
+    "MeslekKodu": 1192,
+    "MeslekAdi": "YÜNCÜ"
+  },
+  {
+    "MeslekKodu": 1193,
+    "MeslekAdi": "ZAHİRECİ"
+  },
+  {
+    "MeslekKodu": 1194,
+    "MeslekAdi": "ZANAATKAR"
+  },
+  {
+    "MeslekKodu": 1195,
+    "MeslekAdi": "ZEYTİNCİ"
+  },
+  {
+    "MeslekKodu": 1196,
+    "MeslekAdi": "ZİRAAT MÜHENDİSİ"
+  },
+  {
+    "MeslekKodu": 1197,
+    "MeslekAdi": "ZİRAATÇI"
+  },
+  {
+    "MeslekKodu": 1198,
+    "MeslekAdi": "ZOOLOG"
+  },
+  {
+    "MeslekKodu": 1199,
+    "MeslekAdi": "ZÜCCACİYECİ"
+  }
+]

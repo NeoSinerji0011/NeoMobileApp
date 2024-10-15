@@ -1,0 +1,6002 @@
+[
+  {
+    "IlceKodu": 1,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "ALADAĞ"
+  },
+  {
+    "IlceKodu": 2,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "CEYHAN"
+  },
+  {
+    "IlceKodu": 3,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "FEKE"
+  },
+  {
+    "IlceKodu": 4,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "İMAMOĞLU"
+  },
+  {
+    "IlceKodu": 5,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "KARAİSALI"
+  },
+  {
+    "IlceKodu": 6,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "KARATAŞ"
+  },
+  {
+    "IlceKodu": 7,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "KOZAN"
+  },
+  {
+    "IlceKodu": 8,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 9,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "POZANTI"
+  },
+  {
+    "IlceKodu": 10,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "SAİMBEYLİ"
+  },
+  {
+    "IlceKodu": 11,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "SEYHAN"
+  },
+  {
+    "IlceKodu": 12,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "TUFANBEYLİ"
+  },
+  {
+    "IlceKodu": 13,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "YUMURTALIK"
+  },
+  {
+    "IlceKodu": 14,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "YÜREĞİR"
+  },
+  {
+    "IlceKodu": 15,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "ÇUKUROVA"
+  },
+  {
+    "IlceKodu": 16,
+    "UlkeKodu": "TUR",
+    "IlKodu": "01",
+    "IlceAdi": "SARIÇAM"
+  },
+  {
+    "IlceKodu": 17,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "BESNİ"
+  },
+  {
+    "IlceKodu": 18,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "ÇELİKHAN"
+  },
+  {
+    "IlceKodu": 19,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "GERGER"
+  },
+  {
+    "IlceKodu": 20,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "GÖLBAŞI"
+  },
+  {
+    "IlceKodu": 21,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "KAHTA"
+  },
+  {
+    "IlceKodu": 22,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 23,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "SAMSAT"
+  },
+  {
+    "IlceKodu": 24,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "SİNCİK"
+  },
+  {
+    "IlceKodu": 25,
+    "UlkeKodu": "TUR",
+    "IlKodu": "02",
+    "IlceAdi": "TUT"
+  },
+  {
+    "IlceKodu": 26,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "BAŞMAKÇI"
+  },
+  {
+    "IlceKodu": 27,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "BAYAT"
+  },
+  {
+    "IlceKodu": 28,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "BOLVADİN"
+  },
+  {
+    "IlceKodu": 29,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "ÇAY"
+  },
+  {
+    "IlceKodu": 30,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "ÇOBANLAR"
+  },
+  {
+    "IlceKodu": 31,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "DAZKIRI"
+  },
+  {
+    "IlceKodu": 32,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "DİNAR"
+  },
+  {
+    "IlceKodu": 33,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "EMİRDAĞ"
+  },
+  {
+    "IlceKodu": 34,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "EVCİLER"
+  },
+  {
+    "IlceKodu": 35,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "HOCALAR"
+  },
+  {
+    "IlceKodu": 36,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "İHSANİYE"
+  },
+  {
+    "IlceKodu": 37,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "İSCEHİSAR"
+  },
+  {
+    "IlceKodu": 38,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "KIZILÖREN"
+  },
+  {
+    "IlceKodu": 39,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 40,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "SANDIKLI"
+  },
+  {
+    "IlceKodu": 41,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "SİNCANLI-SİNANP"
+  },
+  {
+    "IlceKodu": 42,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "SULTANDAĞI"
+  },
+  {
+    "IlceKodu": 43,
+    "UlkeKodu": "TUR",
+    "IlKodu": "03",
+    "IlceAdi": "ŞUHUT"
+  },
+  {
+    "IlceKodu": 44,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "DİYADİN"
+  },
+  {
+    "IlceKodu": 45,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "DOĞUBEYAZIT"
+  },
+  {
+    "IlceKodu": 46,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "ELEŞKİRT"
+  },
+  {
+    "IlceKodu": 47,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "HAMUR"
+  },
+  {
+    "IlceKodu": 48,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 49,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "PATNOS"
+  },
+  {
+    "IlceKodu": 50,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "TAŞLIÇAY"
+  },
+  {
+    "IlceKodu": 51,
+    "UlkeKodu": "TUR",
+    "IlKodu": "04",
+    "IlceAdi": "TUTAK"
+  },
+  {
+    "IlceKodu": 52,
+    "UlkeKodu": "TUR",
+    "IlKodu": "05",
+    "IlceAdi": "GÖYNÜCEK"
+  },
+  {
+    "IlceKodu": 53,
+    "UlkeKodu": "TUR",
+    "IlKodu": "05",
+    "IlceAdi": "GÜMÜŞHACIKÖY"
+  },
+  {
+    "IlceKodu": 54,
+    "UlkeKodu": "TUR",
+    "IlKodu": "05",
+    "IlceAdi": "HAMAMÖZÜ"
+  },
+  {
+    "IlceKodu": 55,
+    "UlkeKodu": "TUR",
+    "IlKodu": "05",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 56,
+    "UlkeKodu": "TUR",
+    "IlKodu": "05",
+    "IlceAdi": "MERZİFON"
+  },
+  {
+    "IlceKodu": 57,
+    "UlkeKodu": "TUR",
+    "IlKodu": "05",
+    "IlceAdi": "SULUOVA"
+  },
+  {
+    "IlceKodu": 58,
+    "UlkeKodu": "TUR",
+    "IlKodu": "05",
+    "IlceAdi": "TAŞOVA"
+  },
+  {
+    "IlceKodu": 59,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "AKYURT"
+  },
+  {
+    "IlceKodu": 60,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "ALTINDAĞ"
+  },
+  {
+    "IlceKodu": 61,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "AYAŞ"
+  },
+  {
+    "IlceKodu": 62,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "BALA"
+  },
+  {
+    "IlceKodu": 63,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "BEYPAZARI"
+  },
+  {
+    "IlceKodu": 64,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "ÇAMLIDERE"
+  },
+  {
+    "IlceKodu": 65,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "ÇANKAYA"
+  },
+  {
+    "IlceKodu": 66,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "ÇUBUK"
+  },
+  {
+    "IlceKodu": 67,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "ELMADAĞ"
+  },
+  {
+    "IlceKodu": 68,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "ETİMESGUT"
+  },
+  {
+    "IlceKodu": 69,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "EVREN"
+  },
+  {
+    "IlceKodu": 70,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "GÖLBAŞI"
+  },
+  {
+    "IlceKodu": 71,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "GÜDÜL"
+  },
+  {
+    "IlceKodu": 72,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "HAYMANA"
+  },
+  {
+    "IlceKodu": 73,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "KALECİK"
+  },
+  {
+    "IlceKodu": 74,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "KAZAN"
+  },
+  {
+    "IlceKodu": 75,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "KEÇİÖREN"
+  },
+  {
+    "IlceKodu": 76,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "KIZILCAHAMAM"
+  },
+  {
+    "IlceKodu": 77,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "MAMAK"
+  },
+  {
+    "IlceKodu": 78,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 79,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "NALLIHAN"
+  },
+  {
+    "IlceKodu": 80,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "POLATLI"
+  },
+  {
+    "IlceKodu": 81,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "SİNCAN"
+  },
+  {
+    "IlceKodu": 82,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "ŞEREFLİKOÇHİSAR"
+  },
+  {
+    "IlceKodu": 83,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "YENİMAHALLE"
+  },
+  {
+    "IlceKodu": 84,
+    "UlkeKodu": "TUR",
+    "IlKodu": "06",
+    "IlceAdi": "PURSAKLAR"
+  },
+  {
+    "IlceKodu": 85,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "AKSEKİ"
+  },
+  {
+    "IlceKodu": 86,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "ALANYA"
+  },
+  {
+    "IlceKodu": 87,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "ELMALI"
+  },
+  {
+    "IlceKodu": 88,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "FİNİKE"
+  },
+  {
+    "IlceKodu": 89,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "GAZİPAŞA"
+  },
+  {
+    "IlceKodu": 90,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "GÜNDOĞMUŞ"
+  },
+  {
+    "IlceKodu": 91,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "İBRADI-AYDINKEN"
+  },
+  {
+    "IlceKodu": 92,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "DEMRE"
+  },
+  {
+    "IlceKodu": 93,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "KAŞ"
+  },
+  {
+    "IlceKodu": 94,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "KEMER"
+  },
+  {
+    "IlceKodu": 95,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "KORKUTELİ"
+  },
+  {
+    "IlceKodu": 96,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "KUMLUCA"
+  },
+  {
+    "IlceKodu": 97,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "MANAVGAT"
+  },
+  {
+    "IlceKodu": 98,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 99,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "SERİK"
+  },
+  {
+    "IlceKodu": 100,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "AKSU"
+  },
+  {
+    "IlceKodu": 101,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "DÖŞEMEALTI"
+  },
+  {
+    "IlceKodu": 102,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "KEPEZ"
+  },
+  {
+    "IlceKodu": 103,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "KONYAALTI"
+  },
+  {
+    "IlceKodu": 104,
+    "UlkeKodu": "TUR",
+    "IlKodu": "07",
+    "IlceAdi": "MURATPAŞA"
+  },
+  {
+    "IlceKodu": 105,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "ARDANUÇ"
+  },
+  {
+    "IlceKodu": 106,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "ARHAVİ"
+  },
+  {
+    "IlceKodu": 107,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "BORÇKA"
+  },
+  {
+    "IlceKodu": 108,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "HOPA"
+  },
+  {
+    "IlceKodu": 109,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 110,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "MURGUL"
+  },
+  {
+    "IlceKodu": 111,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "ŞAVŞAT"
+  },
+  {
+    "IlceKodu": 112,
+    "UlkeKodu": "TUR",
+    "IlKodu": "08",
+    "IlceAdi": "YUSUFELİ"
+  },
+  {
+    "IlceKodu": 113,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "BOZDOĞAN"
+  },
+  {
+    "IlceKodu": 114,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "BUHARKENT"
+  },
+  {
+    "IlceKodu": 115,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "ÇİNE"
+  },
+  {
+    "IlceKodu": 116,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "DİDİM"
+  },
+  {
+    "IlceKodu": 117,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "GERMENCİK"
+  },
+  {
+    "IlceKodu": 118,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "İNCİRLİOVA"
+  },
+  {
+    "IlceKodu": 119,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "KARACASU"
+  },
+  {
+    "IlceKodu": 120,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "KARPUZLU"
+  },
+  {
+    "IlceKodu": 121,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "KOÇARLI"
+  },
+  {
+    "IlceKodu": 122,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "KÖŞK"
+  },
+  {
+    "IlceKodu": 123,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "KUŞADASI"
+  },
+  {
+    "IlceKodu": 124,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "KUYUCAK"
+  },
+  {
+    "IlceKodu": 125,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 126,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "NAZİLLİ"
+  },
+  {
+    "IlceKodu": 127,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "SÖKE"
+  },
+  {
+    "IlceKodu": 128,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "SULTANHİSAR"
+  },
+  {
+    "IlceKodu": 130,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "YENİPAZAR"
+  },
+  {
+    "IlceKodu": 131,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "AYVALIK"
+  },
+  {
+    "IlceKodu": 132,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "BALYA"
+  },
+  {
+    "IlceKodu": 133,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "BANDIRMA"
+  },
+  {
+    "IlceKodu": 134,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "BİGADİÇ"
+  },
+  {
+    "IlceKodu": 135,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "BURHANİYE"
+  },
+  {
+    "IlceKodu": 136,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "DURSUNBEY"
+  },
+  {
+    "IlceKodu": 137,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "EDREMİT"
+  },
+  {
+    "IlceKodu": 138,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "ERDEK"
+  },
+  {
+    "IlceKodu": 139,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "GÖMEÇ"
+  },
+  {
+    "IlceKodu": 140,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "GÖNEN"
+  },
+  {
+    "IlceKodu": 141,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "HAVRAN"
+  },
+  {
+    "IlceKodu": 142,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "İVRİNDİ"
+  },
+  {
+    "IlceKodu": 143,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "KEPSUT"
+  },
+  {
+    "IlceKodu": 144,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "MANYAS"
+  },
+  {
+    "IlceKodu": 145,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "MARMARA"
+  },
+  {
+    "IlceKodu": 146,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 147,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "SAVAŞTEPE"
+  },
+  {
+    "IlceKodu": 148,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "SINDIRGI"
+  },
+  {
+    "IlceKodu": 149,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "SUSURLUK"
+  },
+  {
+    "IlceKodu": 150,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "BOZHÜYÜK"
+  },
+  {
+    "IlceKodu": 151,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "GÖLPAZARI"
+  },
+  {
+    "IlceKodu": 152,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "İNHİSAR"
+  },
+  {
+    "IlceKodu": 153,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 154,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "OSMANELİ"
+  },
+  {
+    "IlceKodu": 155,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "PAZARYERİ"
+  },
+  {
+    "IlceKodu": 156,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "SÖĞÜT"
+  },
+  {
+    "IlceKodu": 157,
+    "UlkeKodu": "TUR",
+    "IlKodu": "11",
+    "IlceAdi": "YENİPAZAR"
+  },
+  {
+    "IlceKodu": 158,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "ADAKLI"
+  },
+  {
+    "IlceKodu": 159,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "GENÇ"
+  },
+  {
+    "IlceKodu": 160,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "KARLIOVA"
+  },
+  {
+    "IlceKodu": 161,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "KİĞI"
+  },
+  {
+    "IlceKodu": 162,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 163,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "SOLHAN"
+  },
+  {
+    "IlceKodu": 164,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "YAYLADERE"
+  },
+  {
+    "IlceKodu": 165,
+    "UlkeKodu": "TUR",
+    "IlKodu": "12",
+    "IlceAdi": "YEDİSU"
+  },
+  {
+    "IlceKodu": 166,
+    "UlkeKodu": "TUR",
+    "IlKodu": "13",
+    "IlceAdi": "ADİLCEVAZ"
+  },
+  {
+    "IlceKodu": 167,
+    "UlkeKodu": "TUR",
+    "IlKodu": "13",
+    "IlceAdi": "AHLAT"
+  },
+  {
+    "IlceKodu": 168,
+    "UlkeKodu": "TUR",
+    "IlKodu": "13",
+    "IlceAdi": "GÜROYMAK"
+  },
+  {
+    "IlceKodu": 169,
+    "UlkeKodu": "TUR",
+    "IlKodu": "13",
+    "IlceAdi": "HİZAN"
+  },
+  {
+    "IlceKodu": 170,
+    "UlkeKodu": "TUR",
+    "IlKodu": "13",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 171,
+    "UlkeKodu": "TUR",
+    "IlKodu": "13",
+    "IlceAdi": "MUTKİ"
+  },
+  {
+    "IlceKodu": 172,
+    "UlkeKodu": "TUR",
+    "IlKodu": "13",
+    "IlceAdi": "TATVAN"
+  },
+  {
+    "IlceKodu": 173,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "DÖRTDİVAN"
+  },
+  {
+    "IlceKodu": 174,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "GEREDE"
+  },
+  {
+    "IlceKodu": 175,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "GÖYNÜK"
+  },
+  {
+    "IlceKodu": 176,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "KIBRISCIK"
+  },
+  {
+    "IlceKodu": 177,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "MENGEN"
+  },
+  {
+    "IlceKodu": 178,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 179,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "MUDURNU"
+  },
+  {
+    "IlceKodu": 180,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "SEBEN"
+  },
+  {
+    "IlceKodu": 181,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "YENİÇAĞA"
+  },
+  {
+    "IlceKodu": 182,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "AĞLASUN"
+  },
+  {
+    "IlceKodu": 183,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "ALTINYAYLA"
+  },
+  {
+    "IlceKodu": 184,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "BUCAK"
+  },
+  {
+    "IlceKodu": 185,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "ÇAVDIR"
+  },
+  {
+    "IlceKodu": 186,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "ÇELTİKÇİ"
+  },
+  {
+    "IlceKodu": 187,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "GÖLHİSAR"
+  },
+  {
+    "IlceKodu": 188,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "KARAMANLI"
+  },
+  {
+    "IlceKodu": 189,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "KEMER"
+  },
+  {
+    "IlceKodu": 190,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 191,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "TEFENNİ"
+  },
+  {
+    "IlceKodu": 192,
+    "UlkeKodu": "TUR",
+    "IlKodu": "15",
+    "IlceAdi": "YEŞİLOVA"
+  },
+  {
+    "IlceKodu": 193,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "BÜYÜKORHAN"
+  },
+  {
+    "IlceKodu": 194,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "GEMLİK"
+  },
+  {
+    "IlceKodu": 195,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "GÜRSU"
+  },
+  {
+    "IlceKodu": 196,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "HARMANCIK"
+  },
+  {
+    "IlceKodu": 197,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "İNEGÖL"
+  },
+  {
+    "IlceKodu": 198,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "İZNİK"
+  },
+  {
+    "IlceKodu": 199,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "KARACABEY"
+  },
+  {
+    "IlceKodu": 200,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "KELES"
+  },
+  {
+    "IlceKodu": 201,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "KESTEL"
+  },
+  {
+    "IlceKodu": 202,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "MUDANYA"
+  },
+  {
+    "IlceKodu": 203,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 204,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "M.KEMALPAŞA"
+  },
+  {
+    "IlceKodu": 205,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "NİLÜFER"
+  },
+  {
+    "IlceKodu": 206,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "ORHANELİ"
+  },
+  {
+    "IlceKodu": 207,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "ORHANGAZİ"
+  },
+  {
+    "IlceKodu": 208,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "OSMANGAZİ"
+  },
+  {
+    "IlceKodu": 209,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "YENİŞEHİR"
+  },
+  {
+    "IlceKodu": 210,
+    "UlkeKodu": "TUR",
+    "IlKodu": "16",
+    "IlceAdi": "YILDIRIM"
+  },
+  {
+    "IlceKodu": 211,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "AYVACIK"
+  },
+  {
+    "IlceKodu": 212,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "BAYRAMİÇ"
+  },
+  {
+    "IlceKodu": 213,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "BİGA"
+  },
+  {
+    "IlceKodu": 214,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "BOZCAADA"
+  },
+  {
+    "IlceKodu": 215,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "ÇAN"
+  },
+  {
+    "IlceKodu": 216,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "ECEABAT"
+  },
+  {
+    "IlceKodu": 217,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "EZİNE"
+  },
+  {
+    "IlceKodu": 218,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "GELİBOLU"
+  },
+  {
+    "IlceKodu": 219,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "GÖKÇEADA"
+  },
+  {
+    "IlceKodu": 220,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "LAPSEKİ"
+  },
+  {
+    "IlceKodu": 221,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 222,
+    "UlkeKodu": "TUR",
+    "IlKodu": "17",
+    "IlceAdi": "YENİCE"
+  },
+  {
+    "IlceKodu": 223,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "ATKARACALAR"
+  },
+  {
+    "IlceKodu": 224,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "BAYRAMÖREN"
+  },
+  {
+    "IlceKodu": 225,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "ÇERKEŞ"
+  },
+  {
+    "IlceKodu": 226,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "ELDİVAN"
+  },
+  {
+    "IlceKodu": 227,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "ILGAZ"
+  },
+  {
+    "IlceKodu": 228,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "KIZILIRMAK"
+  },
+  {
+    "IlceKodu": 229,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "KORGUN"
+  },
+  {
+    "IlceKodu": 230,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "KURŞUNLU"
+  },
+  {
+    "IlceKodu": 231,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 232,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "ORTA"
+  },
+  {
+    "IlceKodu": 233,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "ŞABANÖZÜ"
+  },
+  {
+    "IlceKodu": 234,
+    "UlkeKodu": "TUR",
+    "IlKodu": "18",
+    "IlceAdi": "YAPRAKLI"
+  },
+  {
+    "IlceKodu": 235,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "ALACA"
+  },
+  {
+    "IlceKodu": 236,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "BAYAT"
+  },
+  {
+    "IlceKodu": 237,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "BOĞAZKALE"
+  },
+  {
+    "IlceKodu": 238,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "DODURGA"
+  },
+  {
+    "IlceKodu": 239,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "İSKİLİP"
+  },
+  {
+    "IlceKodu": 240,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "KARGI"
+  },
+  {
+    "IlceKodu": 241,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "LAÇİN"
+  },
+  {
+    "IlceKodu": 242,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "MECİTÖZÜ"
+  },
+  {
+    "IlceKodu": 243,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 244,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "OĞUZLAR"
+  },
+  {
+    "IlceKodu": 245,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "ORTAKÖY"
+  },
+  {
+    "IlceKodu": 246,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "OSMANCIK"
+  },
+  {
+    "IlceKodu": 247,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "SUNGURLU"
+  },
+  {
+    "IlceKodu": 248,
+    "UlkeKodu": "TUR",
+    "IlKodu": "19",
+    "IlceAdi": "UĞURLUDAĞ"
+  },
+  {
+    "IlceKodu": 249,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "ACIPAYAM"
+  },
+  {
+    "IlceKodu": 250,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "AKKÖY"
+  },
+  {
+    "IlceKodu": 251,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "BABADAĞ"
+  },
+  {
+    "IlceKodu": 252,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "BAKLAN"
+  },
+  {
+    "IlceKodu": 253,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "BEKİLLİ"
+  },
+  {
+    "IlceKodu": 254,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "BEYAĞAÇ"
+  },
+  {
+    "IlceKodu": 255,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "BOZKURT"
+  },
+  {
+    "IlceKodu": 256,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "BULDAN"
+  },
+  {
+    "IlceKodu": 257,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "ÇAL"
+  },
+  {
+    "IlceKodu": 258,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "ÇAMELİ"
+  },
+  {
+    "IlceKodu": 259,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "ÇARDAK"
+  },
+  {
+    "IlceKodu": 260,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "ÇİVRİL"
+  },
+  {
+    "IlceKodu": 261,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "GÜNEY"
+  },
+  {
+    "IlceKodu": 262,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "HONAZ"
+  },
+  {
+    "IlceKodu": 263,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "KALE"
+  },
+  {
+    "IlceKodu": 264,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 265,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "SARAYKÖY"
+  },
+  {
+    "IlceKodu": 266,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "SERİNHİSAR"
+  },
+  {
+    "IlceKodu": 267,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "TAVAS"
+  },
+  {
+    "IlceKodu": 268,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "BİSMİL"
+  },
+  {
+    "IlceKodu": 269,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "ÇERMİK"
+  },
+  {
+    "IlceKodu": 270,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "ÇINAR"
+  },
+  {
+    "IlceKodu": 271,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "ÇÜNGÜŞ"
+  },
+  {
+    "IlceKodu": 272,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "DİCLE"
+  },
+  {
+    "IlceKodu": 273,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "EĞİL"
+  },
+  {
+    "IlceKodu": 274,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "ERGANİ"
+  },
+  {
+    "IlceKodu": 275,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "HANİ"
+  },
+  {
+    "IlceKodu": 276,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "HAZRO"
+  },
+  {
+    "IlceKodu": 277,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "KOCAKÖY"
+  },
+  {
+    "IlceKodu": 278,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "KULP"
+  },
+  {
+    "IlceKodu": 279,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "LİCE"
+  },
+  {
+    "IlceKodu": 280,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 281,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "SİLVAN"
+  },
+  {
+    "IlceKodu": 282,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "BAĞLAR"
+  },
+  {
+    "IlceKodu": 283,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "KAYAPINAR"
+  },
+  {
+    "IlceKodu": 284,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "SUR"
+  },
+  {
+    "IlceKodu": 285,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "YENİŞEHİR"
+  },
+  {
+    "IlceKodu": 286,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "ENEZ"
+  },
+  {
+    "IlceKodu": 287,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "HAVSA"
+  },
+  {
+    "IlceKodu": 288,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "İPSALA"
+  },
+  {
+    "IlceKodu": 289,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "KEŞAN"
+  },
+  {
+    "IlceKodu": 290,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "LALAPAŞA"
+  },
+  {
+    "IlceKodu": 291,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "MERİÇ"
+  },
+  {
+    "IlceKodu": 292,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 293,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "SÜLOĞLU"
+  },
+  {
+    "IlceKodu": 294,
+    "UlkeKodu": "TUR",
+    "IlKodu": "22",
+    "IlceAdi": "UZUNKÖPRÜ"
+  },
+  {
+    "IlceKodu": 295,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "AĞIN"
+  },
+  {
+    "IlceKodu": 296,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "ALACAKAYA"
+  },
+  {
+    "IlceKodu": 297,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "ARICAK"
+  },
+  {
+    "IlceKodu": 298,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "BASKİL"
+  },
+  {
+    "IlceKodu": 299,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "KARAKOÇAN"
+  },
+  {
+    "IlceKodu": 300,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "KEBAN"
+  },
+  {
+    "IlceKodu": 301,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "KOVANCILAR"
+  },
+  {
+    "IlceKodu": 302,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "MADEN"
+  },
+  {
+    "IlceKodu": 303,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 304,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "PALU"
+  },
+  {
+    "IlceKodu": 305,
+    "UlkeKodu": "TUR",
+    "IlKodu": "23",
+    "IlceAdi": "SİVRİCE"
+  },
+  {
+    "IlceKodu": 306,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "ÇAYIRLI"
+  },
+  {
+    "IlceKodu": 307,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "İLİÇ"
+  },
+  {
+    "IlceKodu": 308,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "KEMAH"
+  },
+  {
+    "IlceKodu": 309,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "KEMALİYE"
+  },
+  {
+    "IlceKodu": 310,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 311,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "OTLUKBELİ"
+  },
+  {
+    "IlceKodu": 312,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "REFAHİYE"
+  },
+  {
+    "IlceKodu": 313,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "TERCAN"
+  },
+  {
+    "IlceKodu": 314,
+    "UlkeKodu": "TUR",
+    "IlKodu": "24",
+    "IlceAdi": "ÜZÜMLÜ"
+  },
+  {
+    "IlceKodu": 315,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "AŞKALE"
+  },
+  {
+    "IlceKodu": 316,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "ÇAT"
+  },
+  {
+    "IlceKodu": 317,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "HINIS"
+  },
+  {
+    "IlceKodu": 318,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "HORASAN"
+  },
+  {
+    "IlceKodu": 320,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "İSPİR"
+  },
+  {
+    "IlceKodu": 321,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "KARAÇOBAN"
+  },
+  {
+    "IlceKodu": 322,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "KARAYAZI"
+  },
+  {
+    "IlceKodu": 323,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "KÖPRÜKÖY"
+  },
+  {
+    "IlceKodu": 324,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 325,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "NARMAN"
+  },
+  {
+    "IlceKodu": 326,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "OLTU"
+  },
+  {
+    "IlceKodu": 327,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "OLUR"
+  },
+  {
+    "IlceKodu": 328,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "PASİNLER"
+  },
+  {
+    "IlceKodu": 329,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "PAZARYOLU"
+  },
+  {
+    "IlceKodu": 330,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "ŞENKAYA"
+  },
+  {
+    "IlceKodu": 331,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "TEKMAN"
+  },
+  {
+    "IlceKodu": 332,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "TORTUM"
+  },
+  {
+    "IlceKodu": 333,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "UZUNDERE"
+  },
+  {
+    "IlceKodu": 334,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "YAKUTİYE"
+  },
+  {
+    "IlceKodu": 335,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "PALANDÖKEN"
+  },
+  {
+    "IlceKodu": 336,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "AZİZİYE"
+  },
+  {
+    "IlceKodu": 337,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "ALPU"
+  },
+  {
+    "IlceKodu": 338,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "BEYLİKOVA"
+  },
+  {
+    "IlceKodu": 339,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "ÇİFTELER"
+  },
+  {
+    "IlceKodu": 340,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "GÜNYÜZÜ"
+  },
+  {
+    "IlceKodu": 341,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "HAN"
+  },
+  {
+    "IlceKodu": 342,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "İNÖNÜ"
+  },
+  {
+    "IlceKodu": 343,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "MAHMUDİYE"
+  },
+  {
+    "IlceKodu": 344,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 345,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "MİHALGAZİ"
+  },
+  {
+    "IlceKodu": 346,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "MİHALIÇCIK"
+  },
+  {
+    "IlceKodu": 347,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "SARICAKAYA"
+  },
+  {
+    "IlceKodu": 348,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "SEYİTGAZİ"
+  },
+  {
+    "IlceKodu": 349,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "SİVRİHİSAR"
+  },
+  {
+    "IlceKodu": 350,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "ODUNPAZARI"
+  },
+  {
+    "IlceKodu": 351,
+    "UlkeKodu": "TUR",
+    "IlKodu": "26",
+    "IlceAdi": "TEPEBAŞI"
+  },
+  {
+    "IlceKodu": 352,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "ARABAN"
+  },
+  {
+    "IlceKodu": 353,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "İSLAHİYE"
+  },
+  {
+    "IlceKodu": 354,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "KARGAMIŞ"
+  },
+  {
+    "IlceKodu": 355,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 356,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "NİZİP"
+  },
+  {
+    "IlceKodu": 357,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "NURDAĞI"
+  },
+  {
+    "IlceKodu": 358,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "OĞUZELİ"
+  },
+  {
+    "IlceKodu": 359,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "ŞAHİNBEY"
+  },
+  {
+    "IlceKodu": 360,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "ŞEHİTKAMİL"
+  },
+  {
+    "IlceKodu": 361,
+    "UlkeKodu": "TUR",
+    "IlKodu": "27",
+    "IlceAdi": "YAVUZELİ"
+  },
+  {
+    "IlceKodu": 362,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "ALUCRA"
+  },
+  {
+    "IlceKodu": 363,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "BULANCAK"
+  },
+  {
+    "IlceKodu": 364,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "ÇAMOLUK"
+  },
+  {
+    "IlceKodu": 365,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "ÇANAKÇI"
+  },
+  {
+    "IlceKodu": 366,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "DERELİ"
+  },
+  {
+    "IlceKodu": 367,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "DOĞANKENT"
+  },
+  {
+    "IlceKodu": 368,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "ESPİYE"
+  },
+  {
+    "IlceKodu": 369,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "EYNESİL"
+  },
+  {
+    "IlceKodu": 370,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "GÖRELE"
+  },
+  {
+    "IlceKodu": 371,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "GÜCE"
+  },
+  {
+    "IlceKodu": 372,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "KEŞAP"
+  },
+  {
+    "IlceKodu": 373,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 374,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "PİRAZİZ"
+  },
+  {
+    "IlceKodu": 375,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "ŞEBİNKARAHİSAR"
+  },
+  {
+    "IlceKodu": 376,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "TİREBOLU"
+  },
+  {
+    "IlceKodu": 377,
+    "UlkeKodu": "TUR",
+    "IlKodu": "28",
+    "IlceAdi": "YAĞLIDERE"
+  },
+  {
+    "IlceKodu": 378,
+    "UlkeKodu": "TUR",
+    "IlKodu": "29",
+    "IlceAdi": "KELKİT"
+  },
+  {
+    "IlceKodu": 379,
+    "UlkeKodu": "TUR",
+    "IlKodu": "29",
+    "IlceAdi": "KÖSE"
+  },
+  {
+    "IlceKodu": 380,
+    "UlkeKodu": "TUR",
+    "IlKodu": "29",
+    "IlceAdi": "KÜRTÜN"
+  },
+  {
+    "IlceKodu": 381,
+    "UlkeKodu": "TUR",
+    "IlKodu": "29",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 382,
+    "UlkeKodu": "TUR",
+    "IlKodu": "29",
+    "IlceAdi": "ŞİRAN"
+  },
+  {
+    "IlceKodu": 383,
+    "UlkeKodu": "TUR",
+    "IlKodu": "29",
+    "IlceAdi": "TORUL"
+  },
+  {
+    "IlceKodu": 384,
+    "UlkeKodu": "TUR",
+    "IlKodu": "30",
+    "IlceAdi": "ÇUKURCA"
+  },
+  {
+    "IlceKodu": 385,
+    "UlkeKodu": "TUR",
+    "IlKodu": "30",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 386,
+    "UlkeKodu": "TUR",
+    "IlKodu": "30",
+    "IlceAdi": "ŞEMDİNLİ"
+  },
+  {
+    "IlceKodu": 387,
+    "UlkeKodu": "TUR",
+    "IlKodu": "30",
+    "IlceAdi": "YÜKSEKOVA"
+  },
+  {
+    "IlceKodu": 388,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "ALTINÖZÜ"
+  },
+  {
+    "IlceKodu": 389,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "BELEN"
+  },
+  {
+    "IlceKodu": 390,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "DÖRTYOL"
+  },
+  {
+    "IlceKodu": 391,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "ERZİN"
+  },
+  {
+    "IlceKodu": 392,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "HASSA"
+  },
+  {
+    "IlceKodu": 393,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "İSKENDERUN"
+  },
+  {
+    "IlceKodu": 394,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "KIRIKHAN"
+  },
+  {
+    "IlceKodu": 395,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "KUMLU"
+  },
+  {
+    "IlceKodu": 396,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "ANTAKYA"
+  },
+  {
+    "IlceKodu": 397,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "REYHANLI"
+  },
+  {
+    "IlceKodu": 398,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "SAMANDAĞ"
+  },
+  {
+    "IlceKodu": 399,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "YAYLADAĞI"
+  },
+  {
+    "IlceKodu": 400,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "AKSU"
+  },
+  {
+    "IlceKodu": 401,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "ATABEY"
+  },
+  {
+    "IlceKodu": 402,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "EĞİRDİR"
+  },
+  {
+    "IlceKodu": 403,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "GELENDOST"
+  },
+  {
+    "IlceKodu": 404,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "GÖNEN"
+  },
+  {
+    "IlceKodu": 405,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "KEÇİBORLU"
+  },
+  {
+    "IlceKodu": 406,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 407,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "SENİRKENT"
+  },
+  {
+    "IlceKodu": 408,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "SÜTÇÜLER"
+  },
+  {
+    "IlceKodu": 409,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "ŞARKİKARAAĞAÇ"
+  },
+  {
+    "IlceKodu": 410,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "ULUBORLU"
+  },
+  {
+    "IlceKodu": 411,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "YALVAÇ"
+  },
+  {
+    "IlceKodu": 412,
+    "UlkeKodu": "TUR",
+    "IlKodu": "32",
+    "IlceAdi": "YENİŞARBADEMLİ"
+  },
+  {
+    "IlceKodu": 413,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "ANAMUR"
+  },
+  {
+    "IlceKodu": 414,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "AYDINCIK"
+  },
+  {
+    "IlceKodu": 415,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "BOZYAZI"
+  },
+  {
+    "IlceKodu": 416,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "ÇAMLIYAYLA"
+  },
+  {
+    "IlceKodu": 417,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "ERDEMLİ"
+  },
+  {
+    "IlceKodu": 418,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "GÜLNAR"
+  },
+  {
+    "IlceKodu": 419,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 420,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "MUT"
+  },
+  {
+    "IlceKodu": 421,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "SİLİFKE"
+  },
+  {
+    "IlceKodu": 422,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "TARSUS"
+  },
+  {
+    "IlceKodu": 423,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "AKDENİZ"
+  },
+  {
+    "IlceKodu": 424,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "MEZİTLİ"
+  },
+  {
+    "IlceKodu": 425,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "TOROSLAR"
+  },
+  {
+    "IlceKodu": 426,
+    "UlkeKodu": "TUR",
+    "IlKodu": "33",
+    "IlceAdi": "YENİŞEHİR"
+  },
+  {
+    "IlceKodu": 427,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ADALAR"
+  },
+  {
+    "IlceKodu": 428,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "AVCILAR"
+  },
+  {
+    "IlceKodu": 429,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "B.ÇEKMECE"
+  },
+  {
+    "IlceKodu": 430,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BAĞCILAR"
+  },
+  {
+    "IlceKodu": 431,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BAHÇELİEVLER"
+  },
+  {
+    "IlceKodu": 432,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BAKIRKÖY"
+  },
+  {
+    "IlceKodu": 433,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BAYRAMPAŞA"
+  },
+  {
+    "IlceKodu": 434,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BEŞİKTAŞ"
+  },
+  {
+    "IlceKodu": 435,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BEYKOZ"
+  },
+  {
+    "IlceKodu": 436,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BEYOĞLU"
+  },
+  {
+    "IlceKodu": 437,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ÇATALCA"
+  },
+  {
+    "IlceKodu": 438,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "EMİNÖNÜ"
+  },
+  {
+    "IlceKodu": 439,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ESENLER"
+  },
+  {
+    "IlceKodu": 440,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "EYÜP"
+  },
+  {
+    "IlceKodu": 441,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "FATİH"
+  },
+  {
+    "IlceKodu": 442,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "GAZİOSMANPAŞA"
+  },
+  {
+    "IlceKodu": 443,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "GÜNGÖREN"
+  },
+  {
+    "IlceKodu": 444,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "K.ÇEKMECE"
+  },
+  {
+    "IlceKodu": 445,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "KADIKÖY"
+  },
+  {
+    "IlceKodu": 446,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "KAĞITHANE"
+  },
+  {
+    "IlceKodu": 447,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "KARTAL"
+  },
+  {
+    "IlceKodu": 448,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "MALTEPE"
+  },
+  {
+    "IlceKodu": 449,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 450,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "PENDİK"
+  },
+  {
+    "IlceKodu": 451,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "SARIYER"
+  },
+  {
+    "IlceKodu": 452,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "SİLİVRİ"
+  },
+  {
+    "IlceKodu": 453,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "SULTANBEYLİ"
+  },
+  {
+    "IlceKodu": 454,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ŞİLE"
+  },
+  {
+    "IlceKodu": 455,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ŞİŞLİ"
+  },
+  {
+    "IlceKodu": 456,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "TUZLA"
+  },
+  {
+    "IlceKodu": 457,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ÜMRANİYE"
+  },
+  {
+    "IlceKodu": 458,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ÜSKÜDAR"
+  },
+  {
+    "IlceKodu": 459,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ZEYTİNBURNU"
+  },
+  {
+    "IlceKodu": 460,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BAŞAKŞEHİR"
+  },
+  {
+    "IlceKodu": 461,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "BEYLİKDÜZÜ"
+  },
+  {
+    "IlceKodu": 462,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ESENYURT"
+  },
+  {
+    "IlceKodu": 463,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ARNAVUTKÖY"
+  },
+  {
+    "IlceKodu": 464,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ATAŞEHİR"
+  },
+  {
+    "IlceKodu": 465,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "ÇEKMEKÖY"
+  },
+  {
+    "IlceKodu": 466,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "SANCAKTEPE"
+  },
+  {
+    "IlceKodu": 467,
+    "UlkeKodu": "TUR",
+    "IlKodu": "34",
+    "IlceAdi": "SULTANGAZİ"
+  },
+  {
+    "IlceKodu": 468,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "ALİAĞA"
+  },
+  {
+    "IlceKodu": 469,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "BALÇOVA"
+  },
+  {
+    "IlceKodu": 470,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "BAYINDIR"
+  },
+  {
+    "IlceKodu": 471,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "BERGAMA"
+  },
+  {
+    "IlceKodu": 472,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "BEYDAĞ"
+  },
+  {
+    "IlceKodu": 473,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "BORNOVA"
+  },
+  {
+    "IlceKodu": 474,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "BUCA"
+  },
+  {
+    "IlceKodu": 475,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "ÇEŞME"
+  },
+  {
+    "IlceKodu": 476,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "ÇİĞLİ"
+  },
+  {
+    "IlceKodu": 477,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "DİKİLİ"
+  },
+  {
+    "IlceKodu": 478,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "FOÇA"
+  },
+  {
+    "IlceKodu": 479,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "GAZİEMİR"
+  },
+  {
+    "IlceKodu": 480,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "GÜZELBAHÇE"
+  },
+  {
+    "IlceKodu": 481,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "KARABURUN"
+  },
+  {
+    "IlceKodu": 482,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "KARŞIYAKA"
+  },
+  {
+    "IlceKodu": 483,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "KEMALPAŞA"
+  },
+  {
+    "IlceKodu": 484,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "KINIK"
+  },
+  {
+    "IlceKodu": 485,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "KİRAZ"
+  },
+  {
+    "IlceKodu": 486,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "KONAK"
+  },
+  {
+    "IlceKodu": 487,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "MENDERES"
+  },
+  {
+    "IlceKodu": 488,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "MENEMEN"
+  },
+  {
+    "IlceKodu": 489,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 490,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "NARLIDERE"
+  },
+  {
+    "IlceKodu": 491,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "ÖDEMİŞ"
+  },
+  {
+    "IlceKodu": 492,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "SEFERİHİSAR"
+  },
+  {
+    "IlceKodu": 493,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "SELÇUK"
+  },
+  {
+    "IlceKodu": 494,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "TİRE"
+  },
+  {
+    "IlceKodu": 495,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "TORBALI"
+  },
+  {
+    "IlceKodu": 496,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "URLA"
+  },
+  {
+    "IlceKodu": 497,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "KARABAĞLAR"
+  },
+  {
+    "IlceKodu": 498,
+    "UlkeKodu": "TUR",
+    "IlKodu": "35",
+    "IlceAdi": "BAYRAKLI"
+  },
+  {
+    "IlceKodu": 499,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "AKYAKA"
+  },
+  {
+    "IlceKodu": 500,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "ARPAÇAY"
+  },
+  {
+    "IlceKodu": 501,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "DİGOR"
+  },
+  {
+    "IlceKodu": 502,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "KAĞIZMAN"
+  },
+  {
+    "IlceKodu": 503,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 504,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "SARIKAMIŞ"
+  },
+  {
+    "IlceKodu": 505,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "SELİM"
+  },
+  {
+    "IlceKodu": 506,
+    "UlkeKodu": "TUR",
+    "IlKodu": "36",
+    "IlceAdi": "SUSUZ"
+  },
+  {
+    "IlceKodu": 507,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "ABANA"
+  },
+  {
+    "IlceKodu": 508,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "AĞLI"
+  },
+  {
+    "IlceKodu": 509,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "ARAÇ"
+  },
+  {
+    "IlceKodu": 510,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "AZDAVAY"
+  },
+  {
+    "IlceKodu": 511,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "BOZKURT"
+  },
+  {
+    "IlceKodu": 512,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "CİDE"
+  },
+  {
+    "IlceKodu": 513,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "ÇATALZEYTİN"
+  },
+  {
+    "IlceKodu": 514,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "DADAY"
+  },
+  {
+    "IlceKodu": 515,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "DEVREKANİ"
+  },
+  {
+    "IlceKodu": 516,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "DOĞANYURT"
+  },
+  {
+    "IlceKodu": 517,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "HANÖNÜ"
+  },
+  {
+    "IlceKodu": 518,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "İHSANGAZİ"
+  },
+  {
+    "IlceKodu": 519,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "İNEBOLU"
+  },
+  {
+    "IlceKodu": 520,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "KÜRE"
+  },
+  {
+    "IlceKodu": 521,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 522,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "PINARBAŞI"
+  },
+  {
+    "IlceKodu": 523,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "SEYDİLER"
+  },
+  {
+    "IlceKodu": 524,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "ŞENPAZAR"
+  },
+  {
+    "IlceKodu": 525,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "TAŞKÖPRÜ"
+  },
+  {
+    "IlceKodu": 526,
+    "UlkeKodu": "TUR",
+    "IlKodu": "37",
+    "IlceAdi": "TOSYA"
+  },
+  {
+    "IlceKodu": 527,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "AKKIŞLA"
+  },
+  {
+    "IlceKodu": 528,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "BÜNYAN"
+  },
+  {
+    "IlceKodu": 529,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "DEVELİ"
+  },
+  {
+    "IlceKodu": 530,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "FELAHİYE"
+  },
+  {
+    "IlceKodu": 531,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "HACILAR"
+  },
+  {
+    "IlceKodu": 532,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "İNCESU"
+  },
+  {
+    "IlceKodu": 533,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "KOCASİNAN"
+  },
+  {
+    "IlceKodu": 534,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "MELİKGAZİ"
+  },
+  {
+    "IlceKodu": 535,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 536,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "ÖZVATAN"
+  },
+  {
+    "IlceKodu": 537,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "PINARBAŞI"
+  },
+  {
+    "IlceKodu": 538,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "SARIOĞLAN"
+  },
+  {
+    "IlceKodu": 539,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "SARIZ"
+  },
+  {
+    "IlceKodu": 540,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "TALAS"
+  },
+  {
+    "IlceKodu": 541,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "TOMARZA"
+  },
+  {
+    "IlceKodu": 542,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "YAHYALI"
+  },
+  {
+    "IlceKodu": 543,
+    "UlkeKodu": "TUR",
+    "IlKodu": "38",
+    "IlceAdi": "YEŞİLHİSAR"
+  },
+  {
+    "IlceKodu": 544,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "BABAESKİ"
+  },
+  {
+    "IlceKodu": 545,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "DEMİRKÖY"
+  },
+  {
+    "IlceKodu": 546,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "KOFÇAZ"
+  },
+  {
+    "IlceKodu": 547,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "LÜLEBURGAZ"
+  },
+  {
+    "IlceKodu": 548,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 549,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "PEHLİVANKÖY"
+  },
+  {
+    "IlceKodu": 550,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "PINARHİSAR"
+  },
+  {
+    "IlceKodu": 551,
+    "UlkeKodu": "TUR",
+    "IlKodu": "39",
+    "IlceAdi": "VİZE"
+  },
+  {
+    "IlceKodu": 552,
+    "UlkeKodu": "TUR",
+    "IlKodu": "40",
+    "IlceAdi": "AKÇAKENT"
+  },
+  {
+    "IlceKodu": 553,
+    "UlkeKodu": "TUR",
+    "IlKodu": "40",
+    "IlceAdi": "AKPINAR"
+  },
+  {
+    "IlceKodu": 554,
+    "UlkeKodu": "TUR",
+    "IlKodu": "40",
+    "IlceAdi": "BOZTEPE"
+  },
+  {
+    "IlceKodu": 555,
+    "UlkeKodu": "TUR",
+    "IlKodu": "40",
+    "IlceAdi": "ÇİÇEKDAĞI"
+  },
+  {
+    "IlceKodu": 556,
+    "UlkeKodu": "TUR",
+    "IlKodu": "40",
+    "IlceAdi": "KAMAN"
+  },
+  {
+    "IlceKodu": 557,
+    "UlkeKodu": "TUR",
+    "IlKodu": "40",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 558,
+    "UlkeKodu": "TUR",
+    "IlKodu": "40",
+    "IlceAdi": "MUCUR"
+  },
+  {
+    "IlceKodu": 559,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "DERİNCE"
+  },
+  {
+    "IlceKodu": 560,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "GEBZE"
+  },
+  {
+    "IlceKodu": 561,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "GÖLCÜK"
+  },
+  {
+    "IlceKodu": 562,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "KANDIRA"
+  },
+  {
+    "IlceKodu": 563,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "KARAMÜRSEL"
+  },
+  {
+    "IlceKodu": 564,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "KÖRFEZ"
+  },
+  {
+    "IlceKodu": 565,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "İZMİT"
+  },
+  {
+    "IlceKodu": 566,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "BAŞİSKELE"
+  },
+  {
+    "IlceKodu": 567,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "ÇAYIROVA"
+  },
+  {
+    "IlceKodu": 568,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "DARICA"
+  },
+  {
+    "IlceKodu": 569,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "DİLOVASI"
+  },
+  {
+    "IlceKodu": 570,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "KARTEPE"
+  },
+  {
+    "IlceKodu": 571,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "AHIRLI"
+  },
+  {
+    "IlceKodu": 572,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "AKÖREN"
+  },
+  {
+    "IlceKodu": 573,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "AKŞEHİR"
+  },
+  {
+    "IlceKodu": 574,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "ALTINEKİN"
+  },
+  {
+    "IlceKodu": 575,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "BEYŞEHİR"
+  },
+  {
+    "IlceKodu": 576,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "BOZKIR"
+  },
+  {
+    "IlceKodu": 577,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "CİHANBEYLİ"
+  },
+  {
+    "IlceKodu": 578,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "ÇELTİK"
+  },
+  {
+    "IlceKodu": 579,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "ÇUMRA"
+  },
+  {
+    "IlceKodu": 580,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "DERBENT"
+  },
+  {
+    "IlceKodu": 581,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "DEREBUCAK"
+  },
+  {
+    "IlceKodu": 582,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "DOĞANHİSAR"
+  },
+  {
+    "IlceKodu": 583,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "EMİRGAZİ"
+  },
+  {
+    "IlceKodu": 584,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "EREĞLİ"
+  },
+  {
+    "IlceKodu": 585,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "GÜNEYSINIR"
+  },
+  {
+    "IlceKodu": 586,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "HADIM"
+  },
+  {
+    "IlceKodu": 587,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "HALKAPINAR"
+  },
+  {
+    "IlceKodu": 588,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "HÜYÜK"
+  },
+  {
+    "IlceKodu": 589,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "ILGIN"
+  },
+  {
+    "IlceKodu": 590,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "KADINHANI"
+  },
+  {
+    "IlceKodu": 591,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "KARAPINAR"
+  },
+  {
+    "IlceKodu": 592,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "KARATAY"
+  },
+  {
+    "IlceKodu": 593,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "KULU"
+  },
+  {
+    "IlceKodu": 594,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "MERAM"
+  },
+  {
+    "IlceKodu": 596,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "SARAYÖNÜ"
+  },
+  {
+    "IlceKodu": 597,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "SELÇUKLU"
+  },
+  {
+    "IlceKodu": 598,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "SEYDİŞEHİR"
+  },
+  {
+    "IlceKodu": 599,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "TAŞKENT"
+  },
+  {
+    "IlceKodu": 600,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "TUZLUKÇU"
+  },
+  {
+    "IlceKodu": 601,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "YALIHÜYÜK"
+  },
+  {
+    "IlceKodu": 602,
+    "UlkeKodu": "TUR",
+    "IlKodu": "42",
+    "IlceAdi": "YUNAK"
+  },
+  {
+    "IlceKodu": 603,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "ALTINTAŞ"
+  },
+  {
+    "IlceKodu": 604,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "ASLANAPA"
+  },
+  {
+    "IlceKodu": 605,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "ÇAVDARHİSAR"
+  },
+  {
+    "IlceKodu": 606,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "DOMANİÇ"
+  },
+  {
+    "IlceKodu": 607,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "DUMLUPINAR"
+  },
+  {
+    "IlceKodu": 608,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "EMET"
+  },
+  {
+    "IlceKodu": 609,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "GEDİZ"
+  },
+  {
+    "IlceKodu": 610,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "HİSARCIK"
+  },
+  {
+    "IlceKodu": 611,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 612,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "PAZARLAR"
+  },
+  {
+    "IlceKodu": 613,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "SİMAV"
+  },
+  {
+    "IlceKodu": 614,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "ŞAPHANE"
+  },
+  {
+    "IlceKodu": 615,
+    "UlkeKodu": "TUR",
+    "IlKodu": "43",
+    "IlceAdi": "TAVŞANLI"
+  },
+  {
+    "IlceKodu": 616,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "AKÇADAĞ"
+  },
+  {
+    "IlceKodu": 617,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "ARAPKİR"
+  },
+  {
+    "IlceKodu": 618,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "ARGUVAN"
+  },
+  {
+    "IlceKodu": 619,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "BATTALGAZİ"
+  },
+  {
+    "IlceKodu": 620,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "DARENDE"
+  },
+  {
+    "IlceKodu": 621,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "DOĞANŞEHİR"
+  },
+  {
+    "IlceKodu": 622,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "DOĞANYOL"
+  },
+  {
+    "IlceKodu": 623,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "HEKİMHAN"
+  },
+  {
+    "IlceKodu": 624,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "KALE"
+  },
+  {
+    "IlceKodu": 625,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "KULUNCAK"
+  },
+  {
+    "IlceKodu": 626,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 627,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "PÜTÜRGE"
+  },
+  {
+    "IlceKodu": 628,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "YAZIHAN"
+  },
+  {
+    "IlceKodu": 629,
+    "UlkeKodu": "TUR",
+    "IlKodu": "44",
+    "IlceAdi": "YEŞİLYURT"
+  },
+  {
+    "IlceKodu": 630,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "AHMETLİ"
+  },
+  {
+    "IlceKodu": 631,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "AKHİSAR"
+  },
+  {
+    "IlceKodu": 632,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "ALAŞEHİR"
+  },
+  {
+    "IlceKodu": 633,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "DEMİRCİ"
+  },
+  {
+    "IlceKodu": 634,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "GÖLMARMARA"
+  },
+  {
+    "IlceKodu": 635,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "GÖRDES"
+  },
+  {
+    "IlceKodu": 636,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "KIRKAĞAÇ"
+  },
+  {
+    "IlceKodu": 637,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "KÖPRÜBAŞI"
+  },
+  {
+    "IlceKodu": 638,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "KULA"
+  },
+  {
+    "IlceKodu": 639,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 640,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "SALİHLİ"
+  },
+  {
+    "IlceKodu": 641,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "SARIGÖL"
+  },
+  {
+    "IlceKodu": 642,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "SARUHANLI"
+  },
+  {
+    "IlceKodu": 643,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "SELENDİ"
+  },
+  {
+    "IlceKodu": 644,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "SOMA"
+  },
+  {
+    "IlceKodu": 645,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "TURGUTLU"
+  },
+  {
+    "IlceKodu": 646,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "AFŞİN"
+  },
+  {
+    "IlceKodu": 647,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "ANDIRIN"
+  },
+  {
+    "IlceKodu": 648,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "ÇAĞLAYANCERİT"
+  },
+  {
+    "IlceKodu": 649,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "EKİNÖZÜ"
+  },
+  {
+    "IlceKodu": 650,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "ELBİSTAN"
+  },
+  {
+    "IlceKodu": 651,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "GÖKSUN"
+  },
+  {
+    "IlceKodu": 652,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 653,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "NURHAK"
+  },
+  {
+    "IlceKodu": 654,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "PAZARCIK"
+  },
+  {
+    "IlceKodu": 655,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "TÜRKOĞLU"
+  },
+  {
+    "IlceKodu": 656,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "DARGEÇİT"
+  },
+  {
+    "IlceKodu": 657,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "DERİK"
+  },
+  {
+    "IlceKodu": 658,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "KIZILTEPE"
+  },
+  {
+    "IlceKodu": 659,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "MAZIDAĞI"
+  },
+  {
+    "IlceKodu": 660,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 661,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "MİDYAT"
+  },
+  {
+    "IlceKodu": 662,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "NUSAYBİN"
+  },
+  {
+    "IlceKodu": 663,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "ÖMERLİ"
+  },
+  {
+    "IlceKodu": 664,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "SAVUR"
+  },
+  {
+    "IlceKodu": 665,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "YEŞİLLİ"
+  },
+  {
+    "IlceKodu": 666,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "BODRUM"
+  },
+  {
+    "IlceKodu": 667,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "DALAMAN"
+  },
+  {
+    "IlceKodu": 668,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "DATÇA"
+  },
+  {
+    "IlceKodu": 669,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "FETHİYE"
+  },
+  {
+    "IlceKodu": 670,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "KAVAKLIDERE"
+  },
+  {
+    "IlceKodu": 671,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "KÖYCEĞİZ"
+  },
+  {
+    "IlceKodu": 672,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "MARMARİS"
+  },
+  {
+    "IlceKodu": 673,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 674,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "MİLAS"
+  },
+  {
+    "IlceKodu": 675,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "ORTACA"
+  },
+  {
+    "IlceKodu": 676,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "ULA"
+  },
+  {
+    "IlceKodu": 677,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "YATAĞAN"
+  },
+  {
+    "IlceKodu": 678,
+    "UlkeKodu": "TUR",
+    "IlKodu": "49",
+    "IlceAdi": "BULANIK"
+  },
+  {
+    "IlceKodu": 679,
+    "UlkeKodu": "TUR",
+    "IlKodu": "49",
+    "IlceAdi": "HASKÖY"
+  },
+  {
+    "IlceKodu": 680,
+    "UlkeKodu": "TUR",
+    "IlKodu": "49",
+    "IlceAdi": "KORKUT"
+  },
+  {
+    "IlceKodu": 681,
+    "UlkeKodu": "TUR",
+    "IlKodu": "49",
+    "IlceAdi": "MALAZGİRT"
+  },
+  {
+    "IlceKodu": 682,
+    "UlkeKodu": "TUR",
+    "IlKodu": "49",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 683,
+    "UlkeKodu": "TUR",
+    "IlKodu": "49",
+    "IlceAdi": "VARTO"
+  },
+  {
+    "IlceKodu": 684,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "ACIGÖL"
+  },
+  {
+    "IlceKodu": 685,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "AVANOS"
+  },
+  {
+    "IlceKodu": 686,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "DERİNKUYU"
+  },
+  {
+    "IlceKodu": 687,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "GÜLŞEHİR"
+  },
+  {
+    "IlceKodu": 688,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "HACIBEKTAŞ"
+  },
+  {
+    "IlceKodu": 689,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "KOZAKLI"
+  },
+  {
+    "IlceKodu": 690,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 691,
+    "UlkeKodu": "TUR",
+    "IlKodu": "50",
+    "IlceAdi": "ÜRGÜP"
+  },
+  {
+    "IlceKodu": 692,
+    "UlkeKodu": "TUR",
+    "IlKodu": "51",
+    "IlceAdi": "ALTUNHİSAR"
+  },
+  {
+    "IlceKodu": 693,
+    "UlkeKodu": "TUR",
+    "IlKodu": "51",
+    "IlceAdi": "BOR"
+  },
+  {
+    "IlceKodu": 694,
+    "UlkeKodu": "TUR",
+    "IlKodu": "51",
+    "IlceAdi": "ÇAMARDI"
+  },
+  {
+    "IlceKodu": 695,
+    "UlkeKodu": "TUR",
+    "IlKodu": "51",
+    "IlceAdi": "ÇİFTLİK"
+  },
+  {
+    "IlceKodu": 696,
+    "UlkeKodu": "TUR",
+    "IlKodu": "51",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 697,
+    "UlkeKodu": "TUR",
+    "IlKodu": "51",
+    "IlceAdi": "ULUKIŞLA"
+  },
+  {
+    "IlceKodu": 698,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "AKKUŞ"
+  },
+  {
+    "IlceKodu": 699,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "AYBASTI"
+  },
+  {
+    "IlceKodu": 700,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "ÇAMAŞ"
+  },
+  {
+    "IlceKodu": 701,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "ÇATALPINAR"
+  },
+  {
+    "IlceKodu": 702,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "ÇAYBAŞI"
+  },
+  {
+    "IlceKodu": 703,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "FATSA"
+  },
+  {
+    "IlceKodu": 704,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "GÖLKÖY"
+  },
+  {
+    "IlceKodu": 705,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "GÜLYALI"
+  },
+  {
+    "IlceKodu": 706,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "GÜRGENTEPE"
+  },
+  {
+    "IlceKodu": 707,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "İKİZCE"
+  },
+  {
+    "IlceKodu": 708,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "KABADÜZ"
+  },
+  {
+    "IlceKodu": 709,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "KABATAŞ"
+  },
+  {
+    "IlceKodu": 710,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "KORGAN"
+  },
+  {
+    "IlceKodu": 711,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "KUMRU"
+  },
+  {
+    "IlceKodu": 712,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 713,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "MESUDİYE"
+  },
+  {
+    "IlceKodu": 714,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "PERŞEMBE"
+  },
+  {
+    "IlceKodu": 715,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "ULUBEY"
+  },
+  {
+    "IlceKodu": 716,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "ÜNYE"
+  },
+  {
+    "IlceKodu": 717,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "ARDEŞEN"
+  },
+  {
+    "IlceKodu": 718,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "ÇAMLIHEMŞİN"
+  },
+  {
+    "IlceKodu": 719,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "ÇAYELİ"
+  },
+  {
+    "IlceKodu": 720,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "DEREPAZARI"
+  },
+  {
+    "IlceKodu": 721,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "FINDIKLI"
+  },
+  {
+    "IlceKodu": 722,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "GÜNEYSU"
+  },
+  {
+    "IlceKodu": 723,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "HEMŞİN"
+  },
+  {
+    "IlceKodu": 724,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "İKİZDERE"
+  },
+  {
+    "IlceKodu": 725,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "İYİDERE"
+  },
+  {
+    "IlceKodu": 726,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "KALKANDERE"
+  },
+  {
+    "IlceKodu": 727,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 728,
+    "UlkeKodu": "TUR",
+    "IlKodu": "53",
+    "IlceAdi": "PAZAR"
+  },
+  {
+    "IlceKodu": 729,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "AKYAZI"
+  },
+  {
+    "IlceKodu": 730,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "FERİZLİ"
+  },
+  {
+    "IlceKodu": 731,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "GEYVE"
+  },
+  {
+    "IlceKodu": 732,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "HENDEK"
+  },
+  {
+    "IlceKodu": 733,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "KARAPÜRÇEK"
+  },
+  {
+    "IlceKodu": 734,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "KARASU"
+  },
+  {
+    "IlceKodu": 735,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "KAYNARCA"
+  },
+  {
+    "IlceKodu": 736,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "KOCAALİ"
+  },
+  {
+    "IlceKodu": 737,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 738,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "PAMUKOVA"
+  },
+  {
+    "IlceKodu": 739,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "SAPANCA"
+  },
+  {
+    "IlceKodu": 740,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "SÖĞÜTLÜ"
+  },
+  {
+    "IlceKodu": 741,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "TARAKLI"
+  },
+  {
+    "IlceKodu": 742,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "ARİFİYE"
+  },
+  {
+    "IlceKodu": 743,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "ERENLER"
+  },
+  {
+    "IlceKodu": 744,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "SERDİVAN"
+  },
+  {
+    "IlceKodu": 745,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "ALAÇAM"
+  },
+  {
+    "IlceKodu": 746,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "ASARCIK"
+  },
+  {
+    "IlceKodu": 747,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "AYVACIK"
+  },
+  {
+    "IlceKodu": 748,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "BAFRA"
+  },
+  {
+    "IlceKodu": 749,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "ÇARŞAMBA"
+  },
+  {
+    "IlceKodu": 750,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "HAVZA"
+  },
+  {
+    "IlceKodu": 751,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "KAVAK"
+  },
+  {
+    "IlceKodu": 753,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "LADİK"
+  },
+  {
+    "IlceKodu": 754,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 755,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "ONDOKUZMAYIS"
+  },
+  {
+    "IlceKodu": 756,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "SALIPAZARI"
+  },
+  {
+    "IlceKodu": 757,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "TEKKEKÖY"
+  },
+  {
+    "IlceKodu": 758,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "TERME"
+  },
+  {
+    "IlceKodu": 759,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "VEZİRKÖPRÜ"
+  },
+  {
+    "IlceKodu": 760,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "YAKAKENT"
+  },
+  {
+    "IlceKodu": 761,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "ATAKUM"
+  },
+  {
+    "IlceKodu": 762,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "CANİK"
+  },
+  {
+    "IlceKodu": 763,
+    "UlkeKodu": "TUR",
+    "IlKodu": "55",
+    "IlceAdi": "İLKADIM"
+  },
+  {
+    "IlceKodu": 764,
+    "UlkeKodu": "TUR",
+    "IlKodu": "56",
+    "IlceAdi": "AYDINLAR"
+  },
+  {
+    "IlceKodu": 765,
+    "UlkeKodu": "TUR",
+    "IlKodu": "56",
+    "IlceAdi": "BAYKAN"
+  },
+  {
+    "IlceKodu": 766,
+    "UlkeKodu": "TUR",
+    "IlKodu": "56",
+    "IlceAdi": "ERUH"
+  },
+  {
+    "IlceKodu": 767,
+    "UlkeKodu": "TUR",
+    "IlKodu": "56",
+    "IlceAdi": "KURTALAN"
+  },
+  {
+    "IlceKodu": 768,
+    "UlkeKodu": "TUR",
+    "IlKodu": "56",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 769,
+    "UlkeKodu": "TUR",
+    "IlKodu": "56",
+    "IlceAdi": "PERVARİ"
+  },
+  {
+    "IlceKodu": 770,
+    "UlkeKodu": "TUR",
+    "IlKodu": "56",
+    "IlceAdi": "ŞİRVAN"
+  },
+  {
+    "IlceKodu": 771,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "AYANCIK"
+  },
+  {
+    "IlceKodu": 772,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "BOYABAT"
+  },
+  {
+    "IlceKodu": 773,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "DİKMEN"
+  },
+  {
+    "IlceKodu": 774,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "DURAĞAN"
+  },
+  {
+    "IlceKodu": 775,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "ERFELEK"
+  },
+  {
+    "IlceKodu": 776,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "GERZE"
+  },
+  {
+    "IlceKodu": 777,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 778,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "SARAYDÜZÜ"
+  },
+  {
+    "IlceKodu": 779,
+    "UlkeKodu": "TUR",
+    "IlKodu": "57",
+    "IlceAdi": "TÜRKELİ"
+  },
+  {
+    "IlceKodu": 780,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "AKINCILAR"
+  },
+  {
+    "IlceKodu": 781,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "ALTINYAYLA"
+  },
+  {
+    "IlceKodu": 782,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "DİVRİĞİ"
+  },
+  {
+    "IlceKodu": 783,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "DOĞANŞAR"
+  },
+  {
+    "IlceKodu": 784,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "GEMEREK"
+  },
+  {
+    "IlceKodu": 785,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "GÖLOVA"
+  },
+  {
+    "IlceKodu": 786,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "GÜRÜN"
+  },
+  {
+    "IlceKodu": 787,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "HAFİK"
+  },
+  {
+    "IlceKodu": 788,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "İMRANLI"
+  },
+  {
+    "IlceKodu": 789,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "KANGAL"
+  },
+  {
+    "IlceKodu": 790,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "KOYULHİSAR"
+  },
+  {
+    "IlceKodu": 791,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 792,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "SUŞEHRİ"
+  },
+  {
+    "IlceKodu": 793,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "ŞARKIŞLA"
+  },
+  {
+    "IlceKodu": 794,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "ULAŞ"
+  },
+  {
+    "IlceKodu": 795,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "YILDIZELİ"
+  },
+  {
+    "IlceKodu": 796,
+    "UlkeKodu": "TUR",
+    "IlKodu": "58",
+    "IlceAdi": "ZARA"
+  },
+  {
+    "IlceKodu": 797,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "ÇERKEZKÖY"
+  },
+  {
+    "IlceKodu": 798,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "ÇORLU"
+  },
+  {
+    "IlceKodu": 799,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "HAYRABOLU"
+  },
+  {
+    "IlceKodu": 800,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "MALKARA"
+  },
+  {
+    "IlceKodu": 801,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "MARMARA EREĞLİS"
+  },
+  {
+    "IlceKodu": 802,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 803,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "MURATLI"
+  },
+  {
+    "IlceKodu": 804,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "SARAY"
+  },
+  {
+    "IlceKodu": 805,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "ŞARKÖY"
+  },
+  {
+    "IlceKodu": 806,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "ALMUS"
+  },
+  {
+    "IlceKodu": 807,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "ARTOVA"
+  },
+  {
+    "IlceKodu": 808,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "BAŞÇİFTLİK"
+  },
+  {
+    "IlceKodu": 809,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "ERBAA"
+  },
+  {
+    "IlceKodu": 810,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 811,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "NİKSAR"
+  },
+  {
+    "IlceKodu": 812,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "PAZAR"
+  },
+  {
+    "IlceKodu": 813,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "REŞADİYE"
+  },
+  {
+    "IlceKodu": 814,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "SULUSARAY"
+  },
+  {
+    "IlceKodu": 815,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "TURHAL"
+  },
+  {
+    "IlceKodu": 816,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "YEŞİLYURT"
+  },
+  {
+    "IlceKodu": 817,
+    "UlkeKodu": "TUR",
+    "IlKodu": "60",
+    "IlceAdi": "ZİLE"
+  },
+  {
+    "IlceKodu": 818,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "AKÇAABAT"
+  },
+  {
+    "IlceKodu": 819,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "ARAKLI"
+  },
+  {
+    "IlceKodu": 820,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "ARSİN"
+  },
+  {
+    "IlceKodu": 821,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "BEŞİKDÜZÜ"
+  },
+  {
+    "IlceKodu": 822,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "ÇARŞIBAŞI"
+  },
+  {
+    "IlceKodu": 823,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "ÇAYKARA"
+  },
+  {
+    "IlceKodu": 824,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "DERNEKPAZARI"
+  },
+  {
+    "IlceKodu": 825,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "DÜZKÖY"
+  },
+  {
+    "IlceKodu": 826,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "HAYRAT"
+  },
+  {
+    "IlceKodu": 827,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "KÖPRÜBAŞI"
+  },
+  {
+    "IlceKodu": 828,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "MAÇKA"
+  },
+  {
+    "IlceKodu": 829,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 830,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "OF"
+  },
+  {
+    "IlceKodu": 831,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "SÜRMENE"
+  },
+  {
+    "IlceKodu": 832,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "ŞALPAZARI"
+  },
+  {
+    "IlceKodu": 833,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "TONYA"
+  },
+  {
+    "IlceKodu": 834,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "VAKFIKEBİR"
+  },
+  {
+    "IlceKodu": 835,
+    "UlkeKodu": "TUR",
+    "IlKodu": "61",
+    "IlceAdi": "YOMRA"
+  },
+  {
+    "IlceKodu": 836,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "ÇEMİŞGEZEK"
+  },
+  {
+    "IlceKodu": 837,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "HOZAT"
+  },
+  {
+    "IlceKodu": 838,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "MAZGİRT"
+  },
+  {
+    "IlceKodu": 839,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 840,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "NAZİMİYE"
+  },
+  {
+    "IlceKodu": 841,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "OVACIK"
+  },
+  {
+    "IlceKodu": 842,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "PERTEK"
+  },
+  {
+    "IlceKodu": 843,
+    "UlkeKodu": "TUR",
+    "IlKodu": "62",
+    "IlceAdi": "PÜLÜMÜR"
+  },
+  {
+    "IlceKodu": 844,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "AKÇAKALE"
+  },
+  {
+    "IlceKodu": 845,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "BİRECİK"
+  },
+  {
+    "IlceKodu": 846,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "BOZOVA"
+  },
+  {
+    "IlceKodu": 847,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "CEYLANPINAR"
+  },
+  {
+    "IlceKodu": 848,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "HALFETİ"
+  },
+  {
+    "IlceKodu": 849,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "HARRAN"
+  },
+  {
+    "IlceKodu": 850,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "HİLVAN"
+  },
+  {
+    "IlceKodu": 851,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 852,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "SİVEREK"
+  },
+  {
+    "IlceKodu": 853,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "SURUÇ"
+  },
+  {
+    "IlceKodu": 854,
+    "UlkeKodu": "TUR",
+    "IlKodu": "63",
+    "IlceAdi": "VİRANŞEHİR"
+  },
+  {
+    "IlceKodu": 855,
+    "UlkeKodu": "TUR",
+    "IlKodu": "64",
+    "IlceAdi": "BANAZ"
+  },
+  {
+    "IlceKodu": 856,
+    "UlkeKodu": "TUR",
+    "IlKodu": "64",
+    "IlceAdi": "EŞME"
+  },
+  {
+    "IlceKodu": 857,
+    "UlkeKodu": "TUR",
+    "IlKodu": "64",
+    "IlceAdi": "KARAHALLI"
+  },
+  {
+    "IlceKodu": 858,
+    "UlkeKodu": "TUR",
+    "IlKodu": "64",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 859,
+    "UlkeKodu": "TUR",
+    "IlKodu": "64",
+    "IlceAdi": "SİVASLI"
+  },
+  {
+    "IlceKodu": 860,
+    "UlkeKodu": "TUR",
+    "IlKodu": "64",
+    "IlceAdi": "ULUBEY"
+  },
+  {
+    "IlceKodu": 861,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "BAHÇESARAY"
+  },
+  {
+    "IlceKodu": 862,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "BAŞKALE"
+  },
+  {
+    "IlceKodu": 863,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "ÇALDIRAN"
+  },
+  {
+    "IlceKodu": 864,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "ÇATAK"
+  },
+  {
+    "IlceKodu": 865,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "EDREMİT"
+  },
+  {
+    "IlceKodu": 866,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "ERCİŞ"
+  },
+  {
+    "IlceKodu": 867,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "GEVAŞ"
+  },
+  {
+    "IlceKodu": 868,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "GÜRPINAR"
+  },
+  {
+    "IlceKodu": 869,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 870,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "MURADİYE"
+  },
+  {
+    "IlceKodu": 871,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "ÖZALP"
+  },
+  {
+    "IlceKodu": 872,
+    "UlkeKodu": "TUR",
+    "IlKodu": "65",
+    "IlceAdi": "SARAY"
+  },
+  {
+    "IlceKodu": 873,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "AKDAĞMADENİ"
+  },
+  {
+    "IlceKodu": 874,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "AYDINCIK"
+  },
+  {
+    "IlceKodu": 875,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "BOĞAZLIYAN"
+  },
+  {
+    "IlceKodu": 876,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "ÇANDIR"
+  },
+  {
+    "IlceKodu": 877,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "ÇAYIRALAN"
+  },
+  {
+    "IlceKodu": 878,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "ÇEKEREK"
+  },
+  {
+    "IlceKodu": 879,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "KADIŞEHRİ"
+  },
+  {
+    "IlceKodu": 880,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 881,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "SARAYKENT"
+  },
+  {
+    "IlceKodu": 882,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "SARIKAYA"
+  },
+  {
+    "IlceKodu": 883,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "SORGUN"
+  },
+  {
+    "IlceKodu": 884,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "ŞEFAATLİ"
+  },
+  {
+    "IlceKodu": 885,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "YENİFAKILI"
+  },
+  {
+    "IlceKodu": 886,
+    "UlkeKodu": "TUR",
+    "IlKodu": "66",
+    "IlceAdi": "YERKÖY"
+  },
+  {
+    "IlceKodu": 887,
+    "UlkeKodu": "TUR",
+    "IlKodu": "67",
+    "IlceAdi": "ALAPLI"
+  },
+  {
+    "IlceKodu": 888,
+    "UlkeKodu": "TUR",
+    "IlKodu": "67",
+    "IlceAdi": "ÇAYCUMA"
+  },
+  {
+    "IlceKodu": 889,
+    "UlkeKodu": "TUR",
+    "IlKodu": "67",
+    "IlceAdi": "DEVREK"
+  },
+  {
+    "IlceKodu": 890,
+    "UlkeKodu": "TUR",
+    "IlKodu": "67",
+    "IlceAdi": "GÖKÇEBEY"
+  },
+  {
+    "IlceKodu": 891,
+    "UlkeKodu": "TUR",
+    "IlKodu": "67",
+    "IlceAdi": "KARADENİZ EREĞL"
+  },
+  {
+    "IlceKodu": 892,
+    "UlkeKodu": "TUR",
+    "IlKodu": "67",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 893,
+    "UlkeKodu": "TUR",
+    "IlKodu": "68",
+    "IlceAdi": "AĞAÇÖREN"
+  },
+  {
+    "IlceKodu": 894,
+    "UlkeKodu": "TUR",
+    "IlKodu": "68",
+    "IlceAdi": "ESKİL"
+  },
+  {
+    "IlceKodu": 895,
+    "UlkeKodu": "TUR",
+    "IlKodu": "68",
+    "IlceAdi": "GÜLAĞAÇ"
+  },
+  {
+    "IlceKodu": 896,
+    "UlkeKodu": "TUR",
+    "IlKodu": "68",
+    "IlceAdi": "GÜZELYURT"
+  },
+  {
+    "IlceKodu": 897,
+    "UlkeKodu": "TUR",
+    "IlKodu": "68",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 898,
+    "UlkeKodu": "TUR",
+    "IlKodu": "68",
+    "IlceAdi": "ORTAKÖY"
+  },
+  {
+    "IlceKodu": 899,
+    "UlkeKodu": "TUR",
+    "IlKodu": "68",
+    "IlceAdi": "SARIYAHŞİ"
+  },
+  {
+    "IlceKodu": 900,
+    "UlkeKodu": "TUR",
+    "IlKodu": "69",
+    "IlceAdi": "AYDINTEPE"
+  },
+  {
+    "IlceKodu": 901,
+    "UlkeKodu": "TUR",
+    "IlKodu": "69",
+    "IlceAdi": "DEMİRÖZÜ"
+  },
+  {
+    "IlceKodu": 902,
+    "UlkeKodu": "TUR",
+    "IlKodu": "69",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 903,
+    "UlkeKodu": "TUR",
+    "IlKodu": "70",
+    "IlceAdi": "AYRANCI"
+  },
+  {
+    "IlceKodu": 904,
+    "UlkeKodu": "TUR",
+    "IlKodu": "70",
+    "IlceAdi": "BAŞYAYLA"
+  },
+  {
+    "IlceKodu": 905,
+    "UlkeKodu": "TUR",
+    "IlKodu": "70",
+    "IlceAdi": "ERMENEK"
+  },
+  {
+    "IlceKodu": 906,
+    "UlkeKodu": "TUR",
+    "IlKodu": "70",
+    "IlceAdi": "KAZIMKARABEKİR"
+  },
+  {
+    "IlceKodu": 907,
+    "UlkeKodu": "TUR",
+    "IlKodu": "70",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 908,
+    "UlkeKodu": "TUR",
+    "IlKodu": "70",
+    "IlceAdi": "SARIVELİLER"
+  },
+  {
+    "IlceKodu": 909,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "BAHŞİLİ"
+  },
+  {
+    "IlceKodu": 910,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "BALIŞEYH"
+  },
+  {
+    "IlceKodu": 911,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "ÇELEBİ"
+  },
+  {
+    "IlceKodu": 912,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "DELİCE"
+  },
+  {
+    "IlceKodu": 913,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "KARAKEÇİLİ"
+  },
+  {
+    "IlceKodu": 914,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "KESKİN"
+  },
+  {
+    "IlceKodu": 915,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 916,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "SULAKYURT"
+  },
+  {
+    "IlceKodu": 917,
+    "UlkeKodu": "TUR",
+    "IlKodu": "71",
+    "IlceAdi": "YAHŞİHAN"
+  },
+  {
+    "IlceKodu": 918,
+    "UlkeKodu": "TUR",
+    "IlKodu": "72",
+    "IlceAdi": "BEŞİRİ"
+  },
+  {
+    "IlceKodu": 919,
+    "UlkeKodu": "TUR",
+    "IlKodu": "72",
+    "IlceAdi": "GERCÜŞ"
+  },
+  {
+    "IlceKodu": 920,
+    "UlkeKodu": "TUR",
+    "IlKodu": "72",
+    "IlceAdi": "HASANKEYF"
+  },
+  {
+    "IlceKodu": 921,
+    "UlkeKodu": "TUR",
+    "IlKodu": "72",
+    "IlceAdi": "KOZLUK"
+  },
+  {
+    "IlceKodu": 922,
+    "UlkeKodu": "TUR",
+    "IlKodu": "72",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 923,
+    "UlkeKodu": "TUR",
+    "IlKodu": "72",
+    "IlceAdi": "SASON"
+  },
+  {
+    "IlceKodu": 924,
+    "UlkeKodu": "TUR",
+    "IlKodu": "73",
+    "IlceAdi": "BEYTÜŞŞEBAP"
+  },
+  {
+    "IlceKodu": 925,
+    "UlkeKodu": "TUR",
+    "IlKodu": "73",
+    "IlceAdi": "CİZRE"
+  },
+  {
+    "IlceKodu": 926,
+    "UlkeKodu": "TUR",
+    "IlKodu": "73",
+    "IlceAdi": "GÜÇLÜKONAK"
+  },
+  {
+    "IlceKodu": 927,
+    "UlkeKodu": "TUR",
+    "IlKodu": "73",
+    "IlceAdi": "İDİL"
+  },
+  {
+    "IlceKodu": 928,
+    "UlkeKodu": "TUR",
+    "IlKodu": "73",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 929,
+    "UlkeKodu": "TUR",
+    "IlKodu": "73",
+    "IlceAdi": "SİLOPİ"
+  },
+  {
+    "IlceKodu": 930,
+    "UlkeKodu": "TUR",
+    "IlKodu": "73",
+    "IlceAdi": "ULUDERE"
+  },
+  {
+    "IlceKodu": 931,
+    "UlkeKodu": "TUR",
+    "IlKodu": "74",
+    "IlceAdi": "AMASRA"
+  },
+  {
+    "IlceKodu": 932,
+    "UlkeKodu": "TUR",
+    "IlKodu": "74",
+    "IlceAdi": "KURUCAŞİLE"
+  },
+  {
+    "IlceKodu": 933,
+    "UlkeKodu": "TUR",
+    "IlKodu": "74",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 934,
+    "UlkeKodu": "TUR",
+    "IlKodu": "74",
+    "IlceAdi": "ULUS"
+  },
+  {
+    "IlceKodu": 935,
+    "UlkeKodu": "TUR",
+    "IlKodu": "75",
+    "IlceAdi": "ÇILDIR"
+  },
+  {
+    "IlceKodu": 936,
+    "UlkeKodu": "TUR",
+    "IlKodu": "75",
+    "IlceAdi": "DAMAL"
+  },
+  {
+    "IlceKodu": 937,
+    "UlkeKodu": "TUR",
+    "IlKodu": "75",
+    "IlceAdi": "GÖLE"
+  },
+  {
+    "IlceKodu": 938,
+    "UlkeKodu": "TUR",
+    "IlKodu": "75",
+    "IlceAdi": "HANAK"
+  },
+  {
+    "IlceKodu": 939,
+    "UlkeKodu": "TUR",
+    "IlKodu": "75",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 940,
+    "UlkeKodu": "TUR",
+    "IlKodu": "75",
+    "IlceAdi": "POSOF"
+  },
+  {
+    "IlceKodu": 941,
+    "UlkeKodu": "TUR",
+    "IlKodu": "76",
+    "IlceAdi": "ARALIK"
+  },
+  {
+    "IlceKodu": 942,
+    "UlkeKodu": "TUR",
+    "IlKodu": "76",
+    "IlceAdi": "KARAKOYUNLU"
+  },
+  {
+    "IlceKodu": 943,
+    "UlkeKodu": "TUR",
+    "IlKodu": "76",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 944,
+    "UlkeKodu": "TUR",
+    "IlKodu": "76",
+    "IlceAdi": "TUZLUCA"
+  },
+  {
+    "IlceKodu": 945,
+    "UlkeKodu": "TUR",
+    "IlKodu": "77",
+    "IlceAdi": "ALTINOVA"
+  },
+  {
+    "IlceKodu": 946,
+    "UlkeKodu": "TUR",
+    "IlKodu": "77",
+    "IlceAdi": "ARMUTLU"
+  },
+  {
+    "IlceKodu": 947,
+    "UlkeKodu": "TUR",
+    "IlKodu": "77",
+    "IlceAdi": "ÇINARCIK"
+  },
+  {
+    "IlceKodu": 948,
+    "UlkeKodu": "TUR",
+    "IlKodu": "77",
+    "IlceAdi": "ÇİFTLİKKÖY"
+  },
+  {
+    "IlceKodu": 950,
+    "UlkeKodu": "TUR",
+    "IlKodu": "77",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 951,
+    "UlkeKodu": "TUR",
+    "IlKodu": "77",
+    "IlceAdi": "TERMAL"
+  },
+  {
+    "IlceKodu": 952,
+    "UlkeKodu": "TUR",
+    "IlKodu": "78",
+    "IlceAdi": "EFLANİ"
+  },
+  {
+    "IlceKodu": 953,
+    "UlkeKodu": "TUR",
+    "IlKodu": "78",
+    "IlceAdi": "ESKİPAZAR"
+  },
+  {
+    "IlceKodu": 954,
+    "UlkeKodu": "TUR",
+    "IlKodu": "78",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 955,
+    "UlkeKodu": "TUR",
+    "IlKodu": "78",
+    "IlceAdi": "OVACIK"
+  },
+  {
+    "IlceKodu": 956,
+    "UlkeKodu": "TUR",
+    "IlKodu": "78",
+    "IlceAdi": "SAFRANBOLU"
+  },
+  {
+    "IlceKodu": 957,
+    "UlkeKodu": "TUR",
+    "IlKodu": "78",
+    "IlceAdi": "YENİCE"
+  },
+  {
+    "IlceKodu": 958,
+    "UlkeKodu": "TUR",
+    "IlKodu": "79",
+    "IlceAdi": "ELBEYLİ"
+  },
+  {
+    "IlceKodu": 959,
+    "UlkeKodu": "TUR",
+    "IlKodu": "79",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 960,
+    "UlkeKodu": "TUR",
+    "IlKodu": "79",
+    "IlceAdi": "MUSABEYLİ"
+  },
+  {
+    "IlceKodu": 961,
+    "UlkeKodu": "TUR",
+    "IlKodu": "79",
+    "IlceAdi": "POLATELİ"
+  },
+  {
+    "IlceKodu": 962,
+    "UlkeKodu": "TUR",
+    "IlKodu": "80",
+    "IlceAdi": "BAHÇE"
+  },
+  {
+    "IlceKodu": 963,
+    "UlkeKodu": "TUR",
+    "IlKodu": "80",
+    "IlceAdi": "DÜZİÇİ"
+  },
+  {
+    "IlceKodu": 964,
+    "UlkeKodu": "TUR",
+    "IlKodu": "80",
+    "IlceAdi": "HASANBEYLİ"
+  },
+  {
+    "IlceKodu": 965,
+    "UlkeKodu": "TUR",
+    "IlKodu": "80",
+    "IlceAdi": "KADİRLİ"
+  },
+  {
+    "IlceKodu": 966,
+    "UlkeKodu": "TUR",
+    "IlKodu": "80",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 967,
+    "UlkeKodu": "TUR",
+    "IlKodu": "80",
+    "IlceAdi": "SUMBAS"
+  },
+  {
+    "IlceKodu": 968,
+    "UlkeKodu": "TUR",
+    "IlKodu": "80",
+    "IlceAdi": "TOPRAKKALE"
+  },
+  {
+    "IlceKodu": 969,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "AKÇAKOCA"
+  },
+  {
+    "IlceKodu": 970,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "CUMAYERİ"
+  },
+  {
+    "IlceKodu": 971,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "ÇİLİMLİ"
+  },
+  {
+    "IlceKodu": 972,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "GÖLYAKA"
+  },
+  {
+    "IlceKodu": 973,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "GÜMÜŞOVA"
+  },
+  {
+    "IlceKodu": 974,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "KAYNAŞLI"
+  },
+  {
+    "IlceKodu": 975,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 976,
+    "UlkeKodu": "TUR",
+    "IlKodu": "81",
+    "IlceAdi": "YIĞILCA"
+  },
+  {
+    "IlceKodu": 977,
+    "UlkeKodu": "000",
+    "IlKodu": "999",
+    "IlceAdi": "DİĞER"
+  },
+  {
+    "IlceKodu": 978,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "EFELER"
+  },
+  {
+    "IlceKodu": 979,
+    "UlkeKodu": "TUR",
+    "IlKodu": "09",
+    "IlceAdi": "YENIHISAR"
+  },
+  {
+    "IlceKodu": 980,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "ALTIEYLÜL"
+  },
+  {
+    "IlceKodu": 981,
+    "UlkeKodu": "TUR",
+    "IlKodu": "10",
+    "IlceAdi": "KARESİ"
+  },
+  {
+    "IlceKodu": 982,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "AKÇAKOCA"
+  },
+  {
+    "IlceKodu": 983,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "CUMAYERİ"
+  },
+  {
+    "IlceKodu": 984,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "GÖLKAYA"
+  },
+  {
+    "IlceKodu": 985,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "GÜMÜSOVA"
+  },
+  {
+    "IlceKodu": 986,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "YIGILCA"
+  },
+  {
+    "IlceKodu": 987,
+    "UlkeKodu": "TUR",
+    "IlKodu": "14",
+    "IlceAdi": "ÇILIMLI"
+  },
+  {
+    "IlceKodu": 988,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "MERKEZEFENDİ"
+  },
+  {
+    "IlceKodu": 989,
+    "UlkeKodu": "TUR",
+    "IlKodu": "20",
+    "IlceAdi": "PAMUKKALE"
+  },
+  {
+    "IlceKodu": 990,
+    "UlkeKodu": "TUR",
+    "IlKodu": "21",
+    "IlceAdi": "YENISEHIR"
+  },
+  {
+    "IlceKodu": 991,
+    "UlkeKodu": "TUR",
+    "IlKodu": "25",
+    "IlceAdi": "ILICA"
+  },
+  {
+    "IlceKodu": 992,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "ARSUZ"
+  },
+  {
+    "IlceKodu": 993,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "DEFNE"
+  },
+  {
+    "IlceKodu": 994,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 995,
+    "UlkeKodu": "TUR",
+    "IlKodu": "31",
+    "IlceAdi": "PAYAS"
+  },
+  {
+    "IlceKodu": 996,
+    "UlkeKodu": "TUR",
+    "IlKodu": "41",
+    "IlceAdi": "MERKEZ"
+  },
+  {
+    "IlceKodu": 997,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "YUNUSEMRE"
+  },
+  {
+    "IlceKodu": 998,
+    "UlkeKodu": "TUR",
+    "IlKodu": "45",
+    "IlceAdi": "ŞEHZADELER"
+  },
+  {
+    "IlceKodu": 999,
+    "UlkeKodu": "TUR",
+    "IlKodu": "46",
+    "IlceAdi": "ONİKİŞUBAT"
+  },
+  {
+    "IlceKodu": 1000,
+    "UlkeKodu": "TUR",
+    "IlKodu": "47",
+    "IlceAdi": "ARTUKLU"
+  },
+  {
+    "IlceKodu": 1001,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "MENTEŞE"
+  },
+  {
+    "IlceKodu": 1002,
+    "UlkeKodu": "TUR",
+    "IlKodu": "48",
+    "IlceAdi": "SEYDİKEMER"
+  },
+  {
+    "IlceKodu": 1003,
+    "UlkeKodu": "TUR",
+    "IlKodu": "52",
+    "IlceAdi": "ALTINORDU"
+  },
+  {
+    "IlceKodu": 1004,
+    "UlkeKodu": "TUR",
+    "IlKodu": "54",
+    "IlceAdi": "ADAPAZARI"
+  },
+  {
+    "IlceKodu": 1005,
+    "UlkeKodu": "TUR",
+    "IlKodu": "59",
+    "IlceAdi": "ERGENE"
+  }
+]

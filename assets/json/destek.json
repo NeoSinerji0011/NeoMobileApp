@@ -1,0 +1,35 @@
+[
+  {
+    "DestekIsim": "Assistans Firmaları",
+    "Altisim": "",
+    "Altisim2": ""
+  },
+  {
+    "DestekIsim": "Yol Yardımı / Çekici",
+    "Altisim": "",
+    "Altisim2": ""
+  },
+  {
+    "DestekIsim": "Eczane",
+    "Altisim": "Nöbetçi Eczaneler",
+    "Altisim2": "Tüm Eczaneler"
+  },
+  {
+    "DestekIsim": "Hastane",
+    "Altisim": "Devlet Hastaneleri",
+    "Altisim2": "Tüm Hastaneler"
+  },
+  {
+    "DestekIsim": "Lastik Tamiri",
+    "Altisim": "",
+    "Altisim2": ""
+  } ,
+  {
+    "DestekIsim": "Tamirhane",
+    "Altisim": "Oto servis ve tamirhane",
+    "Altisim2": "Oto boya kaporta"
+  }
+  
+  
+ 
+]

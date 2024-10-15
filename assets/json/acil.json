@@ -1,0 +1,32 @@
+[
+
+  
+  {
+    "AcilIsim": "Acil Servis",
+    "TelefonNo": "112"
+  },
+  {
+    "AcilIsim": "Polis/Trafik",
+    "TelefonNo": "155/154"
+  },
+  {
+    "AcilIsim": "İtfaiye",
+    "TelefonNo": "110"
+  },
+  {
+    "AcilIsim": "Elektrik Arıza",
+    "TelefonNo": "186"
+  },
+  {
+    "AcilIsim": "Doğalgaz Arıza",
+    "TelefonNo": "187"
+  },
+  {
+    "AcilIsim": "Sosyal Hizmet",
+    "TelefonNo": "183"
+  },
+  {
+    "AcilIsim": "Cenaze Hizmetleri",
+    "TelefonNo": "188"
+  }
+]

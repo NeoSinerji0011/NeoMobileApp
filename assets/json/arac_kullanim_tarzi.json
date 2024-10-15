@@ -1,0 +1,485 @@
+[
+  {
+    "KullanimTarziKodu": "111",
+    "Kod2": "10",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "HUSUSİ OTO",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "111",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "RENT A CAR",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "111",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "TAKSİ",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "111",
+    "Kod2": "13",
+    "KullanimSekliKodu": 1,
+    "KullanimTarzi": "ZIRHLI ARAÇ",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "111",
+    "Kod2": "14",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "DOLMUŞ (5-8 KOLTUK)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "121",
+    "Kod2": "10",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "JİP",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "121",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "JİP (SAV)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "121",
+    "Kod2": "12",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "JİP (SUV)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "121",
+    "Kod2": "13",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "JİP (RENT A CAR)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "121",
+    "Kod2": "14",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "JİP (TAKSİ)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "311",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "MİNİBÜS DOLMUŞ/HATLI (9-15 KOLTUK)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "311",
+    "Kod2": "11",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "MİNİBÜS (ÖZEL)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "311",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "MİNİBÜS (SERVİS)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "311",
+    "Kod2": "13",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "MİNİBÜS (RENT A CAR)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "311",
+    "Kod2": "14",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "MİNİBÜS (AMBULANS)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "311",
+    "Kod2": "15",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "MİNİBÜS (KARAVAN)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "311",
+    "Kod2": "16",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "MİNİBÜS (NAKLEN YAYIN ARACI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "411",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "K.OTOBÜS (16-30) YOLCU",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "411",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "K.OTOBÜS (SERVİS)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "411",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "K.OTOBÜS (ŞEHİRİÇİ)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "411",
+    "Kod2": "13",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "K.OTOBÜS DOLMUŞ/HATLI (16-30 KOLTUK)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "421",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "B.OTOBÜS (31 YOLCU ÜZERİ)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "421",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "B.OTOBÜS (SERVİS)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "421",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "B.OTOBÜS DOLMUŞ/HATLI (31+ KOLTUK)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "421",
+    "Kod2": "13",
+    "KullanimSekliKodu": 1,
+    "KullanimTarzi": "B.OTOBÜS (KÜTÜPHANE ARACI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "511",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYONET (AÇIK KASA)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "511",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYONET (KAPALI KASA)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "511",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYONET (PANEL/GLASS VAN)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "511",
+    "Kod2": "13",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYONET (TÜPGAZ TAŞIYICI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "511",
+    "Kod2": "14",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYONET (AMBULANS)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "511",
+    "Kod2": "15",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "KAMYONET (4+1 YOLCU HUSUSİ)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "511",
+    "Kod2": "16",
+    "KullanimSekliKodu": 1,
+    "KullanimTarzi": "KAMYONET (CENAZE ARACI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (AÇIK KASA)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (KAPALI KASA)",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (TÜP TAŞIYICI )",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "13",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (ÇÖP)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "14",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (İTFAİYE)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "15",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (DAMPERLİ)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "16",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (FRIGOFİRİK)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "17",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (TRANSMİKSERLİ)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "18",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (SİLOLU)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "19",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (BETON POMPALI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "20",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (KAYA)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "21",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (VİNÇLİ)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "521",
+    "Kod2": "22",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAMYON (KURTARICI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "523",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "TANKER",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "523",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "TANKER (ASİT TAŞIYICI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "523",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "TANKER (SU VE BENZ.MAD.TAŞ.)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "523",
+    "Kod2": "13",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "TANKER (PATLAYICI/PARLAYICI)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "526",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "ÇEKİCİ",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "526",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "ÇEKİCİ (TANKER)",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "532",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "RÖMORK",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "611",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "TRAKTÖR",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "611",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "BİÇERDÖVER",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "711",
+    "Kod2": "10",
+    "KullanimSekliKodu": 2,
+    "KullanimTarzi": "MOTOSİKLET",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "10",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "İŞ MAKİNASI",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "11",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "EKSKAVATÖR",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "12",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "LOADER",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "13",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "DOZER",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "14",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "SKREYPER",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "15",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "GREYDER",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "16",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "YOL SİLİNDİRİ",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "17",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "HAREKETLİ VİNÇ",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "18",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "KAPALI YER FORKLİFTİ",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "19",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "AÇIK YER FORKLİFTİ",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "20",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "HAREKETLİ KOMPRESÖR",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "21",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "HAREKETLİ TULUMBA",
+    "Durum": 0
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "22",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "DİĞER ARAÇLAR",
+    "Durum": 1
+  },
+  {
+    "KullanimTarziKodu": "911",
+    "Kod2": "23",
+    "KullanimSekliKodu": 0,
+    "KullanimTarzi": "MOBİL VİNÇ",
+    "Durum": 0
+  }
+]
