@@ -55,7 +55,7 @@ class NotificationResponse {
 
 Future getBildirimList({@required token, @required tckn}) async {
   String requestUrl =
-      "https://sigortadefterimv2api.azurewebsites.net/api/MobileApp/GetBildirim";
+      "https://localhost:44346/api/MobileApp/GetBildirim";
   Map<String, String> _formmap = {"tc": tckn};
 
   Map<String, String> _headers = {

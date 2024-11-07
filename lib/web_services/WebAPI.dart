@@ -23,7 +23,7 @@ import 'package:sigortadefterim/models/SigortaTuru.dart';
 import 'package:sigortadefterim/models/TVMDetay.dart';
 
 class WebAPI {
-  static const baseURL = "https://sigortadefterimv2api.azurewebsites.net/api/";
+  static const baseURL = "https://localhost:44346/api/";
   //static const baseURL = "https://localhost:44346/api/";
   static const oldBaseUrl = "https://mobilwebservice.azurewebsites.net";
 

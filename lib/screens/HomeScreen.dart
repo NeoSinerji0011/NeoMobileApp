@@ -461,7 +461,7 @@ class _HomeScreenState extends State<HomeScreen>
                 Positioned(
                     left: screenWidth / 2 - 60,
                     top: 50,
-                    //"https://sigortadefterimv2api.azurewebsites.net/Userphoto/noavatar.png"
+                    //"https://localhost:44346/Userphoto/noavatar.png"
                     child: CircleBar(
                         newPercentage: UtilsPolicy.countList["riskSkoru"] == 0
                             ? 0
@@ -469,9 +469,9 @@ class _HomeScreenState extends State<HomeScreen>
                                 UtilsPolicy.countList["riskSkoru"].toString()),
                         filePath: UtilsPolicy.kullaniciInfo != null
                             ? UtilsPolicy.kullaniciInfo[4].isEmpty
-                                ? "https://sigortadefterimv2api.azurewebsites.net/Userphoto/noavatar.png"
+                                ? "https://localhost:44346/Userphoto/noavatar.png"
                                 : UtilsPolicy.kullaniciInfo[4]
-                            : "https://sigortadefterimv2api.azurewebsites.net/Userphoto/noavatar.png"))
+                            : "https://localhost:44346/Userphoto/noavatar.png"))
               ],
             )),
       ),

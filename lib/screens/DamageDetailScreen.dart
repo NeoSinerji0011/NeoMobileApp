@@ -801,7 +801,7 @@ class _DamageDetailScreenState extends State<DamageDetailScreen> {
                   itemBuilder: (BuildContext bContext, index) {
                     var item = policyResponseFileResimList[index];
                     var filepath = item.dosyaUrl;
-                    //https://sigortadefterimv2api.azurewebsites.net/Damageimages/02a10dce-a4dc-4642-b4e3-a7cd4f61c351.png
+                    //https://localhost:44346/Damageimages/02a10dce-a4dc-4642-b4e3-a7cd4f61c351.png
                     return Container(
                         width: 120,
                         height: 75,
@@ -853,7 +853,7 @@ class _DamageDetailScreenState extends State<DamageDetailScreen> {
                     var item = policyResponseFileSesList[index];
                     var filepath = item.dosyaUrl;
 
-                    //https://sigortadefterimv2api.azurewebsites.net/Damageimages/02a10dce-a4dc-4642-b4e3-a7cd4f61c351.png
+                    //https://localhost:44346/Damageimages/02a10dce-a4dc-4642-b4e3-a7cd4f61c351.png
                     return Container(
                         width: MediaQuery.of(context).size.width - 45,
                         alignment: Alignment(0.0, 0.0),
